@@ -1,8 +1,11 @@
-# FE-Data
+from feboun.download.main import download_all_data
 
-This data set includes:
+from pathlib import Path
 
-```bash
+working_dir = Path.cwd()
+
+data_dir = "/Volumes/Data 1/Developer/FE-Project/data/indices/US"
+# List of stock tickers to download data for
 us_stocks_tickers = ['M', 'NOK', 'AVTR', 'BCS', 'VTRS', 'XOM', 'DIDIY', 'ORCL', 'HAL', 'HST', 'XPEV', 'GM', 'PATH',
                      'CFG', 'FCX', 'BTG', 'BSX', 'NCLH', 'PACB', 'KEY', 'KMI', 'OSH', 'AAL', 'TFC', 'RF', 'APE', 'JPM',
                      'RUN', 'SHOP', 'KGC', 'U', 'KO', 'AGNC', 'ROKU', 'LYFT', 'UBER', 'JD', 'NABL', 'HBAN', 'GOLD',
@@ -61,19 +64,8 @@ crypto_tickers = ['LEO-USD', 'UNI7083-USD', 'LINK-USD', 'TMG-USD', 'WBTC-USD', '
 us_indices_tickers = ["^GSPC", "^DJI", "^IXIC", "^RUT", "^W5000", "^MID", "^SML", "^OEX", "^NYA", "^VIX"]
 
 tr_indices_tickers = ["XU100.IS", "XBANK.IS", "XUSIN.IS", "XU030.IS"]
-```
-
-To add new data:
-
-```python
-from feboun.download.main import download_all_data
-from pathlib import Path
-working_dir = Path.cwd()
-
 # Call function to download historical data for all tickers
 if __name__ == '__main__':
-    tickers = list_of_tickers
+    tickers = us_indices_tickers
     to_dir = data_dir
     download_all_data(tickers, to_dir)
-```
-
