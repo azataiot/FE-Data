@@ -1,0 +1,101 @@
+Symbol	Name	Price (Intraday)	Change	% Change	Volume	Avg Vol (3 month)	Market Cap	PE Ratio (TTM)	52 Week Range
+PFE	Pfizer Inc.	41.50	-0.05	-0.12%	25.918M	23.219M	234.243B	7.60
+XOM	Exxon Mobil Corporation	115.05	-1.94	-1.66%	15.749M	17.174M	468.366B	8.82
+PBR	Petróleo Brasileiro S.A. - Petrobras	10.69	-0.18	-1.66%	12.685M	22.537M	69.721B	1.90
+MRO	Marathon Oil Corporation	25.52	-0.18	-0.70%	7.765M	10.791M	16.088B	4.85
+OXY	Occidental Petroleum Corporation	63.04	-1.53	-2.37%	10.455M	14.043M	56.845B	5.08
+HBAN	Huntington Bancshares Incorporated	11.19	+0.15	+1.36%	14.405M	20.386M	16.221B	7.72
+COP	ConocoPhillips	106.26	-1.49	-1.38%	4.757M	6.864M	128.774B	7.29
+UMC	United Microelectronics Corporation	8.53	+0.10	+1.19%	4.374M	7.483M	21.683B	7.48
+KMI	Kinder Morgan, Inc.	17.71	0.00	0.00%	7.616M	13.148M	39.812B	15.81
+DAL	Delta Air Lines, Inc.	33.69	+0.23	+0.69%	6.144M	10.03M	21.603B	16.20
+DVN	Devon Energy Corporation	52.91	-0.62	-1.16%	6.127M	10.497M	34.603B	5.80
+CVX	Chevron Corporation	167.65	-2.23	-1.31%	5.387M	8.983M	322.304B	9.29
+CVE	Cenovus Energy Inc.	17.78	-0.60	-3.26%	8.115M	7.49M	34.408B	7.47
+APA	APA Corporation	38.07	+0.08	+0.21%	5.085M	6.183M	11.847B	3.45
+TSM	Taiwan Semiconductor Manufacturing Company Limited	90.24	+0.04	+0.04%	5.869M	12.882M	467.992B	14.06
+BTU	Peabody Energy Corporation	25.25	-0.64	-2.47%	1.768M	4.11M	3.654B	3.12
+PBR-A	Petróleo Brasileiro S.A. - Petrobras	9.51	-0.17	-1.76%	4.06M	8.957M	66.665B	1.70
+SUZ	Suzano S.A.	7.99	-0.12	-1.48%	1.346M	1.625M	10.88B	2.36
+MPC	Marathon Petroleum Corporation	128.68	-4.03	-3.04%	3.217M	4.012M	56.828B	4.60
+DVAX	Dynavax Technologies Corporation	10.44	+0.41	+4.09%	1.284M	1.465M	1.333B	5.09
+ON	ON Semiconductor Corporation	75.34	-1.20	-1.57%	3.526M	7.042M	33.374B	18.79
+JWN	Nordstrom, Inc.	16.08	+0.10	+0.63%	3.054M	6.109M	2.625B	10.65
+VLO	Valero Energy Corporation	132.59	-2.50	-1.85%	3.117M	4.347M	48.772B	4.57
+MGM	MGM Resorts International	42.98	-0.20	-0.46%	3.688M	4.185M	16.342B	12.32
+ING	ING Groep N.V.	12.43	+0.28	+2.30%	2.866M	4.566M	44.947B	11.00
+RRC	Range Resources Corporation	26.36	-0.66	-2.44%	2.014M	5.138M	6.343B	5.57
+BHP	BHP Group Limited	59.96	-0.68	-1.12%	2.658M	3.205M	221.193B	8.34
+NI	NiSource Inc.	28.82	+0.13	+0.45%	3.003M	3.951M	11.888B	16.95
+EOG	EOG Resources, Inc.	119.37	-1.00	-0.83%	2.756M	3.981M	70.157B	9.03
+ALSN	Allison Transmission Holdings, Inc.	43.11	-0.85	-1.93%	799,813	797,108	4.113B	7.95
+MPW	Medical Properties Trust, Inc.	8.10	-0.01	-0.12%	6.996M	16.791M	4.852B	5.40
+TTE	TotalEnergies SE	62.80	+0.08	+0.13%	980,687	1.802M	154.204B	8.00
+TS	Tenaris S.A.	28.15	-0.27	-0.95%	1.181M	2.221M	17.21B	6.58
+IBN	ICICI Bank Limited	21.70	+0.04	+0.18%	3.634M	6.861M	75.758B	19.73
+ERF	Enerplus Corporation	14.89	-0.21	-1.39%	741,574	1.188M	3.239B	3.95
+FANG	Diamondback Energy, Inc.	140.55	-2.43	-1.70%	1.684M	2.426M	25.804B	5.81
+EQNR	Equinor ASA	28.72	-0.58	-1.98%	3.359M	3.652M	92.4B	3.25
+PSX	Phillips 66	102.84	-1.59	-1.52%	3.665M	3.766M	47.4B	4.42
+PBF	PBF Energy Inc.	40.51	-1.69	-4.00%	1.577M	2.833M	5.221B	1.77
+PXD	Pioneer Natural Resources Company	208.16	-2.24	-1.06%	1.693M	2.614M	49.002B	6.68
+PHM	PulteGroup, Inc.	57.84	-0.79	-1.35%	2.121M	2.672M	12.974B	5.25
+ENLC	EnLink Midstream, LLC	10.54	-0.26	-2.41%	1.928M	2.403M	4.961B	14.24
+DHI	D.R. Horton, Inc.	95.64	-1.75	-1.80%	3.508M	3.025M	32.842B	5.94
+UNM	Unum Group	38.84	-0.42	-1.07%	810,848	1.808M	7.712B	6.04
+UL	Unilever PLC	53.58	+0.26	+0.49%	1.958M	1.981M	135.427B	16.44
+ADM	Archer-Daniels-Midland Company	78.74	-0.67	-0.84%	2.339M	3.266M	43.027B	10.21
+BLDR	Builders FirstSource, Inc.	85.53	-0.43	-0.50%	1.862M	1.822M	11.804B	5.11
+OVV	Ovintiv Inc.	39.08	-0.30	-0.76%	2.636M	3.682M	9.501B	2.78
+CHS	Chico's FAS, Inc.	5.19	-0.03	-0.57%	1.487M	2.376M	649.01M	5.90
+HES	Hess Corporation	140.88	-1.33	-0.94%	1.419M	1.859M	43.135B	20.81
+MGY	Magnolia Oil & Gas Corporation	22.33	-0.47	-2.06%	861,086	2.088M	6.208B	4.74
+CF	CF Industries Holdings, Inc.	71.46	-1.70	-2.32%	2.296M	2.873M	14.004B	4.36
+ACI	Albertsons Companies, Inc.	21.05	+0.11	+0.53%	3.045M	4.045M	11.991B	8.52
+SNY	Sanofi	55.93	+1.09	+1.99%	2.686M	2.051M	139.681B	15.12
+GEO	The GEO Group, Inc.	8.11	+0.25	+3.18%	1.626M	2.548M	1.01B	7.05
+BBVA	Banco Bilbao Vizcaya Argentaria, S.A.	7.12	+0.08	+1.14%	1.528M	1.68M	42.81B	6.59
+PAGP	Plains GP Holdings, L.P.	13.55	+0.05	+0.37%	3.539M	2.735M	3.259B	15.76
+PDCE	PDC Energy, Inc.	65.75	-1.10	-1.65%	776,923	911,170	5.881B	3.66
+TTMI	TTM Technologies, Inc.	12.65	-0.07	-0.55%	399,325	488,335	1.32B	14.54
+MOS	The Mosaic Company	43.67	-2.62	-5.66%	6.241M	4.317M	15.542B	4.60
+TGNA	TEGNA Inc.	16.86	+0.14	+0.84%	676,630	2.221M	3.769B	6.00
+CI	The Cigna Group	265.29	-0.59	-0.22%	1.66M	1.764M	78.8B	12.45
+SM	SM Energy Company	29.62	-0.26	-0.87%	1.003M	1.875M	3.622B	3.31
+CPE	Callon Petroleum Company	35.38	-0.90	-2.48%	1.021M	1.51M	2.18B	1.89
+CAR	Avis Budget Group, Inc.	181.44	+3.56	+2.00%	382,715	534,517	7.214B	3.11
+DE	Deere & Company	369.65	-4.17	-1.12%	1.831M	1.583M	109.535B	13.74
+CPRI	Capri Holdings Limited	42.88	-1.76	-3.94%	2.879M	2.728M	5.39B	8.86
+STLD	Steel Dynamics, Inc.	103.43	+0.21	+0.20%	1.67M	1.891M	17.656B	4.94
+LEN	Lennar Corporation	102.06	-1.97	-1.89%	1.621M	2.26M	28.802B	6.34
+TEX	Terex Corporation	42.31	-0.57	-1.33%	1.387M	1.014M	2.964B	9.79
+DQ	Daqo New Energy Corp.	44.47	+0.47	+1.07%	1.034M	1.313M	3.42B	1.94
+SBS	Companhia de Saneamento Básico do Estado de São Paulo - SABESP	9.94	+0.06	+0.61%	1.875M	1.851M	6.842B	11.04
+BRX	Brixmor Property Group Inc.	20.78	-0.06	-0.29%	1.644M	2.612M	6.305B	17.76
+BDN	Brandywine Realty Trust	4.3300	+0.0400	+0.93%	1.711M	2.703M	751.034M	13.97
+GPK	Graphic Packaging Holding Company	25.06	-0.12	-0.48%	3.167M	3.187M	7.696B	14.83
+NTR	Nutrien Ltd.	68.01	-3.42	-4.79%	2.862M	2.21M	34.779B	4.80
+SAND	Sandstorm Gold Ltd.	6.20	+0.16	+2.65%	2.76M	2.633M	1.854B	18.79
+CCRN	Cross Country Healthcare, Inc.	21.50	-0.31	-1.42%	540,011	668,050	774.97M	4.34
+LC	LendingClub Corporation	6.75	+0.04	+0.60%	1.496M	2.164M	719.354M	2.51
+MTDR	Matador Resources Company	50.47	-0.02	-0.04%	1.043M	1.392M	6.01B	5.00
+SQM	Sociedad Química y Minera de Chile S.A.	73.36	-0.45	-0.61%	1.246M	1.626M	20.954B	5.36
+YPF	YPF Sociedad Anónima	11.16	-0.31	-2.70%	1.172M	2.814M	8.619B	3.21
+CVI	CVR Energy, Inc.	30.73	-0.67	-2.13%	842,344	963,204	3.089B	6.68
+ALB	Albemarle Corporation	194.68	-2.03	-1.03%	2.014M	1.739M	24.329B	8.52
+MP	MP Materials Corp.	26.55	+0.18	+0.68%	1.802M	2.071M	4.88B	18.70
+UGP	Ultrapar Participações S.A.	2.8200	0.0000	0.00%	2.883M	1.607M	3.071B	10.44
+AN	AutoNation, Inc.	126.26	-2.59	-2.01%	569,565	791,082	5.921B	5.30
+AXL	American Axle & Manufacturing Holdings, Inc.	7.13	-0.19	-2.60%	767,673	1.05M	832.891M	13.71
+JBL	Jabil Inc.	82.08	-1.12	-1.35%	786,418	1.372M	11.189B	11.91
+BWA	BorgWarner Inc.	46.06	-0.34	-0.73%	2.015M	2.086M	10.768B	11.54
+AIRC	Apartment Income REIT Corp.	35.60	+0.48	+1.37%	730,219	823,924	5.308B	6.13
+TPH	Tri Pointe Homes, Inc.	24.75	-0.53	-2.10%	1.086M	950,298	2.518B	4.48
+EC	Ecopetrol S.A.	10.91	-0.23	-2.06%	1.068M	2.208M	22.429B	3.29
+HCC	Warrior Met Coal, Inc.	35.31	-0.54	-1.51%	283,923	627,233	1.845B	2.85
+LADR	Ladder Capital Corp	9.17	+0.02	+0.22%	678,669	814,548	1.165B	8.12
+SD	SandRidge Energy, Inc.	15.33	+0.02	+0.13%	423,322	540,619	565.392M	2.34
+CHTR	Charter Communications, Inc.	350.27	-2.85	-0.81%	765,105	1.133M	53.469B	11.59
+METC	Ramaco Resources, Inc.	8.60	-0.10	-1.15%	214,521	380,630	387.559M	3.31
+AVT	Avnet, Inc.	43.26	-0.53	-1.21%	402,805	586,925	3.953B	4.87
+GSL	Global Ship Lease, Inc.	18.41	-0.10	-0.54%	333,376	553,688	653.391M	2.41

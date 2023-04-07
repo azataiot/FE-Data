@@ -17,6 +17,4 @@ sector_list = [
 
 # Create the pandas dataframe from the sector list
 sectors = pd.DataFrame(sector_list)
-
-
-
+sectors.to_csv("sectors.csv", index=False)

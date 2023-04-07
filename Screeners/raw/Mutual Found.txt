@@ -1,0 +1,101 @@
+Symbol	Name	Change	% Change	Price (Intraday)	50 Day Average	200 Day Average	3-Mo Return	YTD Return	52 Week Range
+FXAIX	Fidelity 500 Index Fund	+0.54	+0.38%	141.93	140.06	137.05	5.87%	7.43%
+CLBAX	American Funds American Balanced Fund Class 529-A	+0.03	+0.10%	29.54	29.23	28.87	1.79%	3.38%
+RLBBX	American Funds American Balanced Fund	+0.03	+0.10%	29.38	29.06	28.70	1.61%	3.18%
+BALCX	American Funds American Balanced Fund	+0.03	+0.10%	29.38	29.06	28.70	1.61%	3.18%
+FBAFX	American Funds American Balanced Fund	+0.03	+0.10%	29.60	29.30	28.93	1.85%	3.45%
+FBONX	American Funds American Balanced Fund	+0.04	+0.14%	29.59	29.29	28.93	1.89%	3.49%
+RLBAX	American Funds American Balanced Fund	+0.03	+0.10%	29.35	29.03	28.67	1.61%	3.18%
+CLBCX	American Funds American Balanced Fund	+0.03	+0.10%	29.58	29.26	28.90	1.59%	3.18%
+RLBFX	American Funds American Balanced Fund Class R-5	+0.03	+0.10%	29.64	29.34	28.97	1.86%	3.45%
+AMBFX	American Balanced Fund	+0.03	+0.10%	29.58	29.27	28.91	N/A	N/A
+ABALX	American Funds American Balanced Fund Class A	+0.03	+0.10%	29.60	29.30	28.93	1.79%	3.39%
+BALFX	American Funds American Balanced Fund	+0.04	+0.14%	29.57	29.27	28.90	1.82%	3.41%
+RLBCX	American Funds American Balanced Fund Class R-3	+0.04	+0.14%	29.42	29.11	28.75	1.75%	3.32%
+CLBEX	American Funds American Balanced Fund Class 529-E	+0.04	+0.14%	29.52	29.21	28.85	1.76%	3.32%
+RLEFX	American Funds American Balanced Fund	+0.03	+0.10%	29.57	29.27	28.90	1.84%	3.43%
+RLBGX	American Funds American Balanced Fund Class R-6	+0.03	+0.10%	29.61	29.31	28.94	1.87%	3.47%
+RLBEX	American Funds American Balanced Fund	+0.03	+0.10%	29.55	29.24	28.88	1.82%	3.38%
+CLBFX	American Funds American Balanced Fund Class 529-F	+0.03	+0.10%	29.51	29.21	28.84	1.85%	3.44%
+RAMHX	American Funds American Balanced Fund Class R-2E	+0.03	+0.10%	29.46	29.15	28.79	1.68%	3.24%
+AFMBX	American Funds American Balanced Fund	+0.03	+0.10%	29.59	29.28	28.92	1.91%	3.47%
+CIREX	American Funds Capital Income Builder Class 529-E	+0.15	+0.23%	64.22	63.74	62.75	0.70%	2.82%
+CAIBX	American Funds Capital Income Builder Class A	+0.15	+0.23%	64.21	63.74	62.74	0.76%	2.89%
+RIRHX	American Funds Capital Income Builder	+0.15	+0.23%	64.09	63.63	62.64	0.79%	2.93%
+RIRBX	American Funds Capital Income Builder Class R-2	+0.15	+0.23%	64.27	63.77	62.77	0.57%	2.69%
+RIRCX	American Funds Capital Income Builder Class R-3	+0.14	+0.22%	64.24	63.75	62.76	0.67%	2.79%
+CAIFX	American Funds Capital Income Builder	+0.15	+0.23%	64.14	63.68	62.68	0.83%	2.96%
+CIRFX	American Funds Capital Income Builder	+0.15	+0.23%	64.16	63.70	62.70	0.79%	2.92%
+FBCIX	American Funds Capital Income Builder	+0.15	+0.23%	64.21	63.75	62.75	0.83%	2.96%
+RIREX	American Funds Capital Income Builder Class R-4	+0.15	+0.23%	64.19	63.72	62.72	0.76%	2.89%
+RIRAX	American Funds Capital Income Builder	+0.15	+0.23%	64.31	63.81	62.81	0.57%	2.69%
+CIBCX	American Funds Capital Income Builder Class C	+0.15	+0.23%	64.41	63.91	62.91	0.56%	2.68%
+CIBFX	American Funds Capital Income Builder	+0.15	+0.23%	64.21	63.74	62.74	0.75%	2.88%
+RIRFX	American Funds Capital Income Builder	+0.15	+0.23%	64.21	63.76	62.76	0.82%	2.95%
+FWCBX	American Funds Capital Income Builder	+0.15	+0.23%	64.19	63.73	62.73	0.83%	2.96%
+CFIHX	American Funds Capital Income Builder	+0.15	+0.23%	64.17	63.72	62.72	0.83%	2.98%
+RIRGX	American Funds Capital Income Builder	+0.15	+0.23%	64.18	63.73	62.73	0.85%	2.98%
+CIRCX	Capital Income Builder Class 529-C Shares	+0.15	+0.23%	64.40	63.90	62.89	0.55%	2.67%
+RCEEX	American Funds Capital Income Builder Class R-2E	+0.15	+0.23%	63.93	63.45	62.46	0.64%	2.76%
+CIRAX	American Funds Capital Income Builder Class 529-A	+0.15	+0.23%	64.18	63.72	62.72	0.75%	2.88%
+DODGX	Dodge & Cox Stock Fund - Class I	+0.89	+0.41%	216.04	221.39	219.96	N/A	N/A
+CFAEX	American Funds The Bond Fund of America	0.00	0.00%	11.74	11.53	11.57	2.10%	3.94%
+BFAFX	American Funds The Bond Fund of America Class F-1	0.00	0.00%	11.74	11.53	11.57	2.16%	3.99%
+BFFAX	American Funds The Bond Fund of America Class F-3	0.00	0.00%	11.74	11.53	11.57	2.25%	4.10%
+ABNFX	American Funds The Bond Fund of America Class F-2	0.00	0.00%	11.74	11.53	11.57	2.23%	4.07%
+CFAFX	American Funds The Bond Fund of America	0.00	0.00%	11.74	11.53	11.57	2.20%	4.04%
+RBFEX	American Funds The Bond Fund of America Class R-4	0.00	0.00%	11.74	11.53	11.57	2.17%	4.01%
+RBFFX	American Funds The Bond Fund of America Class R-5	0.00	0.00%	11.74	11.53	11.57	2.24%	4.09%
+CFAAX	American Funds The Bond Fund of America Class 529-A	0.00	0.00%	11.74	11.53	11.57	2.15%	3.99%
+RBFGX	American Funds The Bond Fund of America Class R-6	0.00	0.00%	11.74	11.53	11.57	2.25%	4.10%
+CFACX	American Funds The Bond Fund of America	0.00	0.00%	11.74	11.53	11.57	1.96%	3.78%
+FFBOX	American Funds The Bond Fund of America	0.00	0.00%	11.74	11.53	11.57	2.23%	4.08%
+RBEBX	American Funds The Bond Fund of America Class R-2E	0.00	0.00%	11.74	11.53	11.57	2.05%	3.88%
+RBFAX	American Funds The Bond Fund of America Class R-1	0.00	0.00%	11.74	11.53	11.57	1.98%	3.81%
+RBFBX	American Funds The Bond Fund of America Class R-2	0.00	0.00%	11.74	11.53	11.57	1.98%	3.80%
+RBFCX	American Funds The Bond Fund of America Class R-3	0.00	0.00%	11.74	11.53	11.57	2.09%	3.92%
+ABNDX	American Funds The Bond Fund of America Class A	0.00	0.00%	11.74	11.53	11.57	2.16%	4.00%
+FBOFX	American Funds The Bond Fund of America	0.00	0.00%	11.74	11.53	11.57	2.24%	4.08%
+BFACX	American Funds The Bond Fund of America Class C	0.00	0.00%	11.74	11.53	11.57	1.98%	3.80%
+RBFHX	American Funds The Bond Fund of America Class R-5E	0.00	0.00%	11.74	11.53	11.57	2.22%	4.06%
+DODIX	Dodge & Cox Income Fund	0.00	0.00%	12.56	12.46	12.41	1.95%	3.95%
+VWINX	Vanguard Wellesley Income Fund	+0.01	+0.04%	24.80	24.63	25.26	0.17%	2.26%
+VWIAX	Vanguard Wellesley Income Fund Admiral Shares	+0.02	+0.03%	60.08	59.67	61.20	N/A	N/A
+CNWEX	American Funds New World Fund Class 529-E	+0.19	+0.28%	69.05	68.58	65.89	3.42%	6.11%
+RNWCX	American Funds New World Fund	+0.18	+0.26%	69.17	68.69	65.99	3.41%	6.10%
+RNWFX	American Funds New World Fund Class R-5	+0.19	+0.27%	70.60	70.08	67.46	3.57%	6.26%
+CNWAX	American Funds New World Fund Class 529-A	+0.19	+0.27%	69.65	69.16	66.49	3.48%	6.17%
+RNWBX	American Funds New World Fund	+0.18	+0.27%	67.23	66.80	64.08	3.31%	5.97%
+FWWNX	American Funds New World Fund	+0.19	+0.27%	70.14	69.63	67.03	3.56%	6.25%
+CNWCX	American Funds New World Fund Class 529-C	+0.18	+0.27%	67.20	66.78	64.02	3.26%	5.94%
+RNEBX	American Funds New World Fund	+0.18	+0.26%	69.09	68.62	65.89	3.37%	6.05%
+RNWAX	American Funds New World Fund	+0.18	+0.27%	67.20	66.77	64.08	3.31%	5.98%
+FNFWX	American Funds New World Fund	+0.19	+0.27%	70.27	69.75	67.13	3.56%	6.26%
+CNWFX	American Funds New World Fund Class 529-F	+0.19	+0.27%	69.44	68.94	66.34	3.52%	6.22%
+FNWFX	American Funds New World Fund	+0.19	+0.27%	70.41	69.89	67.29	3.58%	6.28%
+NFFFX	American Funds New World Fund	+0.19	+0.27%	70.17	69.65	67.03	3.56%	6.25%
+NEWFX	American Funds New World Fund Class A	+0.19	+0.27%	70.37	69.87	67.18	3.49%	6.17%
+RNWEX	American Funds - New World Fund Inc Class R-4 Shares	+0.18	+0.26%	69.90	69.40	66.74	N/A	N/A
+NWFFX	American Funds New World Fund Class F-1	+0.19	+0.27%	69.88	69.39	66.70	3.50%	6.18%
+RNWHX	American Funds New World Fund Class R-5E	+0.18	+0.26%	69.55	69.04	66.44	3.53%	6.23%
+NEWCX	American Funds New World Fund Class C	+0.18	+0.27%	67.10	66.67	63.91	3.30%	5.97%
+RNWGX	American Funds New World Fund Class R-6	+0.19	+0.27%	70.37	69.85	67.25	3.58%	6.28%
+TRAIX	T. Rowe Price Capital Appreciation Fund	+0.10	+0.32%	31.61	31.03	32.04	5.52%	6.70%
+PACLX	T. Rowe Price Capital Appreciation Fund	+0.10	+0.32%	31.13	30.57	31.54	5.44%	6.59%
+PRWCX	T. Rowe Price Capital Appreciation Fund	+0.10	+0.32%	31.61	31.03	32.00	5.49%	6.66%
+FRGLX	First Eagle Global Fund Class R5	-0.04	-0.07%	61.25	60.09	58.09	3.41%	6.53%
+EAGRX	First Eagle Global Fund Class R4	-0.03	-0.05%	62.16	60.99	58.92	3.41%	6.53%
+FESGX	First Eagle Global Fund Class C	-0.03	-0.05%	59.02	57.95	56.17	3.22%	6.31%
+FEGRX	First Eagle Global Fund Class R6	-0.03	-0.05%	62.17	60.98	58.99	3.50%	6.62%
+SGENX	First Eagle Global Fund	-0.03	-0.05%	61.78	60.62	58.59	3.42%	6.52%
+EARGX	First Eagle Global Fund Class R3	-0.04	-0.06%	61.73	60.57	58.56	3.35%	6.47%
+SGIIX	First Eagle Global Fund	-0.03	-0.05%	62.15	60.97	58.96	3.46%	6.59%
+JLGRX	JPMorgan Large Cap Growth Fund	+0.30	+0.60%	49.67	48.91	48.94	8.69%	7.19%
+OLGAX	JPMorgan Large Cap Growth Fund	+0.28	+0.60%	46.67	45.97	45.99	8.56%	7.09%
+JLGZX	JPMorgan Large Cap Growth Fund	+0.26	+0.59%	43.77	43.13	43.20	8.50%	7.02%
+OLGCX	JPMorgan Large Cap Growth Fund Class C	+0.18	+0.58%	30.84	30.40	30.71	8.44%	6.93%
+JLGPX	JPMorgan Large Cap Growth Fund	+0.28	+0.60%	47.00	46.30	46.33	8.57%	7.09%
+JLGMX	JPMorgan Large Cap Growth Fund	+0.30	+0.60%	50.31	49.53	49.57	8.71%	7.23%
+JLGQX	JPMorgan Large Cap Growth Fund	+0.29	+0.61%	47.82	47.10	47.15	8.63%	7.15%
+SEEGX	JPMorgan Large Cap Growth Fund I Class	+0.29	+0.61%	47.93	47.20	47.26	7.06%	7.80%
+FDGRX	Fidelity Growth Company Fund	+0.20	+0.77%	25.89	25.15	25.33	14.53%	15.90%

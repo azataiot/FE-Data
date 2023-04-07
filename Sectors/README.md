@@ -8,7 +8,7 @@ import pandas as pd
 # Create a list of dictionaries containing sector codes and names
 sector_list = [
     {"Code": "10", "Name": "Energy"},
-    {"Code": "15", "Name": "Materials"},
+    {"Code": "15", "Name": "Materials.csv"},
     {"Code": "20", "Name": "Industrials"},
     {"Code": "25", "Name": "Consumer Discretionary"},
     {"Code": "30", "Name": "Consumer Staples"},

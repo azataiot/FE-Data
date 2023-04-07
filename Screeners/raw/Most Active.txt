@@ -1,0 +1,101 @@
+Symbol	Name	Price (Intraday)	Change	% Change	Volume	Avg Vol (3 month)	Market Cap	PE Ratio (TTM)	52 Week Range
+TSLA	Tesla, Inc.	185.06	-0.46	-0.25%	123.858M	170.909M	609.343B	53.80
+AMC	AMC Entertainment Holdings, Inc.	4.9000	+0.8500	+20.99%	100.942M	38.519M	2.515B	N/A
+AI	C3.ai, Inc.	22.84	+1.75	+8.30%	60.067M	24.136M	2.8B	N/A
+GOOGL	Alphabet Inc.	108.42	+3.95	+3.78%	48.711M	40.002M	1.344T	22.87
+AMD	Advanced Micro Devices, Inc.	92.47	-0.09	-0.10%	47.778M	62.373M	154.294B	115.59
+AAPL	Apple Inc.	164.66	+0.90	+0.55%	45.39M	66.146M	2.621T	27.77
+AUY	Yamana Gold Inc.	5.85	-0.04	-0.68%	42.249M	13.456M	5.629B	N/A
+BAC	Bank of America Corporation	27.84	+0.20	+0.72%	40.875M	57.067M	223.82B	8.67
+APE	AMC Entertainment Holdings, Inc.	1.4900	-0.2200	-12.87%	40.394M	29.378M	3.942B	N/A
+NVDA	NVIDIA Corporation	270.37	+1.56	+0.58%	39.765M	50.26M	673.762B	115.05
+AMZN	Amazon.com, Inc.	102.06	+0.96	+0.95%	42.278M	66.431M	1.075T	N/A
+F	Ford Motor Company	12.33	-0.10	-0.80%	35.623M	69.141M	50.879B	N/A
+GOOG	Alphabet Inc.	108.90	+3.95	+3.76%	34.684M	32.357M	1.344T	22.97
+PLUG	Plug Power Inc.	9.27	-0.41	-4.24%	31.901M	18.308M	6.278B	N/A
+MSFT	Microsoft Corporation	291.60	+7.26	+2.55%	29.77M	31.809M	2.171T	31.56
+T	AT&T Inc.	19.65	+0.05	+0.24%	28.272M	31.958M	140.567B	N/A
+INTC	Intel Corporation	32.81	-0.02	-0.06%	28.517M	47.762M	138.062B	16.91
+SCHW	The Charles Schwab Corporation	49.35	+0.48	+0.98%	28.04M	23.473M	91.829B	14.10
+CCL	Carnival Corporation & plc	9.73	+0.07	+0.72%	27.821M	40.518M	12.926B	N/A
+BABA	Alibaba Group Holding Limited	102.74	+4.19	+4.25%	26.671M	23.801M	265.84B	56.45
+META	Meta Platforms, Inc.	216.10	+4.62	+2.18%	26.104M	31.846M	556.691B	24.70
+PFE	Pfizer Inc.	41.50	-0.05	-0.12%	25.918M	23.219M	234.243B	7.60
+SOFI	SoFi Technologies, Inc.	5.75	+0.01	+0.17%	25.308M	37.631M	4.598B	N/A
+PLTR	Palantir Technologies Inc.	8.09	+0.11	+1.38%	23.076M	41.064M	17.788B	N/A
+WFC	Wells Fargo & Company	37.90	+1.01	+2.74%	22.919M	23.6M	143.152B	11.73
+FRC	First Republic Bank	14.03	+0.59	+4.39%	22.847M	31.92M	2.681B	1.85
+NIO	NIO Inc.	9.01	+0.05	+0.56%	22.788M	44.469M	15.077B	N/A
+BBD	Banco Bradesco S.A.	2.5900	-0.0500	-1.89%	22.906M	33.575M	27.563B	7.00
+WBD	Warner Bros. Discovery, Inc.	15.11	+0.32	+2.16%	21.819M	19.364M	37.698B	N/A
+VZ	Verizon Communications Inc.	39.48	+0.02	+0.06%	21.363M	19.91M	166.53B	7.93
+MU	Micron Technology, Inc.	58.56	+1.66	+2.91%	21.384M	15.527M	64.369B	41.53
+DNA	Ginkgo Bioworks Holdings, Inc.	1.3500	+0.1200	+9.76%	20.822M	20.138M	2.798B	N/A
+KEY	KeyCorp	11.91	+0.35	+3.03%	18.796M	21.055M	11.177B	6.20
+LEVI	Levi Strauss & Co.	15.14	-2.89	-16.03%	20.313M	2.534M	6.031B	10.74
+ABEV	Ambev S.A.	2.8400	+0.0200	+0.71%	19.563M	25.162M	44.706B	15.78
+ITUB	Itaú Unibanco Holding S.A.	4.8000	-0.0200	-0.41%	19.168M	33.133M	46.919B	8.14
+GOLD	Barrick Gold Corporation	19.73	+0.05	+0.25%	17.237M	19.118M	34.633B	82.21
+CMCSA	Comcast Corporation	37.69	-0.23	-0.61%	18.954M	19.36M	158.903B	31.15
+GRAB	Grab Holdings Limited	3.0300	-0.0900	-2.88%	16.311M	17.213M	11.747B	N/A
+CSX	CSX Corporation	30.02	+0.73	+2.49%	17.923M	14.044M	61.956B	15.39
+XOM	Exxon Mobil Corporation	115.05	-1.94	-1.66%	15.749M	17.174M	468.366B	8.82
+SNAP	Snap Inc.	10.56	+0.17	+1.64%	16.107M	33.014M	16.342B	N/A
+VALE	Vale S.A.	15.10	-0.08	-0.53%	15.367M	22.585M	70.531B	4.21
+RIVN	Rivian Automotive, Inc.	14.47	-0.16	-1.09%	14.753M	31.76M	12.783B	N/A
+CSCO	Cisco Systems, Inc.	51.27	-0.55	-1.06%	14.746M	18.181M	212.245B	18.99
+UBER	Uber Technologies, Inc.	31.18	+0.06	+0.19%	14.314M	24.405M	63.216B	N/A
+HBAN	Huntington Bancshares Incorporated	11.19	+0.15	+1.36%	14.405M	20.386M	16.221B	7.72
+ABNB	Airbnb, Inc.	109.69	-5.65	-4.90%	14.4M	6.337M	71.124B	42.52
+AAL	American Airlines Group Inc.	14.01	+0.12	+0.86%	14.067M	23.898M	19.207B	3.89
+LUMN	Lumen Technologies, Inc.	2.4300	+0.0100	+0.41%	13.766M	35.712M	2.443B	N/A
+SWN	Southwestern Energy Company	5.02	-0.10	-1.95%	13.789M	26.074M	5.522B	2.95
+PBR	Petróleo Brasileiro S.A. - Petrobras	10.69	-0.18	-1.66%	12.685M	22.537M	69.721B	1.90
+LYG	Lloyds Banking Group plc	2.3900	+0.0200	+0.84%	12.177M	11.073M	39.8B	6.64
+KGC	Kinross Gold Corporation	5.04	-0.01	-0.20%	12.055M	15.494M	6.222B	252.00
+USB	U.S. Bancorp	35.75	+0.64	+1.82%	11.777M	13.021M	54.761B	9.69
+C	Citigroup Inc.	45.86	+0.09	+0.20%	11.58M	20.157M	89.889B	6.45
+SHOP	Shopify Inc.	45.35	+0.16	+0.35%	11.852M	19.39M	60.969B	N/A
+RIG	Transocean Ltd.	6.36	-0.07	-1.09%	11.655M	25.266M	4.792B	N/A
+COIN	Coinbase Global, Inc.	61.44	+0.66	+1.09%	11.875M	20.239M	16.091B	6.28
+NYCB	New York Community Bancorp, Inc.	8.81	+0.05	+0.57%	11.661M	14.907M	6.037B	6.99
+SQ	Block, Inc.	68.10	+0.44	+0.65%	11.305M	16.023M	41.713B	N/A
+LYFT	Lyft, Inc.	9.43	+0.05	+0.53%	11.326M	21.365M	3.63B	N/A
+PCG	PG&E Corporation	16.71	+0.21	+1.27%	12.403M	14.66M	38.073B	19.43
+TFC	Truist Financial Corporation	32.74	+0.72	+2.25%	10.451M	12.613M	43.483B	7.39
+OXY	Occidental Petroleum Corporation	63.04	-1.53	-2.37%	10.455M	14.043M	56.845B	5.08
+LU	Lufax Holding Ltd	1.9700	+0.1400	+7.65%	10.247M	15.324M	5.206B	3.58
+GM	General Motors Company	34.59	-0.50	-1.42%	10.056M	15.484M	49.134B	5.83
+NOK	Nokia Oyj	4.8700	-0.0300	-0.61%	10.046M	17.479M	27.324B	6.09
+LAZR	Luminar Technologies, Inc.	5.66	-0.22	-3.74%	9.991M	12.812M	2.09B	N/A
+NCLH	Norwegian Cruise Line Holdings Ltd.	13.08	+0.16	+1.24%	9.887M	14.752M	5.586B	N/A
+BMY	Bristol-Myers Squibb Company	70.74	+1.49	+2.15%	9.137M	8.187M	148.787B	23.66
+KO	The Coca-Cola Company	62.84	+0.04	+0.06%	9.583M	13.917M	271.865B	28.69
+BSX	Boston Scientific Corporation	50.08	-0.66	-1.30%	8.554M	7.908M	71.981B	111.29
+RLX	RLX Technology Inc.	2.8800	+0.0700	+2.49%	9.614M	10.746M	4.458B	18.00
+ET	Energy Transfer LP	12.51	-0.25	-1.96%	9.482M	13.432M	38.713B	8.94
+M	Macy's, Inc.	18.48	+0.13	+0.71%	9.2M	9.921M	5.189B	4.41
+ETRN	Equitrans Midstream Corporation	5.12	+0.18	+3.64%	9.462M	5.143M	2.224B	N/A
+CS	Credit Suisse Group AG	0.8832	+0.0111	+1.27%	9.347M	47.02M	3.542B	N/A
+CHWRF	China Tower Corporation Limited	0.1500	+0.0377	+33.57%	9.491M	227,736	30.102B	15.00
+AMCR	Amcor plc	11.25	-0.06	-0.53%	8.335M	8.247M	16.715B	15.85
+SIRI	Sirius XM Holdings Inc.	3.9900	+0.0300	+0.76%	9.33M	17.241M	15.523B	12.87
+AFRM	Affirm Holdings, Inc.	10.57	+0.17	+1.63%	9.311M	19.121M	3.23B	N/A
+TECK	Teck Resources Limited	43.97	+1.74	+4.12%	9.166M	4.513M	23.431B	7.74
+PINS	Pinterest, Inc.	28.25	+0.92	+3.37%	8.972M	11.999M	19.779B	N/A
+DISH	DISH Network Corporation	8.77	+0.24	+2.81%	9.192M	6.669M	4.658B	2.36
+ROKU	Roku, Inc.	64.08	+2.81	+4.59%	9.17M	8.81M	9.689B	N/A
+ORCL	Oracle Corporation	95.92	+1.03	+1.09%	8.887M	7.204M	258.965B	31.66
+CLF	Cleveland-Cliffs Inc.	17.26	+0.34	+2.01%	8.929M	10.276M	9.189B	7.38
+DEA	Easterly Government Properties, Inc.	14.10	+0.75	+5.62%	8.964M	1.036M	2.511B	41.47
+BP	BP p.l.c.	39.51	-0.38	-0.95%	8.835M	10.205M	116.939B	N/A
+JPM	JPMorgan Chase & Co.	127.47	-0.14	-0.11%	8.739M	13.524M	376.458B	10.56
+S	SentinelOne, Inc.	16.65	+0.38	+2.34%	4.07M	5.943M	4.983B	N/A
+ERIC	Telefonaktiebolaget LM Ericsson (publ)	5.88	+0.02	+0.34%	8.804M	10.094M	19.581B	10.89
+CHPT	ChargePoint Holdings, Inc.	9.19	-0.15	-1.61%	8.525M	9.2M	3.221B	N/A
+RUN	Sunrun Inc.	18.58	-0.43	-2.26%	8.526M	9.195M	4.189B	24.77
+KDP	Keurig Dr Pepper Inc.	35.64	+0.24	+0.68%	8.512M	7.751M	50.126B	35.29
+HLN	Haleon plc	8.97	+0.34	+3.94%	8.51M	5.09M	41.417B	30.93
+NEM	Newmont Corporation	52.05	-0.02	-0.04%	8.117M	7.988M	41.354B	N/A
+MRVL	Marvell Technology, Inc.	39.26	-0.83	-2.07%	8.402M	11.855M	33.642B	N/A
+FITB	Fifth Third Bancorp	26.08	+0.31	+1.20%	8.396M	9.1M	17.762B	7.79

@@ -1,0 +1,101 @@
+Symbol	Name	Change	% Change	Price (Intraday)	50 Day Average	200 Day Average	3-Mo Return	YTD Return	52 Week Range
+FSPSX	Fidelity International Index Fund	+0.08	+0.18%	44.85	43.94	41.15	5.44%	9.08%
+GSIQX	Goldman Sachs GQG Partners International Opportunities Fund	+0.06	+0.35%	17.10	16.67	16.51	3.37%	5.28%
+GSIYX	Goldman Sachs GQG Partners International Opportunities Fund Class R6 Shares	+0.07	+0.40%	17.44	17.00	16.85	3.55%	5.42%
+GGIPX	Goldman Sachs GQG Partners International Opportunities Fund	+0.06	+0.34%	17.44	16.99	16.84	3.49%	5.42%
+GSIMX	Goldman Sachs GQG Partners International Opportunities Fund	+0.06	+0.34%	17.45	17.00	16.85	3.49%	5.42%
+GSIHX	Goldman Sachs GQG Partners International Opportunities Fund Class A	+0.07	+0.40%	17.32	16.89	16.71	3.45%	5.33%
+GSILX	Goldman Sachs GQG Partners International Opportunities Fund	+0.06	+0.36%	16.84	16.43	16.23	3.24%	5.10%
+GSINX	Goldman Sachs GQG Partners International Opportunities Fund	+0.06	+0.35%	17.39	16.94	16.79	3.50%	5.37%
+MINGX	MFS International Intrinsic Value Fund Class R3	+0.08	+0.21%	38.24	37.59	38.16	5.97%	8.96%
+MINRX	MFS International Intrinsic Value Fund Class R1	+0.06	+0.18%	33.97	33.40	34.15	5.78%	8.72%
+MINHX	MFS International Intrinsic Value Fund Class R4	+0.08	+0.21%	38.82	38.14	38.72	6.05%	9.02%
+MINIX	MFS International Intrinsic Value Fund	+0.08	+0.19%	41.39	40.67	41.08	6.03%	9.02%
+MGICX	MFS International Intrinsic Value Fund Class C	+0.06	+0.18%	33.50	32.95	33.71	5.77%	8.71%
+MGIAX	MFS International Intrinsic Value Fund	+0.08	+0.21%	38.66	37.99	38.54	5.99%	8.97%
+MINJX	MFS International Intrinsic Value Fund	+0.08	+0.21%	38.90	38.22	38.80	6.10%	9.07%
+MINFX	MFS International Intrinsic Value Fund Class R2	+0.07	+0.20%	35.11	34.51	35.25	5.93%	8.88%
+MGIBX	MFS International Intrinsic Value Fund Class B	+0.07	+0.20%	35.89	35.30	35.92	5.80%	8.74%
+MGRAX	MFS International Growth Fund	+0.13	+0.33%	39.09	38.15	36.20	5.69%	9.34%
+MGRQX	MFS International Growth Fund	+0.12	+0.34%	35.14	34.30	32.60	5.63%	9.27%
+MGRBX	MFS International Growth Fund Class B	+0.12	+0.33%	36.22	35.37	33.51	5.49%	9.13%
+MGRCX	MFS International Growth Fund Class C	+0.11	+0.31%	34.95	34.13	32.37	5.51%	9.12%
+MGRVX	MFS International Growth Fund Class R4	+0.13	+0.33%	39.29	38.33	36.40	5.77%	9.41%
+MGRTX	MFS International Growth Fund	+0.13	+0.34%	38.71	37.78	35.86	5.69%	9.35%
+MGRRX	MFS International Growth Fund Class R1	+0.12	+0.35%	33.96	33.17	31.49	5.51%	9.13%
+MQGIX	MFS International Growth Fund	+0.15	+0.34%	44.39	43.31	41.05	5.77%	9.43%
+MGRDX	MFS International Growth Fund Class R6	+0.14	+0.36%	39.29	38.34	36.41	5.80%	9.47%
+FIGSX	Fidelity Series International Growth Fund	-0.02	-0.13%	15.63	15.37	14.65	5.54%	9.47%
+VIHAX	Vanguard International High Dividend Yield Fund	+0.09	+0.30%	30.24	30.17	28.64	2.35%	5.51%
+HFQRX	Janus Henderson Global Equity Income Fund - N Shares	+0.04	+0.65%	6.18	6.17	6.00	1.95%	5.17%
+HFQCX	Janus Henderson Global Equity Income Fund	+0.03	+0.49%	6.07	6.05	5.89	1.63%	4.90%
+HFQIX	Janus Henderson Global Equity Income Fund	+0.04	+0.65%	6.18	6.17	6.00	1.93%	5.15%
+HFQTX	Janus Henderson Global Equity Income Fund	+0.04	+0.65%	6.14	6.13	5.96	1.92%	5.17%
+HFQDX	Janus Henderson Global Equity Income Fund	+0.03	+0.49%	6.15	6.13	5.97	1.76%	5.17%
+HFQSX	Janus Henderson Global Equity Income Fund	+0.04	+0.66%	6.10	6.09	5.93	1.72%	4.97%
+HFQAX	Janus Henderson Global Equity Income Fund	+0.03	+0.49%	6.17	6.15	5.99	1.71%	5.11%
+TBGVX	Tweedy, Browne International Value Fund	+0.14	+0.51%	27.27	26.73	26.22	N/A	N/A
+DISCX	BNY Mellon International Stock Fund Class C	-0.09	-0.40%	22.31	21.51	20.12	8.07%	11.55%
+DISAX	BNY Mellon International Stock Fund	-0.09	-0.39%	22.90	22.06	20.66	8.31%	11.81%
+DISYX	BNY Mellon International Stock Fund Class Y	-0.09	-0.40%	22.75	21.91	20.55	8.42%	11.90%
+DISRX	BNY Mellon International Stock Fund	-0.10	-0.43%	23.04	22.19	20.80	8.36%	11.85%
+ARTJX	Artisan International Small-Mid Fund	+0.03	+0.18%	16.49	16.50	15.60	4.23%	5.90%
+APHJX	Artisan International Small-Mid Fund	+0.03	+0.18%	16.75	16.75	15.85	4.29%	5.93%
+APDJX	Artisan International Small-Mid Fund	+0.04	+0.24%	16.55	16.56	15.66	4.34%	5.94%
+FITGX	Fidelity Advisor International Growth Fund Class M	-0.03	-0.18%	17.09	16.82	15.88	5.11%	8.94%
+FZAJX	Fidelity International Growth Fund	-0.03	-0.17%	17.39	17.10	16.14	5.34%	9.18%
+FIGCX	Fidelity Advisor International Growth Fund Class C	-0.02	-0.12%	16.52	16.27	15.39	5.03%	8.84%
+FIIIX	Fidelity International Growth Fund	-0.02	-0.12%	17.35	17.07	16.11	5.29%	9.13%
+FIAGX	Fidelity Advisor International Growth Fund Class A	-0.03	-0.17%	17.23	16.95	15.99	5.20%	9.07%
+FIGFX	Fidelity International Growth Fund	-0.03	-0.17%	17.40	17.12	16.15	5.27%	9.11%
+FSTSX	Fidelity Series International Small Cap Fund	-0.05	-0.32%	15.76	15.78	15.32	3.97%	5.86%
+FMIYX	FMI International Fund Institutional Class	+0.02	+0.07%	30.49	30.63	30.46	3.95%	9.32%
+FMIJX	FMI International Fund	+0.03	+0.10%	30.39	30.54	30.36	3.96%	9.31%
+FISMX	Fidelity International Small Cap Fund	-0.07	-0.24%	28.82	28.59	26.61	4.58%	7.56%
+FIXIX	Fidelity International Small Cap Fund	-0.07	-0.24%	29.03	28.80	26.79	4.59%	7.58%
+FIASX	Fidelity International Small Cap Fund	-0.06	-0.21%	28.21	28.00	26.03	4.53%	7.52%
+FICSX	Fidelity Advisor International Small Cap Fund Class C	-0.06	-0.22%	27.06	26.88	24.98	4.33%	7.27%
+FIQIX	Fidelity International Small Cap Fund	-0.07	-0.24%	28.99	28.76	26.77	4.63%	7.59%
+FTISX	Fidelity Advisor International Small Cap Fund Class M	-0.06	-0.21%	28.09	27.89	25.90	4.47%	7.44%
+FIONX	Fidelity SAI International Index Fund	+0.02	+0.16%	12.80	12.54	11.79	5.43%	9.11%
+GICCX	Goldman Sachs International Small Cap Insights Fund Class C	0.00	0.00%	11.21	11.25	10.65	3.70%	5.36%
+GIRLX	Goldman Sachs International Small Cap Insights Fund	0.00	0.00%	11.47	11.51	10.94	6.50%	5.62%
+GICAX	Goldman Sachs Intl Small Cap Insights Fd Cl A	0.00	0.00%	11.55	11.59	11.01	N/A	N/A
+GGDPX	Goldman Sachs International Small Cap Insights Fund Class P	0.00	0.00%	11.54	11.57	11.01	6.56%	5.68%
+GICUX	Goldman Sachs International Small Cap Insights Fund Class R6	0.00	0.00%	11.54	11.57	11.02	6.56%	5.68%
+GICIX	Goldman Sachs International Small Cap Insights Fund	0.00	0.00%	11.51	11.55	10.99	3.88%	5.60%
+JDIVX	John Hancock Disciplined Value International Fund	+0.03	+0.21%	14.25	13.98	12.97	5.39%	9.17%
+JDICX	John Hancock Disciplined Value International Fund	+0.03	+0.21%	14.22	13.96	12.91	5.17%	8.86%
+JDIBX	John Hancock Disciplined Value International Fund	+0.03	+0.21%	14.24	13.97	12.95	5.31%	9.10%
+JDITX	John Hancock Disciplined Value International Fund	+0.03	+0.21%	14.25	13.98	12.96	5.39%	9.09%
+JDVIX	John Hancock Disciplined Value International Fund	+0.03	+0.21%	14.26	13.99	12.97	5.38%	9.17%
+JDISX	John Hancock Disciplined Value International Fund Class R2	+0.03	+0.21%	14.27	14.01	12.97	5.30%	9.08%
+JDIUX	John Hancock Disciplined Value International Fund	+0.02	+0.14%	14.26	13.99	12.97	5.39%	9.17%
+BBHLX	BBH Partner Fund - International Equity	+0.03	+0.20%	14.74	14.66	13.92	3.21%	8.13%
+KGGIX	Kopernik Global All-Cap Fund- Institutional Class	-0.06	-0.51%	11.69	11.51	11.84	1.04%	4.21%
+KGGAX	Kopernik Global All-Cap Fund	-0.07	-0.60%	11.76	11.57	11.89	0.95%	4.10%
+SFNNX	Schwab Fundamental International Large Company Index Fund	+0.01	+0.10%	9.76	9.65	9.06	4.49%	7.96%
+FIENX	Fidelity International Enhanced Index Fund	+0.01	+0.10%	10.20	9.97	9.35	N/A	N/A
+TSOEX	TIAA-CREF Social Choice International Equity Fund	+0.03	+0.25%	12.14	11.91	11.13	5.55%	9.15%
+TSOPX	TIAA-CREF Social Choice International Equity Fund	+0.04	+0.33%	12.20	11.98	11.19	5.61%	9.19%
+TSOHX	TIAA-CREF Social Choice International Equity Fund - Advisor	+0.04	+0.33%	12.17	11.95	11.17	5.62%	9.21%
+TSORX	TIAA-CREF Social Choice International Equity Fund	+0.03	+0.25%	12.15	11.93	11.14	5.55%	9.14%
+TSONX	TIAA-CREF Social Choice International Equity Fund	+0.04	+0.33%	12.18	11.96	11.18	5.62%	9.20%
+RIVKX	American Funds International Vantage Fund Class R-4	+0.04	+0.25%	15.83	15.40	14.24	7.23%	10.67%
+CIVAX	American Funds International Vantage Fund	+0.04	+0.25%	15.70	15.27	14.17	7.22%	10.69%
+RIVGX	American Funds International Vantage Fund Class R-6	+0.03	+0.19%	15.79	15.35	14.26	7.25%	10.78%
+RIVLX	American Funds International Vantage Fund	+0.04	+0.25%	15.75	15.31	14.24	7.27%	10.81%
+AIVGX	American Funds International Vantage Fund	+0.03	+0.19%	15.80	15.35	14.27	7.25%	10.78%
+CIVHX	American Funds International Vantage Fund	+0.04	+0.25%	15.70	15.27	14.19	7.29%	10.77%
+RIVHX	American Funds International Vantage Fund Class R-2E	+0.03	+0.19%	15.77	15.34	14.25	7.05%	10.57%
+AIVEX	American Funds International Vantage Fund	+0.04	+0.25%	15.71	15.28	14.19	7.22%	10.68%
+CIVCX	American Funds International Vantage Fund Class 529-E	+0.03	+0.19%	15.69	15.26	14.17	7.08%	10.55%
+CIVKX	American Funds International Vantage Fund	+0.04	+0.25%	15.76	15.33	14.24	7.26%	10.72%
+RIVAX	American Funds International Vantage Fund Class R-1	+0.03	+0.19%	15.76	15.33	14.19	6.98%	10.50%
+AIVCX	American Funds International Vantage Fund	+0.03	+0.19%	15.57	15.15	14.04	6.92%	10.40%
+RIVJX	American Funds International Vantage Fund Class R-5E	+0.04	+0.25%	15.73	15.30	14.22	7.21%	10.74%
+RIVDX	American Funds International Vantage Fund	+0.03	+0.19%	15.58	15.16	14.08	6.99%	10.47%
+AIVFX	American Funds International Vantage Fund	+0.04	+0.25%	15.75	15.32	14.23	7.27%	10.81%
+AIVBX	American Funds International Vantage Fund	+0.04	+0.25%	15.69	15.26	14.17	7.15%	10.70%
+CIVGX	American Funds International Vantage Fund	+0.04	+0.25%	15.70	15.27	14.19	7.22%	10.77%
+CIVBX	American Funds International Vantage Fund Class 529-C	+0.03	+0.19%	15.56	15.14	14.03	6.93%	10.41%

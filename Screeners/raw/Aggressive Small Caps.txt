@@ -1,0 +1,101 @@
+Symbol	Name	Price (Intraday)	Change	% Change	Volume	Avg Vol (3 month)	Market Cap	PE Ratio (TTM)	52 Week Range
+BTCM	BIT Mining Limited	2.3400	-0.0500	-2.09%	90,835	719,814	24.893M	N/A
+SKLZ	Skillz Inc.	0.6802	+0.1305	+23.74%	24.206M	8.599M	306.138M	N/A
+TLRY	Tilray Brands, Inc.	2.6000	+0.1600	+6.56%	11.188M	13.975M	1.606B	N/A
+SPCE	Virgin Galactic Holdings, Inc.	3.1500	-0.0400	-1.25%	13.515M	10.526M	961.292M	N/A
+UP	Wheels Up Experience Inc.	0.4999	+0.0059	+1.19%	2.798M	1.483M	138.044M	N/A
+OPEN	Opendoor Technologies Inc.	1.6800	+0.0400	+2.44%	10.708M	25.239M	1.08B	N/A
+DVAX	Dynavax Technologies Corporation	10.44	+0.41	+4.09%	1.284M	1.465M	1.333B	5.09
+RGS	Regis Corporation	1.0800	-0.0400	-3.57%	95,399	366,433	49.21M	N/A
+CGC	Canopy Growth Corporation	1.5800	-0.0100	-0.63%	5.598M	7.129M	809.973M	N/A
+PSFE	Paysafe Limited	15.61	+0.08	+0.52%	257,058	408,937	1.017B	N/A
+ACB	Aurora Cannabis Inc.	0.6546	+0.0076	+1.17%	3.019M	6.008M	223.21M	N/A
+BCRX	BioCryst Pharmaceuticals, Inc.	8.68	+0.15	+1.76%	2.302M	2.977M	1.636B	N/A
+IVR	Invesco Mortgage Capital Inc.	10.76	+0.01	+0.09%	1.163M	956,770	446.26M	N/A
+DM	Desktop Metal, Inc.	2.0200	-0.1100	-5.16%	1.863M	4.235M	644.004M	N/A
+CDE	Coeur Mining, Inc.	4.1200	-0.1000	-2.37%	4.566M	5.474M	1.466B	N/A
+CANO	Cano Health, Inc.	1.2500	-0.0600	-4.58%	4.631M	8.712M	660.224M	N/A
+EVGO	EVgo, Inc.	6.51	+0.03	+0.39%	1.89M	2.675M	1.924B	N/A
+HYLN	Hyliion Holdings Corp.	1.8300	-0.0400	-2.14%	901,646	1.263M	348.75M	N/A
+OPK	OPKO Health, Inc.	1.4600	0.0000	0.00%	1.746M	3.252M	1.128B	N/A
+FTCH	Farfetch Limited	4.4600	+0.1000	+2.29%	10.412M	13.403M	1.897B	N/A
+AMRS	Amyris, Inc.	1.3000	+0.0900	+7.44%	2.707M	4.919M	476.128M	N/A
+ORC	Orchid Island Capital, Inc.	11.05	+0.05	+0.45%	649,138	759,983	431.855M	N/A
+MUX	McEwen Mining Inc.	9.09	-0.15	-1.62%	445,910	448,222	431.117M	N/A
+MCRB	Seres Therapeutics, Inc.	5.77	+0.16	+2.85%	2.174M	989,298	727.458M	N/A
+OTLY	Oatly Group AB	2.2800	-0.0600	-2.56%	2.471M	4.452M	1.465B	N/A
+ALXO	ALX Oncology Holdings Inc.	4.4500	+0.0700	+1.60%	82,727	230,093	181.84M	N/A
+VMEO	Vimeo, Inc.	3.7000	+0.1200	+3.35%	1.285M	1.899M	637.218M	N/A
+APRE	Aprea Therapeutics, Inc.	4.4200	+0.5800	+15.10%	62,409	17,106	16.494M	N/A
+CHS	Chico's FAS, Inc.	5.19	-0.03	-0.57%	1.487M	2.376M	649.01M	5.90
+AMWL	American Well Corporation	2.2700	+0.0600	+2.71%	602,956	1.333M	630.136M	N/A
+NVTA	Invitae Corporation	1.3200	+0.0500	+3.94%	4.934M	8.894M	355.964M	N/A
+GEO	The GEO Group, Inc.	8.11	+0.25	+3.18%	1.626M	2.548M	1.01B	7.05
+HLX	Helix Energy Solutions Group, Inc.	7.58	-0.23	-2.94%	945,516	1.926M	1.148B	N/A
+TTMI	TTM Technologies, Inc.	12.65	-0.07	-0.55%	399,325	488,335	1.32B	14.54
+BFLY	Butterfly Network, Inc.	2.2800	+0.2200	+10.68%	6.413M	2.62M	463.843M	N/A
+IMGN	ImmunoGen, Inc.	4.0600	+0.1700	+4.37%	3.457M	3.282M	917.747M	N/A
+DNMR	Danimer Scientific, Inc.	4.0700	+0.1800	+4.63%	1.831M	1.509M	465.018M	N/A
+QUOT	Quotient Technology Inc.	3.1800	+0.0400	+1.27%	151,419	461,453	310.608M	N/A
+DSX	Diana Shipping Inc.	3.8100	-0.0700	-1.80%	351,497	760,496	405.525M	2.84
+PGRE	Paramount Group, Inc.	4.5500	-0.0300	-0.66%	1.293M	1.917M	1.049B	N/A
+RAD	Rite Aid Corporation	2.2700	+0.1200	+5.58%	2.317M	2.634M	128.905M	N/A
+KAR	KAR Auction Services, Inc.	13.00	+0.23	+1.80%	797,532	656,861	1.448B	N/A
+SFIX	Stitch Fix, Inc.	4.3800	-0.3100	-6.61%	3.662M	2.749M	569.286M	N/A
+BDN	Brandywine Realty Trust	4.3300	+0.0400	+0.93%	1.711M	2.703M	751.034M	13.97
+AEVA	Aeva Technologies, Inc.	1.0400	+0.0200	+1.96%	750,801	1.231M	228.56M	N/A
+BYND	Beyond Meat, Inc.	15.33	-0.64	-4.01%	1.661M	2.86M	984.373M	N/A
+ANGI	Angi Inc.	2.1600	+0.0100	+0.47%	281,597	871,770	1.111B	N/A
+COMM	CommScope Holding Company, Inc.	5.86	-0.02	-0.34%	1.658M	2.658M	1.256B	N/A
+RXT	Rackspace Technology, Inc.	1.7700	+0.1100	+6.63%	1.362M	1.377M	379.005M	N/A
+SAND	Sandstorm Gold Ltd.	6.20	+0.16	+2.65%	2.76M	2.633M	1.854B	18.79
+CCRN	Cross Country Healthcare, Inc.	21.50	-0.31	-1.42%	540,011	668,050	774.97M	4.34
+BBBY	Bed Bath & Beyond Inc.	0.3092	-0.0279	-8.28%	116.337M	84.268M	132.375M	N/A
+LC	LendingClub Corporation	6.75	+0.04	+0.60%	1.496M	2.164M	719.354M	2.51
+PRPL	Purple Innovation, Inc.	2.3000	-0.0500	-2.13%	763,125	1.015M	253.538M	N/A
+BKD	Brookdale Senior Living Inc.	2.8600	+0.0100	+0.35%	1.917M	2.371M	535.395M	N/A
+TRUE	TrueCar, Inc.	2.2000	-0.0300	-1.35%	237,062	376,458	195.127M	N/A
+ASTS	AST SpaceMobile, Inc.	4.3600	+0.1100	+2.59%	1.581M	1.732M	921.621M	N/A
+AXL	American Axle & Manufacturing Holdings, Inc.	7.13	-0.19	-2.60%	767,673	1.05M	832.891M	13.71
+SCS	Steelcase Inc.	7.98	+0.04	+0.50%	383,630	736,396	918.658M	26.60
+RAAS	Cloopen Group Holding Limited	1.8200	-0.0100	-0.55%	32,527	49,754	299.153M	N/A
+CVNA	Carvana Co.	9.01	+0.51	+6.00%	7.039M	26.471M	1.6B	N/A
+HA	Hawaiian Holdings, Inc.	8.52	-0.18	-2.07%	808,186	1.445M	458.432M	N/A
+UPWK	Upwork Inc.	10.33	+0.12	+1.18%	1.417M	1.371M	1.473B	N/A
+LPSN	LivePerson, Inc.	4.4800	+0.2500	+5.91%	1.308M	1.852M	368.829M	N/A
+BCYC	Bicycle Therapeutics plc	22.22	+0.99	+4.66%	199,822	349,927	667.069M	N/A
+COOK	Traeger, Inc.	3.4600	-0.1500	-4.16%	497,708	508,787	460.775M	N/A
+PLAY	Dave & Buster's Entertainment, Inc.	33.98	+0.53	+1.58%	1.179M	1.002M	1.645B	12.01
+VNET	VNET Group, Inc.	3.7600	+0.0800	+2.17%	924,822	2.426M	588.515M	N/A
+AROC	Archrock, Inc.	9.94	-0.07	-0.70%	570,065	1.036M	1.561B	35.50
+HCC	Warrior Met Coal, Inc.	35.31	-0.54	-1.51%	283,923	627,233	1.845B	2.85
+LADR	Ladder Capital Corp	9.17	+0.02	+0.22%	678,669	814,548	1.165B	8.12
+RDFN	Redfin Corporation	8.87	+0.38	+4.48%	1.656M	4.162M	1.012B	N/A
+SD	SandRidge Energy, Inc.	15.33	+0.02	+0.13%	423,322	540,619	565.392M	2.34
+HEPS	D-Market Elektronik Hizmetler ve Ticaret A.S.	1.1600	+0.0500	+4.50%	338,248	764,733	378.158M	N/A
+SXC	SunCoke Energy, Inc.	8.63	-0.05	-0.58%	351,576	864,454	730.348M	7.25
+INSG	Inseego Corp.	0.5700	+0.0803	+16.40%	918,493	684,661	66.996M	N/A
+METC	Ramaco Resources, Inc.	8.60	-0.10	-1.15%	214,521	380,630	387.559M	3.31
+AVAH	Aveanna Healthcare Holdings Inc.	1.0300	+0.0300	+3.00%	616,546	484,816	210.087M	N/A
+GSL	Global Ship Lease, Inc.	18.41	-0.10	-0.54%	333,376	553,688	653.391M	2.41
+FA	First Advantage Corporation	12.96	-0.18	-1.37%	222,533	318,182	2.002B	32.40
+KTOS	Kratos Defense & Security Solutions, Inc.	12.89	-0.01	-0.08%	667,964	790,332	1.682B	N/A
+SOL	Emeren Group Ltd	4.1100	-0.0400	-0.96%	118,150	383,483	279.914M	51.38
+CNDT	Conduent Incorporated	3.3300	-0.0500	-1.48%	1.161M	996,095	727.285M	N/A
+RES	RPC, Inc.	7.77	-0.20	-2.51%	804,850	1.375M	1.694B	8.01
+IHRT	iHeartMedia, Inc.	3.6400	+0.1600	+4.60%	695,781	901,545	457.29M	N/A
+RIGL	Rigel Pharmaceuticals, Inc.	1.2500	+0.0600	+5.04%	1.44M	3.188M	222.539M	N/A
+JBI	Janus International Group, Inc.	9.25	+0.14	+1.54%	743,303	390,111	1.397B	13.81
+DNOW	NOW Inc.	10.44	-0.03	-0.29%	450,354	802,174	1.152B	9.16
+AVID	Avid Technology, Inc.	32.00	+0.25	+0.79%	198,285	217,283	1.401B	25.81
+GPRE	Green Plains Inc.	30.56	+0.51	+1.70%	940,542	865,877	1.818B	N/A
+BBAR	Banco BBVA Argentina S.A.	3.9200	-0.0500	-1.26%	144,889	722,388	810.821M	2.86
+CHMI	Cherry Hill Mortgage Investment Corporation	5.46	-0.05	-0.91%	216,673	477,758	135.944M	9.10
+TWOU	2U, Inc.	5.95	-0.16	-2.62%	708,757	1.126M	524.175M	N/A
+ARCO	Arcos Dorados Holdings Inc.	7.12	-0.05	-0.70%	828,774	743,093	1.516B	11.67
+GRTS	Gritstone bio, Inc.	2.7700	+0.2700	+10.80%	448,688	720,956	242.824M	N/A
+BALY	Bally's Corporation	18.44	-0.02	-0.11%	141,334	346,356	847.049M	N/A
+STAR	iStar Inc.	7.63	+0.15	+2.01%	1.464M	378,139	662.56M	N/A
+AUD	Audacy, Inc.	0.1107	-0.0039	-3.40%	752,501	1.137M	16.728M	N/A
+VIST	Vista Energy, S.A.B. de C.V.	20.59	-0.21	-1.01%	152,288	695,843	1.925B	7.12
+CAL	Caleres, Inc.	21.44	-0.25	-1.15%	325,028	672,772	773.086M	4.36
