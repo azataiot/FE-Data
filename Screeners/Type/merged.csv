@@ -1,0 +1,501 @@
+Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Open Interest,Expiration Date,52 Week Range,asset_type,50 Day Average,200 Day Average,3-Mo Return,YTD Return,Market Cap,PE Ratio (TTM)
+RLT=F,BTIC on E-mini Russell 2000 Ind,12.10,0.05,+0.41%,"3,370","3,808",,2023-06-14,,Futures,,,,,,
+F*RLT.CME,BTIC on E-mini Russell 2000 Ind,12.10,0.05,+0.41%,"3,370",,,2023-06-14,,Futures,,,,,,
+RLTM23.CME,BTIC on E-mini Russell 2000 Ind,12.10,0.05,+0.41%,"3,370",,,2023-06-14,,Futures,,,,,,
+LEJ23.CME,"Live Cattle Futures,Apr-2023",171.425,0.35,+0.20%,"12,698",,"16,780",2023-04-27,,Futures,,,,,,
+6NM23.CME,"New Zealand Dollar Futures,Jun-",0.6255,0.0006,+0.10%,"3,967",,"34,983",2023-06-15,,Futures,,,,,,
+F*6N.CME,"New Zealand Dollar Futures,Jun-",0.6255,0.0006,+0.10%,"3,967",1.618M,"34,983",2023-06-15,,Futures,,,,,,
+GFJ23.CME,"Feeder Cattle Futures,Apr-2023",200.80,0.18,+0.09%,"2,075",,"5,999",2023-04-27,,Futures,,,,,,
+6N=F,"New Zealand Dollar Futures,Jun-",0.6255,0.0006,+0.10%,"3,967","28,925","34,983",2023-06-15,,Futures,,,,,,
+GFU23.CME,"Feeder Cattle Futures,Sep-2023",225.525,0.175,+0.08%,"1,231",,"5,810",2023-09-28,,Futures,,,,,,
+LEM23.CME,"Live Cattle Futures,Jun-2023",163.225,0.125,+0.08%,"37,369",,"145,726",2023-06-29,,Futures,,,,,,
+F*LE.CME,"Live Cattle Futures,Jun-2023",171.425,0.35,+0.20%,"37,369",2.837M,"145,726",2023-06-29,,Futures,,,,,,
+LE=F,"Live Cattle Futures,Jun-2023",171.425,0.35,+0.20%,"37,369","15,956","145,726",2023-06-29,,Futures,,,,,,
+LEQ23.CME,"Live Cattle Futures,Aug-2023",162.375,0.075,+0.05%,"20,225",,"84,292",2023-08-30,,Futures,,,,,,
+GFK23.CME,"Feeder Cattle Futures,May-2023",205.45,0.05,+0.02%,"8,847",,"23,322",2023-05-25,,Futures,,,,,,
+GF=F,"Feeder Cattle Futures,May-2023",200.80,0.18,+0.09%,"8,847","3,587","23,322",2023-05-25,,Futures,,,,,,
+F*GF.CME,"Feeder Cattle Futures,May-2023",200.80,0.18,+0.09%,"8,847","466,788","23,322",2023-05-25,,Futures,,,,,,
+LEV23.CME,"Live Cattle Futures,Oct-2023",166.10,0.03,+0.02%,"11,982",,"38,568",2023-10-30,,Futures,,,,,,
+GFQ23.CME,"Feeder Cattle Futures,Aug-2023",222.625,0.025,+0.01%,"4,897",,"19,329",2023-08-31,,Futures,,,,,,
+6J=F,"Japanese Yen Futures,Jun-2023",0.0077,0.0,+0.03%,"23,348","41,125","163,145",2023-06-15,,Futures,,,,,,
+6JM23.CME,"Japanese Yen Futures,Jun-2023",0.0077,0.0,+0.03%,"23,348",0,"163,145",2023-06-15,,Futures,,,,,,
+SR3F23.CME,"Three-Month SOFR Futures,Jan-20",95.3875,0.0025,+0.00%,"2,000",,"30,313",2023-04-18,,Futures,,,,,,
+F*NQT.CME,"BTIC E-mini Nasdaq-100 Futures,",110.35,0.0,0.00%,"3,796",,,2023-06-14,,Futures,,,,,,
+F*ESR.CME,EURO SHORT-TERM RATE (?STR) FUT,97.05,0.01,+0.01%,"1,281",,286,2023-04-18,,Futures,,,,,,
+ESR=F,EURO SHORT-TERM RATE (?STR) FUT,97.05,0.01,+0.01%,"1,281",,286,2023-04-18,,Futures,,,,,,
+SEDU23.CME,SED Future SEP 2023 Trading Ses,0.0000,0.0,0.00%,"13,467",,,2023-09-17,,Futures,,,,,,
+SDA=F,S&P 500 Annual Dividend Index F,68.20,0.0,0.00%,"1,034","1,357","69,071",2023-12-14,,Futures,,,,,,
+F*SDA.CME,S&P 500 Annual Dividend Index F,68.20,0.0,0.00%,"1,034",132,"69,071",2023-12-14,,Futures,,,,,,
+HEV23.CME,"Lean Hogs Futures,Oct-2023",83.05,0.0,0.00%,"2,856",,"30,500",2023-10-16,,Futures,,,,,,
+HEQ23.CME,"Lean Hogs Futures,Aug-2023",92.225,0.0,0.00%,"4,498",,"27,778",2023-08-15,,Futures,,,,,,
+F*SED.CME,SED Future SEP 2023 Trading Ses,0.0000,0.0,0.00%,"13,467",,,2023-09-17,,Futures,,,,,,
+NQTM23.CME,"BTIC E-mini Nasdaq-100 Futures,",110.35,0.0,0.00%,"3,796",,,2023-06-14,,Futures,,,,,,
+SED=F,SED Future SEP 2023 Trading Ses,0.0000,0.0,0.00%,"13,467",,,2023-09-17,,Futures,,,,,,
+LETM23.CME,"Live Cattle TAS Futures,Jun-202",0.0000,0.0,0.00%,"1,366",,,2023-05-29,,Futures,,,,,,
+ESRF23.CME,EURO SHORT-TERM RATE (?STR) FUT,97.555,0.0,0.00%,"1,281",,286,2023-04-18,,Futures,,,,,,
+SDAZ23.CME,S&P 500 Annual Dividend Index F,68.20,0.0,0.00%,"1,034","1,409","69,071",2023-12-14,,Futures,,,,,,
+F*LET.CME,"Live Cattle TAS Futures,Jun-202",-0.0250,-0.025,0.00%,"1,366","1,868",,2023-05-29,,Futures,,,,,,
+LET=F,"Live Cattle TAS Futures,Jun-202",-0.0250,-0.025,0.00%,"1,366",799,,2023-05-29,,Futures,,,,,,
+NQT=F,"BTIC E-mini Nasdaq-100 Futures,",110.35,0.0,0.00%,"3,796","5,288",,2023-06-14,,Futures,,,,,,
+F*6J.CME,"Japanese Yen Futures,Jun-2023",0.0077,0.0,+0.03%,"23,348",8.046M,"163,145",2023-06-15,,Futures,,,,,,
+SR3G23.CME,"Three-Month SOFR Futures,Feb-20",95.245,-0.002,-0.00%,85,,"13,884",2023-05-16,,Futures,,,,,,
+F*SR1.CME,"One-Month SOFR Futures,May-2023",95.075,-0.01,-0.01%,"2,655",,"183,996",2023-05-31,,Futures,,,,,,
+SR1K23.CME,"One-Month SOFR Futures,May-2023",95.075,-0.01,-0.01%,"2,655",,"183,996",2023-05-31,,Futures,,,,,,
+SR3H23.CME,"Three-Month SOFR Futures,Mar-20",95.1225,-0.0075,-0.01%,"7,824",0,1.044M,2023-06-20,,Futures,,,,,,
+SR1=F,"One-Month SOFR Futures,May-2023",95.075,-0.01,-0.01%,"2,655",,"183,996",2023-05-31,,Futures,,,,,,
+F*GE.CME,"Eurodollar Futures,Apr-2023",94.82,-0.03,-0.03%,"1,418",,"143,981",2023-04-16,,Futures,,,,,,
+LEZ23.CME,"Live Cattle Futures,Dec-2023",170.875,-0.025,-0.01%,"5,655",,"29,486",2023-12-28,,Futures,,,,,,
+GEK23.CME,"Eurodollar Futures,May-2023",94.83,-0.01,-0.02%,"1,991",,"27,273",2023-05-14,,Futures,,,,,,
+SR3M23.CME,"Three-Month SOFR Futures,Jun-20",95.15,-0.03,-0.03%,"24,768",,1.629M,2023-09-19,,Futures,,,,,,
+SR3=F,"Three-Month SOFR Futures,Jun-20",95.15,-0.03,-0.03%,"24,768",37,1.629M,2023-09-19,,Futures,,,,,,
+F*SR3.CME,"Three-Month SOFR Futures,Jun-20",95.15,-0.03,-0.03%,"24,768",37,1.629M,2023-09-19,,Futures,,,,,,
+HEN23.CME,"Lean Hogs Futures,Jul-2023",91.25,-0.03,-0.03%,"5,235",,"24,783",2023-07-18,,Futures,,,,,,
+SR3M26.CME,"Three-Month SOFR Futures,Jun-20",97.245,-0.035,-0.04%,"1,090",,"104,514",2026-09-15,,Futures,,,,,,
+SR3Z26.CME,"Three-Month SOFR Futures,Dec-20",97.210,-0.03,-0.03%,823,,"122,861",2027-03-16,,Futures,,,,,,
+SR3H27.CME,"Three-Month SOFR Futures,Mar-20",97.18,-0.03,-0.03%,919,,"81,890",2027-06-15,,Futures,,,,,,
+SR3U23.CME,"Three-Month SOFR Futures,Sep-20",95.50,-0.04,-0.04%,"22,827",,1.092M,2023-12-19,,Futures,,,,,,
+SR1Q23.CME,"One-Month SOFR Futures,Aug-2023",95.245,-0.03,-0.03%,"1,184",,"70,361",2023-08-31,,Futures,,,,,,
+SR1N23.CME,"One-Month SOFR Futures,Jul-2023",95.115,-0.025,-0.03%,"1,324",,"63,077",2023-07-31,,Futures,,,,,,
+GE=F,"Eurodollar Futures,Apr-2023",94.82,-0.03,-0.03%,"1,418","35,852","143,981",2023-04-16,,Futures,,,,,,
+XAE=F,E-mini Energy Select Sector Fut,895.50,-0.3,-0.03%,"2,848","1,841","24,545",2023-06-15,,Futures,,,,,,
+F*XAE.CME,E-mini Energy Select Sector Fut,895.50,-0.3,-0.03%,"2,848",,"24,545",2023-06-15,,Futures,,,,,,
+XAEM23.CME,E-mini Energy Select Sector Fut,895.50,-0.3,-0.03%,"2,848",,"24,545",2023-06-15,,Futures,,,,,,
+SR3H26.CME,"Three-Month SOFR Futures,Mar-20",97.260,-0.035,-0.04%,"2,050",,"155,390",2026-06-16,,Futures,,,,,,
+SR3Z25.CME,"Three-Month SOFR Futures,Dec-20",97.280,-0.035,-0.04%,"3,236",,"260,666",2026-03-17,,Futures,,,,,,
+SR3U25.CME,"Three-Month SOFR Futures,Sep-20",97.270,-0.035,-0.04%,"3,142",,"301,838",2025-12-16,,Futures,,,,,,
+SR3Z23.CME,"Three-Month SOFR Futures,Dec-20",95.865,-0.04,-0.04%,"19,771",,1.187M,2024-03-19,,Futures,,,,,,
+GEM23.CME,"Eurodollar Futures,Jun-2023",94.82,-0.03,-0.03%,"1,418","120,629","571,705",2023-06-19,,Futures,,,,,,
+SR3M25.CME,"Three-Month SOFR Futures,Jun-20",97.25,-0.04,-0.04%,"4,366",,"366,139",2025-09-16,,Futures,,,,,,
+SR3M24.CME,"Three-Month SOFR Futures,Jun-20",96.71,-0.06,-0.06%,"10,507",,"617,799",2024-09-17,,Futures,,,,,,
+SR3H24.CME,"Three-Month SOFR Futures,Mar-20",96.315,-0.045,-0.05%,"11,430",,"640,259",2024-06-19,,Futures,,,,,,
+LEJ24.CME,"Live Cattle Futures,Apr-2024",176.425,-0.075,-0.04%,"1,302",,"5,706",2024-04-29,,Futures,,,,,,
+SR3H25.CME,"Three-Month SOFR Futures,Mar-20",97.230,-0.045,-0.05%,"3,861",,"320,352",2025-06-17,,Futures,,,,,,
+SR3U24.CME,"Three-Month SOFR Futures,Sep-20",97.00,-0.06,-0.06%,"5,860",,"493,515",2024-12-17,,Futures,,,,,,
+SR3Z24.CME,"Three-Month SOFR Futures,Dec-20",97.155,-0.05,-0.05%,"6,943",,"604,288",2025-03-18,,Futures,,,,,,
+LEG24.CME,"Live Cattle Futures,Feb-2024",174.20,-0.1,-0.06%,"2,104",,"9,749",2024-02-28,,Futures,,,,,,
+6SM23.CME,"Swiss Franc Futures,Jun-2023",1.1133,-0.0011,-0.10%,"2,419",0,"37,566",2023-06-15,,Futures,,,,,,
+6S=F,"Swiss Franc Futures,Jun-2023",1.1133,-0.0011,-0.10%,"2,419","19,867","37,566",2023-06-15,,Futures,,,,,,
+6AM23.CME,"Australian Dollar Futures,Jun-2",0.6693,-0.0005,-0.08%,"9,693",0,"155,175",2023-06-15,,Futures,,,,,,
+F*HE.CME,"Lean Hogs Futures,Apr-2023",88.10,-0.08,-0.09%,"18,757",,"95,890",2023-04-18,,Futures,,,,,,
+HEM23.CME,"Lean Hogs Futures,Jun-2023",88.10,-0.08,-0.09%,"18,757",,"95,890",2023-06-15,,Futures,,,,,,
+F*6A.CME,"Australian Dollar Futures,Jun-2",0.6693,-0.0005,-0.08%,"9,693",7.085M,"155,175",2023-06-15,,Futures,,,,,,
+F*6S.CME,"Swiss Franc Futures,Jun-2023",1.1133,-0.0011,-0.10%,"2,419",1.28M,"37,566",2023-06-15,,Futures,,,,,,
+HEZ23.CME,"Lean Hogs Futures,Dec-2023",78.30,-0.07,-0.10%,"1,284",,"16,771",2023-12-17,,Futures,,,,,,
+F*M6A.CME,"Micro AUD/USD Futures,Jun-2023",0.6692,-0.0006,-0.09%,"3,235","615,293","6,565",2023-06-15,,Futures,,,,,,
+6A=F,"Australian Dollar Futures,Jun-2",0.6693,-0.0005,-0.08%,"9,693","29,418","155,175",2023-06-15,,Futures,,,,,,
+M6AM23.CME,"Micro AUD/USD Futures,Jun-2023",0.6692,-0.0006,-0.09%,"3,235",,"6,565",2023-06-15,,Futures,,,,,,
+M6A=F,"Micro AUD/USD Futures,Jun-2023",0.6692,-0.0006,-0.09%,"3,235","13,832","6,565",2023-06-15,,Futures,,,,,,
+6M=F,"Mexican Peso Futures,Jun-2023",0.0541,-0.0,-0.07%,"3,788","20,614","260,247",2023-06-15,,Futures,,,,,,
+6MM23.CME,"Mexican Peso Futures,Jun-2023",0.0541,-0.0,-0.07%,"3,788",,"260,247",2023-06-15,,Futures,,,,,,
+F*MNQ.CME,Micro E-mini Nasdaq-100 Index F,"13,149.75",-21.0,-0.16%,"48,451",16.744M,"68,740",2023-06-15,,Futures,,,,,,
+MNQ=F,Micro E-mini Nasdaq-100 Index F,"13,149.75",-21.0,-0.16%,"48,451",1.049M,"68,740",2023-06-15,,Futures,,,,,,
+ESM23.CME,E-Mini S&P 500 Jun 23,"4,124.75",-7.25,-0.18%,"33,091",,2.216M,2023-06-15,,Futures,,,,,,
+NQ=F,Nasdaq 100 Jun 23,"13,149.00",-21.75,-0.17%,"24,126","617,586","232,570",2023-06-15,,Futures,,,,,,
+MNQM23.CME,Micro E-mini Nasdaq-100 Index F,"13,149.75",-21.0,-0.16%,"48,451",,"68,740",2023-06-15,,Futures,,,,,,
+NQM23.CME,Nasdaq 100 Jun 23,"13,149.00",-21.75,-0.17%,"24,126",,"232,570",2023-06-15,,Futures,,,,,,
+F*NQ.CME,Nasdaq 100 Jun 23,"13,149.00",-21.75,-0.17%,"24,126",9.478M,"232,570",2023-06-15,,Futures,,,,,,
+F*M6E.CME,"Micro EUR/USD Futures,Jun-2023",1.0960,-0.0015,-0.14%,"3,111",1.563M,"10,245",2023-06-15,,Futures,,,,,,
+ES=F,E-Mini S&P 500 Jun 23,"4,124.75",-7.25,-0.18%,"33,091",1.774M,2.216M,2023-06-15,,Futures,,,,,,
+MESM23.CME,MICRO E-MINI S&P 500 INDEX FUTU,"4,124.75",-7.25,-0.18%,"30,329",,"155,060",2023-06-15,,Futures,,,,,,
+F*MES.CME,MICRO E-MINI S&P 500 INDEX FUTU,"4,124.75",-7.25,-0.18%,"30,329",19.198M,"155,060",2023-06-15,,Futures,,,,,,
+MES=F,MICRO E-MINI S&P 500 INDEX FUTU,"4,124.75",-7.25,-0.18%,"30,329",1.151M,"155,060",2023-06-15,,Futures,,,,,,
+QQQ,Invesco QQQ Trust,318.05,2.13,+0.67%,46.916M,,,,,ETF,302.85,291.51,,,,
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,47.98,0.03,+0.06%,1.507M,,,,,ETF,47.21,48.18,,,,
+VCSH,Vanguard Short-Term Corporate Bond Index Fund,76.39,-0.07,-0.09%,5.522M,,,,,ETF,75.71,75.59,,,,
+VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund,80.75,-0.03,-0.04%,3.448M,,,,,ETF,79.2,78.83,,,,
+IEF,iShares 7-10 Year Treasury Bond ETF,100.48,0.03,+0.03%,4.262M,,,,,ETF,97.65,98.57,,,,
+MBB,iShares MBS ETF,95.49,-0.25,-0.26%,1.28M,,,,,ETF,94.25,94.64,,,,
+VGSH,Vanguard Short-Term Treasury Index Fund,58.63,-0.03,-0.05%,2.663M,,,,,ETF,58.08,58.16,,,,
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,50.61,-0.07,-0.14%,10.041M,,,,,ETF,50.2,50.08,,,,
+DVY,iShares Select Dividend ETF,117.92,0.35,+0.30%,"327,865",,,,,ETF,119.94,119.58,,,,
+VGIT,Vanguard Intermediate-Term Treasury Index Fund,60.53,0.01,+0.02%,1.474M,,,,,ETF,59.19,59.5,,,,
+VMBS,Vanguard Mortgage-Backed Securities Index Fund,46.93,-0.11,-0.23%,"992,345",,,,,ETF,46.34,46.48,,,,
+ESGU,iShares ESG Aware MSCI USA ETF,90.09,0.32,+0.36%,"529,345",,,,,ETF,89.03,87.4,,,,
+VONG,Vanguard Russell 1000 Growth Index Fund,62.49,0.38,+0.61%,"569,680",,,,,ETF,60.37,58.8,,,,
+IUSV,iShares Core S&P U.S. Value ETF,73.31,0.23,+0.31%,"486,636",,,,,ETF,73.74,70.64,,,,
+IUSG,iShares Core S&P U.S. Growth ETF,88.96,0.34,+0.38%,"357,990",,,,,ETF,86.22,86.3,,,,
+IEI,iShares 3-7 Year Treasury Bond ETF,118.64,-0.01,-0.01%,1.963M,,,,,ETF,116.18,116.54,,,,
+FTCS,First Trust Capital Strength ETF,73.13,0.12,+0.16%,"615,963",,,,,ETF,73.12,73.01,,,,
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,62.33,0.2,+0.32%,1.007M,,,,,ETF,61.6,60.03,,,,
+SMH,VanEck Semiconductor ETF,252.4,-0.76,-0.30%,3.724M,,,,,ETF,247.02,220.62,,,,
+RDVY,First Trust Rising Dividend Achievers ETF,44.33,-0.01,-0.02%,"603,027",,,,,ETF,45.9,44.11,,,,
+SOXX,iShares Semiconductor ETF,422.92,-2.19,-0.52%,"620,087",,,,,ETF,420.46,378.06,,,,
+ESGD,iShares ESG Aware MSCI EAFE ETF,72.27,0.28,+0.39%,"257,632",,,,,ETF,70.52,65.25,,,,
+VYMI,Vanguard International High Dividend Yield Fund,62.73,0.26,+0.42%,"262,469",,,,,ETF,62.35,59.21,,,,
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,14.45,-0.05,-0.34%,2.347M,,,,,ETF,14.26,16.13,,,,
+VONE,Vanguard Russell 1000 Index Fund,185.81,0.66,+0.36%,"41,394",,,,,ETF,183.45,179.47,,,,
+CIBR,First Trust NASDAQ Cybersecurity ETF,42.0,0.16,+0.38%,"348,618",,,,,ETF,41.43,40.97,,,,
+LMBS,First Trust Low Duration Opportunities ETF,48.11,-0.06,-0.12%,1.078M,,,,,ETF,47.88,47.82,,,,
+ONEQ,Fidelity Nasdaq Composite Index ETF,47.42,0.32,+0.68%,"233,018",,,,,ETF,45.98,44.8,,,,
+EMXC,iShares MSCI Emerging Markets ex China ETF,49.37,0.01,+0.02%,"467,607",,,,,ETF,49.19,48.55,,,,
+FV,First Trust Dorsey Wright Focus 5 ETF,43.84,-0.16,-0.36%,"237,608",,,,,ETF,46.3,45.62,,,,
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,48.52,-0.07,-0.14%,"207,267",,,,,ETF,48.14,48.08,,,,
+ANGL,VanEck Fallen Angel High Yield Bond ETF,27.82,0.11,+0.40%,2.341M,,,,,ETF,27.56,27.37,,,,
+FTSL,First Trust Senior Loan Fund,45.22,-0.07,-0.15%,1.09M,,,,,ETF,45.37,45.09,,,,
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,160.11,0.46,+0.29%,"19,243",,,,,ETF,168.55,163.3,,,,
+CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,60.84,-0.03,-0.05%,"460,343",,,,,ETF,61.97,63.87,,,,
+PHO,Invesco Water Resources ETF,51.57,-0.03,-0.06%,"43,106",,,,,ETF,52.92,50.93,,,,
+FALN,iShares Fallen Angels USD Bond ETF,25.11,0.08,+0.32%,1.326M,,,,,ETF,25.04,24.89,,,,
+PEY,Invesco High Yield Equity Dividend Achievers ETF,19.87,0.0,0.00%,"320,601",,,,,ETF,20.35,20.54,,,,
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,98.75,0.01,+0.01%,"175,228",,,,,ETF,97.41,92.79,,,,
+UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,47.11,0.02,+0.04%,"34,604",,,,,ETF,46.3,46.27,,,,
+SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,25.77,-0.02,-0.09%,"237,844",,,,,ETF,27.71,26.29,,,,
+PID,Invesco International Dividend Achievers ETF,18.05,0.06,+0.33%,"656,628",,,,,ETF,17.57,17.07,,,,
+PKW,Invesco BuyBack Achievers ETF,84.22,-0.36,-0.43%,"23,122",,,,,ETF,87.12,84.18,,,,
+FTXL,First Trust Nasdaq Semiconductor ETF,61.68,-0.12,-0.19%,"69,332",,,,,ETF,61.91,56.78,,,,
+FNX,First Trust Mid Cap Core AlphaDEX Fund,87.49,-0.14,-0.16%,"58,076",,,,,ETF,92.46,89.71,,,,
+SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,24.14,-0.04,-0.17%,"143,157",,,,,ETF,23.92,23.87,,,,
+FYX,First Trust Small Cap Core AlphaDEX Fund,78.52,0.1,+0.13%,"20,835",,,,,ETF,83.44,81.23,,,,
+PTNQ,Pacer Trendpilot 100 ETF,54.48,0.39,+0.72%,"19,808",,,,,ETF,51.96,51.3,,,,
+PLW,Invesco 1-30 Laddered Treasury ETF,30.5,0.04,+0.13%,"38,159",,,,,ETF,29.52,29.8,,,,
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,71.1,0.0,0.00%,"52,684",,,,,ETF,70.08,66.82,,,,
+DWAS,Invesco DWA SmallCap Momentum ETF,70.85,-0.05,-0.07%,"54,735",,,,,ETF,75.24,74.09,,,,
+VRIG,Invesco Variable Rate Investment Grade ETF,24.77,0.01,+0.04%,"163,518",,,,,ETF,24.86,24.74,,,,
+IMCV,iShares Morningstar Mid-Cap Value ETF,61.28,0.01,+0.02%,"9,740",,,,,ETF,63.64,62.46,,,,
+USTB,VictoryShares USAA Core Short-Term Bond ETF,49.16,-0.04,-0.08%,"21,883",,,,,ETF,49.0,48.84,,,,
+BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,22.43,0.07,+0.31%,"251,045",,,,,ETF,22.37,22.33,,,,
+SDG,iShares MSCI Global Impact ETF,79.18,0.64,+0.81%,"19,880",,,,,ETF,79.05,78.46,,,,
+CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,51.12,-0.05,-0.10%,"33,799",,,,,ETF,54.14,53.01,,,,
+CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,57.84,0.06,+0.11%,"23,459",,,,,ETF,58.7,58.66,,,,
+KBWP,Invesco KBW Property & Casualty Insurance ETF,84.04,0.35,+0.42%,"11,888",,,,,ETF,86.65,82.68,,,,
+AIRR,First Trust RBA American Industrial RenaissanceTM ETF,44.74,-0.35,-0.78%,"56,483",,,,,ETF,48.36,44.12,,,,
+PSCT,Invesco S&P SmallCap Information Technology ETF,126.16,-0.62,-0.49%,739,,,,,ETF,130.7,124.22,,,,
+FTXN,First Trust Nasdaq Oil & Gas ETF,27.47,-0.46,-1.65%,"162,565",,,,,ETF,27.42,27.16,,,,
+FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,37.13,0.13,+0.35%,"35,133",,,,,ETF,38.17,36.27,,,,
+TUR,iShares MSCI Turkey ETF,33.18,0.18,+0.55%,"161,910",,,,,ETF,34.0,28.44,,,,
+PTF,Invesco DWA Technology Momentum ETF,124.61,-0.76,-0.61%,"4,786",,,,,ETF,125.22,119.29,,,,
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,47.61,-0.06,-0.13%,"6,552",,,,,ETF,47.05,46.9,,,,
+VSDA,VictoryShares Dividend Accelerator ETF,44.59,-0.16,-0.36%,"6,487",,,,,ETF,45.05,44.06,,,,
+EWJV,iShares MSCI Japan Value ETF,25.55,-0.07,-0.27%,"2,647",,,,,ETF,25.4,24.07,,,,
+PSC,Principal U.S. Small-Cap Multi-Factor ETF,38.95,-0.03,-0.08%,"1,911",,,,,ETF,41.33,40.31,,,,
+FYT,First Trust Small Cap Value AlphaDEX Fund,44.39,-0.07,-0.17%,"11,469",,,,,ETF,48.1,46.45,,,,
+PTH,Invesco DWA Healthcare Momentum ETF,112.16,0.94,+0.85%,"2,434",,,,,ETF,115.61,121.51,,,,
+IUS,Invesco RAFI Strategic US ETF,38.35,0.02,+0.05%,"14,395",,,,,ETF,37.85,36.96,,,,
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,20.46,0.09,+0.44%,"41,240",,,,,ETF,20.78,20.74,,,,
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,81.65,-0.08,-0.10%,"16,052",,,,,ETF,80.86,77.24,,,,
+RTH,VanEck Retail ETF,163.08,-0.02,-0.01%,"2,544",,,,,ETF,161.91,163.36,,,,
+DALI,First Trust Dorsey Wright DALI 1 ETF,24.94,0.09,+0.38%,"21,139",,,,,ETF,24.91,25.0,,,,
+PRN,Invesco DWA Industrials Momentum ETF,89.48,-0.52,-0.58%,"1,901",,,,,ETF,93.99,89.1,,,,
+FCAL,First Trust California Municipal High Income ETF,49.72,0.19,+0.38%,"10,188",,,,,ETF,49.1,48.55,,,,
+ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,38.2,0.06,+0.16%,"109,524",,,,,ETF,39.7,38.39,,,,
+NFTY,First Trust India NIFTY 50 Equal Weight ETF,42.68,0.37,+0.87%,"6,351",,,,,ETF,42.49,43.96,,,,
+IPKW,Invesco International BuyBack Achievers ETF,34.15,0.07,+0.22%,"4,174",,,,,ETF,34.82,32.85,,,,
+FLN,First Trust Latin America AlphaDEX Fund,16.94,-0.12,-0.70%,"7,969",,,,,ETF,17.33,17.05,,,,
+BLCN,Siren Nasdaq NexGen Economy ETF,21.07,0.04,+0.19%,"8,011",,,,,ETF,21.51,23.62,,,,
+PSCI,Invesco S&P SmallCap Industrials ETF,90.27,-0.31,-0.34%,"6,160",,,,,ETF,96.29,89.86,,,,
+PSCC,Invesco S&P SmallCap Consumer Staples ETF,108.46,-0.07,-0.07%,"3,451",,,,,ETF,108.32,104.19,,,,
+ISDX,Invesco RAFI Strategic Developed ex-US ETF,26.54,0.07,+0.26%,"147,443",,,,,ETF,28.17,26.8,,,,
+EMCB,WisdomTree Emerging Markets Corporate Bond Fund,62.57,-0.03,-0.06%,"1,317",,,,,ETF,62.52,61.3,,,,
+IUSS,Invesco RAFI Strategic US Small Company ETF,33.58,0.01,+0.03%,"6,749",,,,,ETF,35.57,34.22,,,,
+PSET,Principal Quality ETF,51.77,0.01,+0.02%,"1,499",,,,,ETF,51.78,50.06,,,,
+BSDE,Invesco BulletShares (R) 2024 Emerging Markets Debt ETF,23.95,-0.01,-0.04%,"3,650",,,,,ETF,24.01,24.04,,,,
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,84.84,-0.8,-0.94%,"1,050",,,,,ETF,90.12,83.11,,,,
+RNSC,First Trust Small Cap US Equity Select ETF,25.83,-0.13,-0.50%,959,,,,,ETF,27.31,26.34,,,,
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,57.73,-0.08,-0.14%,2,,,,,ETF,61.31,59.56,,,,
+BSCE,Invesco BulletShares (R) 2023 USD Emerging Markets Debt ETF,23.38,0.03,+0.13%,"5,046",,,,,ETF,23.37,23.28,,,,
+RNDV,First Trust US Equity Dividend Select ETF,28.08,-0.08,-0.28%,"3,409",,,,,ETF,28.58,28.09,,,,
+SQLV,Royce Quant Small-Cap Quality Value ETF,34.4,-0.06,-0.17%,354,,,,,ETF,36.75,35.58,,,,
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,47.23,0.07,+0.15%,"1,179",,,,,ETF,47.41,45.29,,,,
+BFIT,Global X Health & Wellness ETF,22.79,-0.11,-0.48%,"2,066",,,,,ETF,22.61,21.1,,,,
+ISEM,Invesco RAFI Strategic Emerging Markets ETF,23.43,-0.01,-0.02%,845,,,,,ETF,23.9,22.6,,,,
+MFLX,First Trust Flexible Municipal High Income ETF,16.76,-0.05,-0.30%,157,,,,,ETF,16.61,16.5,,,,
+FXAIX,Fidelity 500 Index Fund,141.93,0.54,+0.38%,,,,,,Mutual Fund,140.06,137.05,5.87%,7.43%,,
+CLBAX,American Funds American Balanced Fund Class 529-A,29.54,0.03,+0.10%,,,,,,Mutual Fund,29.23,28.87,1.79%,3.38%,,
+RLBBX,American Funds American Balanced Fund,29.38,0.03,+0.10%,,,,,,Mutual Fund,29.06,28.7,1.61%,3.18%,,
+BALCX,American Funds American Balanced Fund,29.38,0.03,+0.10%,,,,,,Mutual Fund,29.06,28.7,1.61%,3.18%,,
+FBAFX,American Funds American Balanced Fund,29.6,0.03,+0.10%,,,,,,Mutual Fund,29.3,28.93,1.85%,3.45%,,
+FBONX,American Funds American Balanced Fund,29.59,0.04,+0.14%,,,,,,Mutual Fund,29.29,28.93,1.89%,3.49%,,
+RLBAX,American Funds American Balanced Fund,29.35,0.03,+0.10%,,,,,,Mutual Fund,29.03,28.67,1.61%,3.18%,,
+CLBCX,American Funds American Balanced Fund,29.58,0.03,+0.10%,,,,,,Mutual Fund,29.26,28.9,1.59%,3.18%,,
+RLBFX,American Funds American Balanced Fund Class R-5,29.64,0.03,+0.10%,,,,,,Mutual Fund,29.34,28.97,1.86%,3.45%,,
+AMBFX,American Balanced Fund,29.58,0.03,+0.10%,,,,,,Mutual Fund,29.27,28.91,,,,
+ABALX,American Funds American Balanced Fund Class A,29.6,0.03,+0.10%,,,,,,Mutual Fund,29.3,28.93,1.79%,3.39%,,
+BALFX,American Funds American Balanced Fund,29.57,0.04,+0.14%,,,,,,Mutual Fund,29.27,28.9,1.82%,3.41%,,
+RLBCX,American Funds American Balanced Fund Class R-3,29.42,0.04,+0.14%,,,,,,Mutual Fund,29.11,28.75,1.75%,3.32%,,
+CLBEX,American Funds American Balanced Fund Class 529-E,29.52,0.04,+0.14%,,,,,,Mutual Fund,29.21,28.85,1.76%,3.32%,,
+RLEFX,American Funds American Balanced Fund,29.57,0.03,+0.10%,,,,,,Mutual Fund,29.27,28.9,1.84%,3.43%,,
+RLBGX,American Funds American Balanced Fund Class R-6,29.61,0.03,+0.10%,,,,,,Mutual Fund,29.31,28.94,1.87%,3.47%,,
+RLBEX,American Funds American Balanced Fund,29.55,0.03,+0.10%,,,,,,Mutual Fund,29.24,28.88,1.82%,3.38%,,
+CLBFX,American Funds American Balanced Fund Class 529-F,29.51,0.03,+0.10%,,,,,,Mutual Fund,29.21,28.84,1.85%,3.44%,,
+RAMHX,American Funds American Balanced Fund Class R-2E,29.46,0.03,+0.10%,,,,,,Mutual Fund,29.15,28.79,1.68%,3.24%,,
+AFMBX,American Funds American Balanced Fund,29.59,0.03,+0.10%,,,,,,Mutual Fund,29.28,28.92,1.91%,3.47%,,
+CIREX,American Funds Capital Income Builder Class 529-E,64.22,0.15,+0.23%,,,,,,Mutual Fund,63.74,62.75,0.70%,2.82%,,
+CAIBX,American Funds Capital Income Builder Class A,64.21,0.15,+0.23%,,,,,,Mutual Fund,63.74,62.74,0.76%,2.89%,,
+RIRHX,American Funds Capital Income Builder,64.09,0.15,+0.23%,,,,,,Mutual Fund,63.63,62.64,0.79%,2.93%,,
+RIRBX,American Funds Capital Income Builder Class R-2,64.27,0.15,+0.23%,,,,,,Mutual Fund,63.77,62.77,0.57%,2.69%,,
+RIRCX,American Funds Capital Income Builder Class R-3,64.24,0.14,+0.22%,,,,,,Mutual Fund,63.75,62.76,0.67%,2.79%,,
+CAIFX,American Funds Capital Income Builder,64.14,0.15,+0.23%,,,,,,Mutual Fund,63.68,62.68,0.83%,2.96%,,
+CIRFX,American Funds Capital Income Builder,64.16,0.15,+0.23%,,,,,,Mutual Fund,63.7,62.7,0.79%,2.92%,,
+FBCIX,American Funds Capital Income Builder,64.21,0.15,+0.23%,,,,,,Mutual Fund,63.75,62.75,0.83%,2.96%,,
+RIREX,American Funds Capital Income Builder Class R-4,64.19,0.15,+0.23%,,,,,,Mutual Fund,63.72,62.72,0.76%,2.89%,,
+RIRAX,American Funds Capital Income Builder,64.31,0.15,+0.23%,,,,,,Mutual Fund,63.81,62.81,0.57%,2.69%,,
+CIBCX,American Funds Capital Income Builder Class C,64.41,0.15,+0.23%,,,,,,Mutual Fund,63.91,62.91,0.56%,2.68%,,
+CIBFX,American Funds Capital Income Builder,64.21,0.15,+0.23%,,,,,,Mutual Fund,63.74,62.74,0.75%,2.88%,,
+RIRFX,American Funds Capital Income Builder,64.21,0.15,+0.23%,,,,,,Mutual Fund,63.76,62.76,0.82%,2.95%,,
+FWCBX,American Funds Capital Income Builder,64.19,0.15,+0.23%,,,,,,Mutual Fund,63.73,62.73,0.83%,2.96%,,
+CFIHX,American Funds Capital Income Builder,64.17,0.15,+0.23%,,,,,,Mutual Fund,63.72,62.72,0.83%,2.98%,,
+RIRGX,American Funds Capital Income Builder,64.18,0.15,+0.23%,,,,,,Mutual Fund,63.73,62.73,0.85%,2.98%,,
+CIRCX,Capital Income Builder Class 529-C Shares,64.4,0.15,+0.23%,,,,,,Mutual Fund,63.9,62.89,0.55%,2.67%,,
+RCEEX,American Funds Capital Income Builder Class R-2E,63.93,0.15,+0.23%,,,,,,Mutual Fund,63.45,62.46,0.64%,2.76%,,
+CIRAX,American Funds Capital Income Builder Class 529-A,64.18,0.15,+0.23%,,,,,,Mutual Fund,63.72,62.72,0.75%,2.88%,,
+DODGX,Dodge & Cox Stock Fund - Class I,216.04,0.89,+0.41%,,,,,,Mutual Fund,221.39,219.96,,,,
+CFAEX,American Funds The Bond Fund of America,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.10%,3.94%,,
+BFAFX,American Funds The Bond Fund of America Class F-1,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.16%,3.99%,,
+BFFAX,American Funds The Bond Fund of America Class F-3,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.25%,4.10%,,
+ABNFX,American Funds The Bond Fund of America Class F-2,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.23%,4.07%,,
+CFAFX,American Funds The Bond Fund of America,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.20%,4.04%,,
+RBFEX,American Funds The Bond Fund of America Class R-4,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.17%,4.01%,,
+RBFFX,American Funds The Bond Fund of America Class R-5,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.24%,4.09%,,
+CFAAX,American Funds The Bond Fund of America Class 529-A,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.15%,3.99%,,
+RBFGX,American Funds The Bond Fund of America Class R-6,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.25%,4.10%,,
+CFACX,American Funds The Bond Fund of America,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,1.96%,3.78%,,
+FFBOX,American Funds The Bond Fund of America,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.23%,4.08%,,
+RBEBX,American Funds The Bond Fund of America Class R-2E,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.05%,3.88%,,
+RBFAX,American Funds The Bond Fund of America Class R-1,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,1.98%,3.81%,,
+RBFBX,American Funds The Bond Fund of America Class R-2,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,1.98%,3.80%,,
+RBFCX,American Funds The Bond Fund of America Class R-3,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.09%,3.92%,,
+ABNDX,American Funds The Bond Fund of America Class A,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.16%,4.00%,,
+FBOFX,American Funds The Bond Fund of America,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.24%,4.08%,,
+BFACX,American Funds The Bond Fund of America Class C,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,1.98%,3.80%,,
+RBFHX,American Funds The Bond Fund of America Class R-5E,11.74,0.0,0.00%,,,,,,Mutual Fund,11.53,11.57,2.22%,4.06%,,
+DODIX,Dodge & Cox Income Fund,12.56,0.0,0.00%,,,,,,Mutual Fund,12.46,12.41,1.95%,3.95%,,
+VWINX,Vanguard Wellesley Income Fund,24.8,0.01,+0.04%,,,,,,Mutual Fund,24.63,25.26,0.17%,2.26%,,
+VWIAX,Vanguard Wellesley Income Fund Admiral Shares,60.08,0.02,+0.03%,,,,,,Mutual Fund,59.67,61.2,,,,
+CNWEX,American Funds New World Fund Class 529-E,69.05,0.19,+0.28%,,,,,,Mutual Fund,68.58,65.89,3.42%,6.11%,,
+RNWCX,American Funds New World Fund,69.17,0.18,+0.26%,,,,,,Mutual Fund,68.69,65.99,3.41%,6.10%,,
+RNWFX,American Funds New World Fund Class R-5,70.6,0.19,+0.27%,,,,,,Mutual Fund,70.08,67.46,3.57%,6.26%,,
+CNWAX,American Funds New World Fund Class 529-A,69.65,0.19,+0.27%,,,,,,Mutual Fund,69.16,66.49,3.48%,6.17%,,
+RNWBX,American Funds New World Fund,67.23,0.18,+0.27%,,,,,,Mutual Fund,66.8,64.08,3.31%,5.97%,,
+FWWNX,American Funds New World Fund,70.14,0.19,+0.27%,,,,,,Mutual Fund,69.63,67.03,3.56%,6.25%,,
+CNWCX,American Funds New World Fund Class 529-C,67.2,0.18,+0.27%,,,,,,Mutual Fund,66.78,64.02,3.26%,5.94%,,
+RNEBX,American Funds New World Fund,69.09,0.18,+0.26%,,,,,,Mutual Fund,68.62,65.89,3.37%,6.05%,,
+RNWAX,American Funds New World Fund,67.2,0.18,+0.27%,,,,,,Mutual Fund,66.77,64.08,3.31%,5.98%,,
+FNFWX,American Funds New World Fund,70.27,0.19,+0.27%,,,,,,Mutual Fund,69.75,67.13,3.56%,6.26%,,
+CNWFX,American Funds New World Fund Class 529-F,69.44,0.19,+0.27%,,,,,,Mutual Fund,68.94,66.34,3.52%,6.22%,,
+FNWFX,American Funds New World Fund,70.41,0.19,+0.27%,,,,,,Mutual Fund,69.89,67.29,3.58%,6.28%,,
+NFFFX,American Funds New World Fund,70.17,0.19,+0.27%,,,,,,Mutual Fund,69.65,67.03,3.56%,6.25%,,
+NEWFX,American Funds New World Fund Class A,70.37,0.19,+0.27%,,,,,,Mutual Fund,69.87,67.18,3.49%,6.17%,,
+RNWEX,American Funds - New World Fund Inc Class R-4 Shares,69.9,0.18,+0.26%,,,,,,Mutual Fund,69.4,66.74,,,,
+NWFFX,American Funds New World Fund Class F-1,69.88,0.19,+0.27%,,,,,,Mutual Fund,69.39,66.7,3.50%,6.18%,,
+RNWHX,American Funds New World Fund Class R-5E,69.55,0.18,+0.26%,,,,,,Mutual Fund,69.04,66.44,3.53%,6.23%,,
+NEWCX,American Funds New World Fund Class C,67.1,0.18,+0.27%,,,,,,Mutual Fund,66.67,63.91,3.30%,5.97%,,
+RNWGX,American Funds New World Fund Class R-6,70.37,0.19,+0.27%,,,,,,Mutual Fund,69.85,67.25,3.58%,6.28%,,
+TRAIX,T. Rowe Price Capital Appreciation Fund,31.61,0.1,+0.32%,,,,,,Mutual Fund,31.03,32.04,5.52%,6.70%,,
+PACLX,T. Rowe Price Capital Appreciation Fund,31.13,0.1,+0.32%,,,,,,Mutual Fund,30.57,31.54,5.44%,6.59%,,
+PRWCX,T. Rowe Price Capital Appreciation Fund,31.61,0.1,+0.32%,,,,,,Mutual Fund,31.03,32.0,5.49%,6.66%,,
+FRGLX,First Eagle Global Fund Class R5,61.25,-0.04,-0.07%,,,,,,Mutual Fund,60.09,58.09,3.41%,6.53%,,
+EAGRX,First Eagle Global Fund Class R4,62.16,-0.03,-0.05%,,,,,,Mutual Fund,60.99,58.92,3.41%,6.53%,,
+FESGX,First Eagle Global Fund Class C,59.02,-0.03,-0.05%,,,,,,Mutual Fund,57.95,56.17,3.22%,6.31%,,
+FEGRX,First Eagle Global Fund Class R6,62.17,-0.03,-0.05%,,,,,,Mutual Fund,60.98,58.99,3.50%,6.62%,,
+SGENX,First Eagle Global Fund,61.78,-0.03,-0.05%,,,,,,Mutual Fund,60.62,58.59,3.42%,6.52%,,
+EARGX,First Eagle Global Fund Class R3,61.73,-0.04,-0.06%,,,,,,Mutual Fund,60.57,58.56,3.35%,6.47%,,
+SGIIX,First Eagle Global Fund,62.15,-0.03,-0.05%,,,,,,Mutual Fund,60.97,58.96,3.46%,6.59%,,
+JLGRX,JPMorgan Large Cap Growth Fund,49.67,0.3,+0.60%,,,,,,Mutual Fund,48.91,48.94,8.69%,7.19%,,
+OLGAX,JPMorgan Large Cap Growth Fund,46.67,0.28,+0.60%,,,,,,Mutual Fund,45.97,45.99,8.56%,7.09%,,
+JLGZX,JPMorgan Large Cap Growth Fund,43.77,0.26,+0.59%,,,,,,Mutual Fund,43.13,43.2,8.50%,7.02%,,
+OLGCX,JPMorgan Large Cap Growth Fund Class C,30.84,0.18,+0.58%,,,,,,Mutual Fund,30.4,30.71,8.44%,6.93%,,
+JLGPX,JPMorgan Large Cap Growth Fund,47.0,0.28,+0.60%,,,,,,Mutual Fund,46.3,46.33,8.57%,7.09%,,
+JLGMX,JPMorgan Large Cap Growth Fund,50.31,0.3,+0.60%,,,,,,Mutual Fund,49.53,49.57,8.71%,7.23%,,
+JLGQX,JPMorgan Large Cap Growth Fund,47.82,0.29,+0.61%,,,,,,Mutual Fund,47.1,47.15,8.63%,7.15%,,
+SEEGX,JPMorgan Large Cap Growth Fund I Class,47.93,0.29,+0.61%,,,,,,Mutual Fund,47.2,47.26,7.06%,7.80%,,
+FDGRX,Fidelity Growth Company Fund,25.89,0.2,+0.77%,,,,,,Mutual Fund,25.15,25.33,14.53%,15.90%,,
+XOM,Exxon Mobil Corporation,115.05,-1.94,-1.66%,15.749M,17.174M,,,,Equity,,,,,468.366B,8.82
+TSM,Taiwan Semiconductor Manufacturing Company Limited,90.24,0.04,+0.04%,5.869M,12.882M,,,,Equity,,,,,467.992B,14.06
+JPM,JPMorgan Chase & Co.,127.47,-0.14,-0.11%,8.739M,13.524M,,,,Equity,,,,,376.458B,10.56
+CVX,Chevron Corporation,167.65,-2.23,-1.31%,5.387M,8.983M,,,,Equity,,,,,322.304B,9.29
+PFE,Pfizer Inc.,41.5,-0.05,-0.12%,25.918M,23.219M,,,,Equity,,,,,234.243B,7.6
+BHP,BHP Group Limited,59.96,-0.68,-1.12%,2.658M,3.205M,,,,Equity,,,,,221.193B,8.34
+TM,Toyota Motor Corporation,138.87,-1.55,-1.10%,"223,837","225,053",,,,Equity,,,,,194.873B,10.47
+TTE,TotalEnergies SE,62.8,0.08,+0.13%,"980,687",1.802M,,,,Equity,,,,,154.204B,8.0
+HSBC,HSBC Holdings plc,35.18,0.49,+1.41%,1.415M,2.5M,,,,Equity,,,,,140.518B,9.38
+SNY,Sanofi,55.93,1.09,+1.99%,2.686M,2.051M,,,,Equity,,,,,139.681B,15.12
+INTC,Intel Corporation,32.81,-0.02,-0.06%,28.517M,47.762M,,,,Equity,,,,,138.062B,16.91
+QCOM,QUALCOMM Incorporated,123.0,-0.04,-0.03%,5.261M,7.628M,,,,Equity,,,,,137.145B,11.77
+UL,Unilever PLC,53.58,0.26,+0.49%,1.958M,1.981M,,,,Equity,,,,,135.427B,16.44
+COP,ConocoPhillips,106.26,-1.49,-1.38%,4.757M,6.864M,,,,Equity,,,,,128.774B,7.29
+DE,Deere & Company,369.65,-4.17,-1.12%,1.831M,1.583M,,,,Equity,,,,,109.535B,13.74
+C,Citigroup Inc.,45.86,0.09,+0.20%,11.58M,20.157M,,,,Equity,,,,,89.889B,6.45
+RIO,Rio Tinto Group,66.75,-0.1,-0.15%,1.802M,3.343M,,,,Equity,,,,,108.271B,8.76
+SCHW,The Charles Schwab Corporation,49.35,0.48,+0.98%,28.04M,23.473M,,,,Equity,,,,,91.829B,14.1
+EQNR,Equinor ASA,28.72,-0.58,-1.98%,3.359M,3.652M,,,,Equity,,,,,92.4B,3.25
+CB,Chubb Limited,196.8,0.81,+0.41%,1.188M,1.877M,,,,Equity,,,,,81.504B,15.69
+BTI,British American Tobacco p.l.c.,35.28,0.25,+0.71%,2.633M,3.989M,,,,Equity,,,,,78.884B,9.67
+CI,The Cigna Group,265.29,-0.59,-0.22%,1.66M,1.764M,,,,Equity,,,,,78.8B,12.45
+IBN,ICICI Bank Limited,21.7,0.04,+0.18%,3.634M,6.861M,,,,Equity,,,,,75.758B,19.73
+VALE,Vale S.A.,15.1,-0.08,-0.53%,15.367M,22.585M,,,,Equity,,,,,70.531B,4.21
+EOG,"EOG Resources, Inc.",119.37,-1.0,-0.83%,2.756M,3.981M,,,,Equity,,,,,70.157B,9.03
+PBR,Petróleo Brasileiro S.A. - Petrobras,10.69,-0.18,-1.66%,12.685M,22.537M,,,,Equity,,,,,69.721B,1.9
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,9.51,-0.17,-1.76%,4.06M,8.957M,,,,Equity,,,,,66.665B,1.7
+SAN,"Banco Santander, S.A.",3.8,0.09,+2.43%,3.129M,5.468M,,,,Equity,,,,,62.383B,6.33
+FCX,Freeport-McMoRan Inc.,40.29,-0.03,-0.07%,7.762M,12.868M,,,,Equity,,,,,57.643B,17.22
+OXY,Occidental Petroleum Corporation,63.04,-1.53,-2.37%,10.455M,14.043M,,,,Equity,,,,,56.845B,5.08
+MPC,Marathon Petroleum Corporation,128.68,-4.03,-3.04%,3.217M,4.012M,,,,Equity,,,,,56.828B,4.6
+STLA,Stellantis N.V.,17.65,0.07,+0.40%,3.479M,5.381M,,,,Equity,,,,,56.514B,3.03
+CHTR,"Charter Communications, Inc.",350.27,-2.85,-0.81%,"765,105",1.133M,,,,Equity,,,,,53.469B,11.59
+NGG,National Grid plc,71.31,0.94,+1.34%,"404,094","302,822",,,,Equity,,,,,52.447B,14.26
+E,Eni S.p.A.,29.6,0.12,+0.41%,"181,393","425,511",,,,Equity,,,,,49.512B,3.43
+PNC,"The PNC Financial Services Group, Inc.",121.88,0.45,+0.37%,3.31M,3.48M,,,,Equity,,,,,49.275B,8.79
+GM,General Motors Company,34.59,-0.5,-1.42%,10.056M,15.484M,,,,Equity,,,,,49.134B,5.83
+PXD,Pioneer Natural Resources Company,208.16,-2.24,-1.06%,1.693M,2.614M,,,,Equity,,,,,49.002B,6.68
+VLO,Valero Energy Corporation,132.59,-2.5,-1.85%,3.117M,4.347M,,,,Equity,,,,,48.772B,4.57
+PSX,Phillips 66,102.84,-1.59,-1.52%,3.665M,3.766M,,,,Equity,,,,,47.4B,4.42
+ITUB,Itaú Unibanco Holding S.A.,4.8,-0.02,-0.41%,19.168M,33.133M,,,,Equity,,,,,46.919B,8.14
+ING,ING Groep N.V.,12.43,0.28,+2.30%,2.866M,4.566M,,,,Equity,,,,,44.947B,11.0
+HMC,"Honda Motor Co., Ltd.",26.13,-0.45,-1.69%,"794,601",1.051M,,,,Equity,,,,,45.488B,8.46
+TFC,Truist Financial Corporation,32.74,0.72,+2.25%,10.451M,12.613M,,,,Equity,,,,,43.483B,7.39
+HES,Hess Corporation,140.88,-1.33,-0.94%,1.419M,1.859M,,,,Equity,,,,,43.135B,20.81
+LYG,Lloyds Banking Group plc,2.39,0.02,+0.84%,12.177M,11.073M,,,,Equity,,,,,39.8B,6.64
+ADM,Archer-Daniels-Midland Company,78.74,-0.67,-0.84%,2.339M,3.266M,,,,Equity,,,,,43.027B,10.21
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",7.12,0.08,+1.14%,1.528M,1.68M,,,,Equity,,,,,42.81B,6.59
+KMI,"Kinder Morgan, Inc.",17.71,0.0,0.00%,7.616M,13.148M,,,,Equity,,,,,39.812B,15.81
+ET,Energy Transfer LP,12.51,-0.25,-1.96%,9.482M,13.432M,,,,Equity,,,,,38.713B,8.94
+DOW,Dow Inc.,54.66,0.02,+0.04%,4.771M,5.238M,,,,Equity,,,,,38.699B,8.82
+AIG,"American International Group, Inc.",51.08,0.84,+1.67%,3.342M,5.462M,,,,Equity,,,,,37.476B,3.93
+MFG,"Mizuho Financial Group, Inc.",2.91,-0.01,-0.34%,"653,486",1.272M,,,,Equity,,,,,36.874B,8.08
+NUE,Nucor Corporation,145.53,2.06,+1.44%,2.13M,1.879M,,,,Equity,,,,,36.757B,5.05
+COF,Capital One Financial Corporation,94.93,0.09,+0.09%,1.987M,3.473M,,,,Equity,,,,,36.306B,5.3
+CRH,CRH plc,47.77,0.67,+1.42%,"612,446","747,524",,,,Equity,,,,,35.444B,13.73
+NTR,Nutrien Ltd.,68.01,-3.42,-4.79%,2.862M,2.21M,,,,Equity,,,,,34.779B,4.8
+DVN,Devon Energy Corporation,52.91,-0.62,-1.16%,6.127M,10.497M,,,,Equity,,,,,34.603B,5.8
+CVE,Cenovus Energy Inc.,17.78,-0.6,-3.26%,8.115M,7.49M,,,,Equity,,,,,34.408B,7.47
+ON,ON Semiconductor Corporation,75.34,-1.2,-1.57%,3.526M,7.042M,,,,Equity,,,,,33.374B,18.79
+ORAN,Orange S.A.,12.48,0.14,+1.13%,"463,250","471,153",,,,Equity,,,,,33.182B,15.6
+DHI,"D.R. Horton, Inc.",95.64,-1.75,-1.80%,3.508M,3.025M,,,,Equity,,,,,32.842B,5.94
+NWG,NatWest Group plc,6.72,0.09,+1.36%,1.051M,1.7M,,,,Equity,,,,,32.203B,7.55
+AMP,"Ameriprise Financial, Inc.",297.32,-1.17,-0.39%,"407,384","630,137",,,,Equity,,,,,31.302B,13.21
+BNTX,BioNTech SE,128.9,3.3,+2.63%,"377,322","660,985",,,,Equity,,,,,31.131B,3.24
+VOD,Vodafone Group Public Limited Company,11.33,0.16,+1.43%,3.848M,7.953M,,,,Equity,,,,,30.583B,14.34
+HAL,Halliburton Company,32.71,-0.35,-1.06%,5.722M,9.701M,,,,Equity,,,,,29.685B,18.91
+BCS,Barclays PLC,7.55,0.15,+2.03%,7.642M,7.337M,,,,Equity,,,,,29.611B,5.1
+OKE,"ONEOK, Inc.",65.69,-0.3,-0.45%,1.892M,2.588M,,,,Equity,,,,,29.378B,17.11
+HPQ,HP Inc.,29.29,-0.12,-0.41%,3.824M,6.275M,,,,Equity,,,,,28.998B,11.49
+LEN-B,Lennar Corporation,86.71,-1.52,-1.72%,"67,956","74,025",,,,Equity,,,,,28.852B,5.39
+LEN,Lennar Corporation,102.06,-1.97,-1.89%,1.621M,2.26M,,,,Equity,,,,,28.802B,6.34
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,28.37,0.28,+1.00%,"191,348","229,306",,,,Equity,,,,,28.104B,19.98
+FERG,Ferguson plc,124.73,0.21,+0.17%,1.124M,1.3M,,,,Equity,,,,,26.334B,12.64
+FANG,"Diamondback Energy, Inc.",140.55,-2.43,-1.70%,1.684M,2.426M,,,,Equity,,,,,25.804B,5.81
+ACGL,Arch Capital Group Ltd.,68.94,0.35,+0.51%,1.979M,2.134M,,,,Equity,,,,,25.682B,18.14
+TEF,"Telefónica, S.A.",4.44,0.04,+0.91%,"722,764",1.015M,,,,Equity,,,,,25.642B,13.06
+DFS,Discover Financial Services,97.02,-0.38,-0.39%,1.73M,2.515M,,,,Equity,,,,,25.163B,6.26
+URI,"United Rentals, Inc.",355.27,4.0,+1.14%,1.465M,"927,217",,,,Equity,,,,,25.202B,11.98
+TROW,"T. Rowe Price Group, Inc.",109.22,-0.37,-0.34%,"978,784",1.777M,,,,Equity,,,,,24.747B,16.3
+ALB,Albemarle Corporation,194.68,-2.03,-1.03%,2.014M,1.739M,,,,Equity,,,,,24.329B,8.52
+MT,ArcelorMittal S.A.,28.12,-0.01,-0.04%,1.241M,2.614M,,,,Equity,,,,,22.773B,2.76
+EC,Ecopetrol S.A.,10.91,-0.23,-2.06%,1.068M,2.208M,,,,Equity,,,,,22.429B,3.29
+UMC,United Microelectronics Corporation,8.53,0.1,+1.19%,4.374M,7.483M,,,,Equity,,,,,21.683B,7.48
+HIG,"The Hartford Financial Services Group, Inc.",69.86,0.61,+0.88%,1.1M,2.261M,,,,Equity,,,,,21.87B,12.84
+DAL,"Delta Air Lines, Inc.",33.69,0.23,+0.69%,6.144M,10.03M,,,,Equity,,,,,21.603B,16.2
+RYAAY,Ryanair Holdings plc,94.0,3.5,+3.87%,"576,806","382,070",,,,Equity,,,,,21.407B,14.22
+SQM,Sociedad Química y Minera de Chile S.A.,73.36,-0.45,-0.61%,1.246M,1.626M,,,,Equity,,,,,20.954B,5.36
+PKX,POSCO Holdings Inc.,67.93,-1.81,-2.60%,"386,406","231,429",,,,Equity,,,,,20.866B,9.12
+LH,Laboratory Corporation of America Holdings,232.18,-1.83,-0.78%,"406,598","614,717",,,,Equity,,,,,20.548B,16.62
+CNHI,CNH Industrial N.V.,13.86,0.13,+0.95%,7.325M,4.907M,,,,Equity,,,,,19.853B,10.27
+MTB,M&T Bank Corporation,117.57,0.16,+0.14%,1.448M,1.93M,,,,Equity,,,,,19.757B,10.2
+ERIC,Telefonaktiebolaget LM Ericsson (publ),5.88,0.02,+0.34%,8.804M,10.094M,,,,Equity,,,,,19.581B,10.89
+RJF,"Raymond James Financial, Inc.",89.35,-0.43,-0.48%,1.278M,1.591M,,,,Equity,,,,,19.323B,12.44
+CNP,"CenterPoint Energy, Inc.",30.77,0.38,+1.25%,4.625M,3.942M,,,,Equity,,,,,19.416B,19.35
+IX,ORIX Corporation,81.94,0.13,+0.16%,"24,006","26,756",,,,Equity,,,,,18.914B,8.21
+CTRA,Coterra Energy Inc.,24.94,-0.47,-1.85%,5.164M,9.258M,,,,Equity,,,,,19.092B,4.91
+ELP,Companhia Paranaense de Energia - COPEL,6.84,0.0,0.00%,"375,573","407,987",,,,Equity,,,,,18.718B,62.18
+SWKS,"Skyworks Solutions, Inc.",111.35,-1.13,-1.00%,1.25M,1.829M,,,,Equity,,,,,17.722B,15.17
+STLD,"Steel Dynamics, Inc.",103.43,0.21,+0.20%,1.67M,1.891M,,,,Equity,,,,,17.656B,4.94
+^SP500-50203010,S&P 500 Interactive Media & Ser,165.38,5.27,+3.29%,,,,,,Index,,,,,,
+^SP500-502030,S&P 500 Interactive Media & Ser,165.38,5.27,+3.29%,,,,,,Index,,,,,,
+^SP1500-502030,S&P Composite 1500 Interactive,164.80,5.22,+3.27%,,,,,,Index,,,,,,
+^SP1500-50203010,S&P Composite 1500 Interactive,164.80,5.22,+3.27%,,,,,,Index,,,,,,
+^DJUSNS,Dow Jones U.S. Internet Index,"2,540.81",74.87,+3.04%,,,,,,Index,,,,,,
+^SP500-5020,S&P 500 Media & Entertainment (,768.97,16.26,+2.16%,,,,,,Index,,,,,,
+^SP1500-5020,S&P Composite 1500 Media & Ente,739.28,15.45,+2.13%,,,,,,Index,,,,,,
+^DJUSSV,Dow Jones U.S. Software & Compu,"4,160.14",78.31,+1.92%,,,,,,Index,,,,,,
+^SP500-50,S&P 500 Telecommunication Services (Sector),196.00,3.29,+1.71%,,,,,,Index,,,,,,
+^SP1500-50,S&P Composite 1500 Communicatio,194.43,3.23,+1.69%,,,,,,Index,,,,,,
+^DJUSSW,Dow Jones U.S. Software Index,"4,685.19",70.42,+1.53%,,,,,,Index,,,,,,
+^SP1500-40101015,S&P Composite 1500 Regional Ban,89.93,1.16,+1.31%,,,,,,Index,,,,,,
+^DJUSTC,Dow Jones U.S. Technology Index,"3,831.70",39.61,+1.04%,,,,,,Index,,,,,,
+^SP1500-4010,S&P Composite 1500 Banks (Indus,294.04,2.57,+0.88%,,,,,,Index,,,,,,
+^SP1500-401010,S&P Composite 1500 Banks (Indus,411.11,3.59,+0.88%,,,,,,Index,,,,,,
+^DJUSBK,Dow Jones U.S. Banks Index,391.10,3.32,+0.86%,,,,,,Index,,,,,,
+^SP500-4010,S&P 500 Banks (Industry Group),280.01,2.27,+0.82%,,,,,,Index,,,,,,
+^SP500-401010,S&P 500 Banks (Industry),400.04,3.24,+0.82%,,,,,,Index,,,,,,
+^IXIC,NASDAQ Composite,"12,087.96",91.09,+0.76%,,,,,,Index,,,,,,
+^NDX,NASDAQ 100,"13,062.60",95.4,+0.74%,,,,,,Index,,,,,,
+^SP500-40101010,S&P 500 Diversified Banks (Sub,516.21,3.76,+0.73%,,,,,,Index,,,,,,
+^SP1500-40101010,S&P Composite 1500 Diversified,538.97,3.92,+0.73%,,,,,,Index,,,,,,
+^DJUSUT,Dow Jones U.S. Utilities Index,345.15,2.42,+0.71%,,,,,,Index,,,,,,
+^SP1500-6010,S&P Composite 1500 Real Estate,210.74,1.46,+0.70%,,,,,,Index,,,,,,
+^SP1500-60,S&P Composite 1500 Real Estate,210.20,1.42,+0.68%,,,,,,Index,,,,,,
+^SP500-45,S&P 500 Information Technology (Sector),"2,608.75",17.58,+0.68%,,,,,,Index,,,,,,
+^DJUSRE,Dow Jones U.S. Real Estate Inde,327.22,2.06,+0.63%,,,,,,Index,,,,,,
+^SP1500-45,S&P Composite 1500 Information,"2,631.53",16.22,+0.62%,,,,,,Index,,,,,,
+^DJUSRI,Dow Jones U.S. Real Estate Inve,135.88,0.83,+0.61%,,,,,,Index,,,,,,
+^SP100,S&P 100,"1,882.04",10.1,+0.54%,,,,,,Index,,,,,,
+^DJUSIS,Dow Jones U.S. Support Services,667.87,3.48,+0.52%,,,,,,Index,,,,,,
+^DJUSPN,Dow Jones U.S. Pharmaceuticals,"1,059.01",4.97,+0.47%,,,,,,Index,,,,,,
+^SP1500-2550,S&P Composite 1500 Retailing (I,"2,753.10",11.83,+0.43%,,,,,,Index,,,,,,
+^DJUSME,Dow Jones U.S. Media Index,795.46,3.28,+0.41%,,,,,,Index,,,,,,
+^SPX,S&P 500 INDEX,"4,105.02",14.64,+0.36%,,,,,,Index,,,,,,
+^GSPC,S&P 500,"4,105.02",14.64,+0.36%,,,,,,Index,,,,,,
+^DJUSFN,Dow Jones U.S. Financials Index,696.49,2.41,+0.35%,,,,,,Index,,,,,,
+^SP1500-40,S&P Composite 1500 Financials (,574.94,1.96,+0.34%,,,,,,Index,,,,,,
+^DJUSGT,Dow Jones U.S. General Retailer,"1,860.63",6.3,+0.34%,,,,,,Index,,,,,,
+^SPTMI,S&P TMI,"4,130.28",13.29,+0.32%,,,,,,Index,,,,,,
+^SP1500,S&P Composite 1500,934.65,2.98,+0.32%,,,,,,Index,,,,,,
+^SP500-40,S&P 500 Financials (Sector),531.81,1.63,+0.31%,,,,,,Index,,,,,,
+^SP1500-3520,S&P Composite 1500 - Pharmaceut,"1,353.75",4.02,+0.30%,,,,,,Index,,,,,,
+^DJUSHC,Dow Jones U.S. Health Care Inde,"1,423.05",4.14,+0.29%,,,,,,Index,,,,,,
+^SP1500-35,S&P Composite 1500 Health Care,"1,624.21",3.75,+0.23%,,,,,,Index,,,,,,
+^SPTEST1,S&P GLOBAL 1200 Materials (Indu,"2,220.48",5.12,+0.23%,,,,,,Index,,,,,,
+^SP500-35,S&P 500 Health Care (Sector),"1,557.33",3.5,+0.23%,,,,,,Index,,,,,,
+^DJUSBC,Dow Jones U.S. Broadcasting & E,"1,141.07",2.44,+0.21%,,,,,,Index,,,,,,
+^DJA,Dow Jones Composite Average,"11,156.67",23.63,+0.21%,,,,,,Index,,,,,,
+^SP1500-4520,S&P Composite 1500 Technology H,"2,776.90",5.16,+0.19%,,,,,,Index,,,,,,
+^SPCBMIRWDUSD1,S&P Developed BMI (USD),609.77,0.81,+0.13%,,,,,,Index,,,,,,
+^DJUSRT,Dow Jones U.S. Retail Index,"1,699.12",1.76,+0.10%,,,,,,Index,,,,,,
+^SP500-30,S&P 500 Consumer Staples (Sector),787.45,0.63,+0.08%,,,,,,Index,,,,,,
+^DJUSCY,Dow Jones U.S. Consumer Service,"1,236.87",0.95,+0.08%,,,,,,Index,,,,,,
+^SP1500-30,S&P Composite 1500 Consumer Sta,832.42,0.59,+0.07%,,,,,,Index,,,,,,
+^DJUSTQ,Dow Jones U.S. Technology Hardw,"3,952.49",2.62,+0.07%,,,,,,Index,,,,,,
+^SP500-25,S&P 500 Consumer Discretionary (Sector),"1,129.59",0.56,+0.05%,,,,,,Index,,,,,,
+^SP1500-4020,S&P Composite 1500 Diversified,988.49,0.43,+0.04%,,,,,,Index,,,,,,
+^SP500-4020,S&P 500 Diversified Financials (Industry Group),937.24,0.36,+0.04%,,,,,,Index,,,,,,
+^SP600,S&P 600,"1,150.01",0.2,+0.02%,,,,,,Index,,,,,,
+^SP500-45301020,S&P 500 Semiconductors (Sub Ind),"2,070.05",0.18,+0.01%,,,,,,Index,,,,,,
+^DJI2MN,Dow Jones Industrial Average (2,"33,485.29",2.57,+0.01%,,,,,,Index,,,,,,
+^DJI,Dow Jones Industrial Average,"33,485.29",2.57,+0.01%,,,,,,Index,,,,,,
+^SP1500-25,S&P Composite 1500 Consumer Dis,"1,045.78",-0.17,-0.02%,,,,,,Index,,,,,,
+^DJUSIG,Dow Jones U.S. Industrial Goods,990.74,-0.17,-0.02%,,,,,,Index,,,,,,
+^DJUSIN,Dow Jones U.S. Industrials Inde,936.19,-0.17,-0.02%,,,,,,Index,,,,,,
+^DJUSNG,Dow Jones U.S. Personal & House,911.55,-0.2,-0.02%,,,,,,Index,,,,,,
+^SP1500-45301020,S&P Composite 1500 Semiconducto,"2,059.32",-0.51,-0.02%,,,,,,Index,,,,,,
+^SP500-20,S&P 500 Industrials (Sector),827.76,-0.21,-0.03%,,,,,,Index,,,,,,
+^DJUSNC,Dow Jones U.S. Consumer Goods I,841.83,-0.57,-0.07%,,,,,,Index,,,,,,
+^SP1500-20,S&P Composite 1500 Industrials,903.38,-0.79,-0.09%,,,,,,Index,,,,,,
+^SP500-453010,S&P 500 Semiconductor & Semiconductor Equipment (Industry),"2,164.56",-3.65,-0.17%,,,,,,Index,,,,,,
+^SP500-4530,S&P 500 Semiconductors & Semiconductor Equipment (Industry Group),"2,164.56",-3.65,-0.17%,,,,,,Index,,,,,,
+^SP400,S&P 400,"2,447.09",-4.45,-0.18%,,,,,,Index,,,,,,
+^DJUSCG,Dow Jones U.S. Travel & Leisure,"1,292.04",-2.57,-0.20%,,,,,,Index,,,,,,
+^SP1500-4530,S&P Composite 1500 Semiconducto,"2,197.58",-4.43,-0.20%,,,,,,Index,,,,,,
+^SP1500-453010,S&P Composite 1500 Semiconducto,"2,197.58",-4.43,-0.20%,,,,,,Index,,,,,,
+^SP1500-1510,S&P Composite 1500 Materials (I,539.57,-1.19,-0.22%,,,,,,Index,,,,,,
+^SP1500-15,S&P Composite 1500 Materials (S,539.57,-1.19,-0.22%,,,,,,Index,,,,,,
+^DJUSSC,Dow Jones U.S. Semiconductors I,"7,558.53",-17.54,-0.23%,,,,,,Index,,,,,,
+^DJUSFI,Dow Jones U.S. Financial Servic,"1,435.50",-3.57,-0.25%,,,,,,Index,,,,,,
+^DJUSGF,Dow Jones U.S. Financial Servic,"1,609.01",-4.01,-0.25%,,,,,,Index,,,,,,
+^DJUSBM,Dow Jones U.S. Basic Materials,540.54,-1.65,-0.30%,,,,,,Index,,,,,,
+^SP500-25102010,S&P 500 Automobile Manufacturers (Sub Ind),58.96,-0.23,-0.39%,,,,,,Index,,,,,,
+^SP1500-25102010,S&P Composite 1500 Automobile M,66.29,-0.26,-0.39%,,,,,,Index,,,,,,
+^SP500-251020,S&P 500 Automobiles (Industry),78.67,-0.31,-0.39%,,,,,,Index,,,,,,
+^SP1500-251020,S&P Composite 1500 Automobiles,89.14,-0.36,-0.40%,,,,,,Index,,,,,,
+^DJUSAU,Dow Jones U.S. Automobiles Inde,683.09,-2.8,-0.41%,,,,,,Index,,,,,,
+^SP1500-2010,S&P Composite 1500 Capital Good,947.52,-4.0,-0.42%,,,,,,Index,,,,,,
+^DJUSAP,Dow Jones U.S. Automobiles & Pa,810.33,-3.51,-0.43%,,,,,,Index,,,,,,
+^SP500-2510,S&P 500 Automobiles & Components (Industry Group),107.98,-0.48,-0.44%,,,,,,Index,,,,,,
+^SP1500-2510,S&P Composite 1500 Automobiles,124.75,-0.56,-0.45%,,,,,,Index,,,,,,
+^SP1500-101020,"S&P Composite 1500 Oil, Gas & C",739.02,-10.79,-1.44%,,,,,,Index,,,,,,
+^SP500-101020,"S&P 500 Oil, Gas & Consumable Fuels (Industry)",736.08,-10.77,-1.44%,,,,,,Index,,,,,,
+^DJUSEN,Dow Jones U.S. Oil & Gas Index,705.86,-10.37,-1.45%,,,,,,Index,,,,,,
+^SP1500-10,S&P Composite 1500 Energy (Sect,646.63,-9.63,-1.47%,,,,,,Index,,,,,,
+^SP1500-1010,S&P Composite 1500 Energy (Indu,646.63,-9.63,-1.47%,,,,,,Index,,,,,,
+^SP500-1010,S&P 500 Energy (Industry Group),654.14,-9.77,-1.47%,,,,,,Index,,,,,,
+^GSPE,S&P 500 Energy (Sector),654.14,-9.77,-1.47%,,,,,,Index,,,,,,
+^DJUSOG,Dow Jones U.S. Oil & Gas Produc,842.16,-13.05,-1.53%,,,,,,Index,,,,,,
