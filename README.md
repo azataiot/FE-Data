@@ -1,6 +1,14 @@
 # FE-Data
 
-This data set includes:
+# New Version (2023-April)
+This data set includes more than 1000 stocks and ETFs from the US and Turkey. The data is collected from Yahoo Finance and Investing.com. The data is collected from 2010-01-01 to 2021-01-01. The data is collected daily. 
+The data set includes the following tickets:
+
+```bash
+
+```
+
+## Legacy Version
 
 ```bash
 us_stocks_tickers = ['M', 'NOK', 'AVTR', 'BCS', 'VTRS', 'XOM', 'DIDIY', 'ORCL', 'HAL', 'HST', 'XPEV', 'GM', 'PATH',
