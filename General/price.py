@@ -13,3 +13,4 @@ data = yf.download(tickers, start="2021-01-01", end="2023-04-01", group_by="tick
 
 # save data to csv
 data.to_csv('history.csv')
+
