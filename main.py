@@ -26,7 +26,7 @@ def generate_meta_data():
 # download all profiles and save them to json files
 def download_profile_raw_data():
     symbols = pd.read_csv(cwd / "data/metadata.raw.csv")["symbol"].tolist()
-    download_all_profiles(symbols, cwd / "data/profiles")
+    download_all_profiles(symbols, cwd / "data/profile")
 
 
 if __name__ == "__main__":
