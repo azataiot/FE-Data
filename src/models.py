@@ -1,8 +1,7 @@
 from pydantic import BaseModel
 
 
-class Profile(BaseModel):
-    address1: str | None = None
+class ProfileBase(BaseModel):
     city: str | None = None
     zip: str | None = None
     state: str | None = None
@@ -11,6 +10,10 @@ class Profile(BaseModel):
     website: str | None = None
     industry: str | None = None
     sector: str | None = None
+
+
+class ProfileIn(ProfileBase):
+    address1: str | None = None
     longBusinessSummary: str | None = None
     fullTimeEmployees: int | None = None
     auditRisk: int | None = None
@@ -20,6 +23,19 @@ class Profile(BaseModel):
     overallRisk: int | None = None
     governanceEpochDate: int | None = None
     compensationAsOfEpochDate: int | None = None
+
+
+class Profile(ProfileBase):
+    address: str | None = None
+    long_business_summary: str | None = None
+    full_time_employees: int | None = None
+    audit_risk: int | None = None
+    board_risk: int | None = None
+    compensation_risk: int | None = None
+    share_holder_rights_risk: int | None = None
+    overall_risk: int | None = None
+    governance_epoch_date: int | None = None
+    compensation_as_of_epoch_date: int | None = None
 
 
 class MetaDataRaw(BaseModel):
