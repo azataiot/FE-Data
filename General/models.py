@@ -3,7 +3,7 @@ from pydantic import BaseModel
 
 # create a class for the get_stock_profile_data() method as StockProfile
 
-class StockProfile(BaseModel):
+class Profile(BaseModel):
     address1: str | None = None
     city: str | None = None
     zip: str | None = None
@@ -15,7 +15,6 @@ class StockProfile(BaseModel):
     sector: str | None = None
     longBusinessSummary: str | None = None
     fullTimeEmployees: int | None = None
-    companyOfficers: list | None = None
     auditRisk: int | None = None
     boardRisk: int | None = None
     compensationRisk: int | None = None

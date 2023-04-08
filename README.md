@@ -8,15 +8,39 @@ This repo also includes markets, sectors and other categorial informations with 
 
 ## Contents
 
-### Data by Market Type
+### Asset MetaData DB
 
-### Data by Asset Sector
+- `meta_data.raw.csv` 
+  - Raw data includes only `symbol`, and `name` columns.
+- `meta_data.profile.csv`
+  - Includes everything in `meta_data.raw.csv` 
+  - Includes other profiling meta data about the asset, press [here]() for a sample.
+- `meta_data.csv`
+  - Includes everything in `meta_data.profile.csv`
+  - Includes `start_date` columns for earliest awailable data.
+- `meta_data.min.csv`
+  - Derived from `meta_data.csv` but keep only crusial columns such as:
+    - `symbol`
+    - `name`
+    - `market`
+    - `sector*`
+    - `industry*`
+    - `country*`
+    - `start_date`
+
+
+
+### Asset Price DB (OHLC)
+
+
+
+
+
+### Financial Markets Classification
 
 There is a problem in the financial world, different platforms and different companies uses different standards to describe same security or asset type, or same companies some times have several different equities on different markets with same or similar names. 
 
 To solve this problem I decided to review different types of data platforms and setup a unified way to describe data. 
-
-### Financial Markets Classification
 
 #### FED Financial Markets
 
