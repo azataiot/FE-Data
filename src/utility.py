@@ -2,7 +2,7 @@ from pathlib import Path
 from pandas import DataFrame
 
 
-def check_file_exists(file_path):
+def file_exists(file_path):
     """Check if a file exists at the given path.
 
     Args:
@@ -27,8 +27,10 @@ def get_file_list(dir_path, file_ext):
     return [f for f in Path(dir_path).glob(f"*.{file_ext}")]
 
 
-def extract_columns(
-    df: DataFrame, column_names: list[str] | tuple[str] | set[str]
+def extract_df_columns(
+    df: DataFrame,
+    column_names: list[str] | tuple[str] | set[str],
+    new_column_names: list[str] | tuple[str] | set[str] = None,
 ) -> DataFrame:
     """Extract columns from a dataframe.
 
@@ -39,4 +41,7 @@ def extract_columns(
     Returns:
         DataFrame: A dataframe with only the extracted columns.
     """
-    return df[column_names]
+    # check if the new column names are provided
+    if new_column_names is None:
+        new_column_names = column_names
+    return df[column_names].rename(columns=dict(zip(column_names, new_column_names)))

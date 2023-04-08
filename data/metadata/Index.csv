@@ -1,0 +1,101 @@
+symbol,name,market
+^SP500-50203010,S&P 500 Interactive Media & Ser,Index
+^SP500-502030,S&P 500 Interactive Media & Ser,Index
+^SP1500-502030,S&P Composite 1500 Interactive,Index
+^SP1500-50203010,S&P Composite 1500 Interactive,Index
+^DJUSNS,Dow Jones U.S. Internet Index,Index
+^SP500-5020,S&P 500 Media & Entertainment (,Index
+^SP1500-5020,S&P Composite 1500 Media & Ente,Index
+^DJUSSV,Dow Jones U.S. Software & Compu,Index
+^SP500-50,S&P 500 Telecommunication Services (Sector),Index
+^SP1500-50,S&P Composite 1500 Communicatio,Index
+^DJUSSW,Dow Jones U.S. Software Index,Index
+^SP1500-40101015,S&P Composite 1500 Regional Ban,Index
+^DJUSTC,Dow Jones U.S. Technology Index,Index
+^SP1500-4010,S&P Composite 1500 Banks (Indus,Index
+^SP1500-401010,S&P Composite 1500 Banks (Indus,Index
+^DJUSBK,Dow Jones U.S. Banks Index,Index
+^SP500-4010,S&P 500 Banks (Industry Group),Index
+^SP500-401010,S&P 500 Banks (Industry),Index
+^IXIC,NASDAQ Composite,Index
+^NDX,NASDAQ 100,Index
+^SP500-40101010,S&P 500 Diversified Banks (Sub,Index
+^SP1500-40101010,S&P Composite 1500 Diversified,Index
+^DJUSUT,Dow Jones U.S. Utilities Index,Index
+^SP1500-6010,S&P Composite 1500 Real Estate,Index
+^SP1500-60,S&P Composite 1500 Real Estate,Index
+^SP500-45,S&P 500 Information Technology (Sector),Index
+^DJUSRE,Dow Jones U.S. Real Estate Inde,Index
+^SP1500-45,S&P Composite 1500 Information,Index
+^DJUSRI,Dow Jones U.S. Real Estate Inve,Index
+^SP100,S&P 100,Index
+^DJUSIS,Dow Jones U.S. Support Services,Index
+^DJUSPN,Dow Jones U.S. Pharmaceuticals,Index
+^SP1500-2550,S&P Composite 1500 Retailing (I,Index
+^DJUSME,Dow Jones U.S. Media Index,Index
+^SPX,S&P 500 INDEX,Index
+^GSPC,S&P 500,Index
+^DJUSFN,Dow Jones U.S. Financials Index,Index
+^SP1500-40,S&P Composite 1500 Financials (,Index
+^DJUSGT,Dow Jones U.S. General Retailer,Index
+^SPTMI,S&P TMI,Index
+^SP1500,S&P Composite 1500,Index
+^SP500-40,S&P 500 Financials (Sector),Index
+^SP1500-3520,S&P Composite 1500 - Pharmaceut,Index
+^DJUSHC,Dow Jones U.S. Health Care Inde,Index
+^SP1500-35,S&P Composite 1500 Health Care,Index
+^SPTEST1,S&P GLOBAL 1200 Materials (Indu,Index
+^SP500-35,S&P 500 Health Care (Sector),Index
+^DJUSBC,Dow Jones U.S. Broadcasting & E,Index
+^DJA,Dow Jones Composite Average,Index
+^SP1500-4520,S&P Composite 1500 Technology H,Index
+^SPCBMIRWDUSD1,S&P Developed BMI (USD),Index
+^DJUSRT,Dow Jones U.S. Retail Index,Index
+^SP500-30,S&P 500 Consumer Staples (Sector),Index
+^DJUSCY,Dow Jones U.S. Consumer Service,Index
+^SP1500-30,S&P Composite 1500 Consumer Sta,Index
+^DJUSTQ,Dow Jones U.S. Technology Hardw,Index
+^SP500-25,S&P 500 Consumer Discretionary (Sector),Index
+^SP1500-4020,S&P Composite 1500 Diversified,Index
+^SP500-4020,S&P 500 Diversified Financials (Industry Group),Index
+^SP600,S&P 600,Index
+^SP500-45301020,S&P 500 Semiconductors (Sub Ind),Index
+^DJI2MN,Dow Jones Industrial Average (2,Index
+^DJI,Dow Jones Industrial Average,Index
+^SP1500-25,S&P Composite 1500 Consumer Dis,Index
+^DJUSIG,Dow Jones U.S. Industrial Goods,Index
+^DJUSIN,Dow Jones U.S. Industrials Inde,Index
+^DJUSNG,Dow Jones U.S. Personal & House,Index
+^SP1500-45301020,S&P Composite 1500 Semiconducto,Index
+^SP500-20,S&P 500 Industrials (Sector),Index
+^DJUSNC,Dow Jones U.S. Consumer Goods I,Index
+^SP1500-20,S&P Composite 1500 Industrials,Index
+^SP500-453010,S&P 500 Semiconductor & Semiconductor Equipment (Industry),Index
+^SP500-4530,S&P 500 Semiconductors & Semiconductor Equipment (Industry Group),Index
+^SP400,S&P 400,Index
+^DJUSCG,Dow Jones U.S. Travel & Leisure,Index
+^SP1500-4530,S&P Composite 1500 Semiconducto,Index
+^SP1500-453010,S&P Composite 1500 Semiconducto,Index
+^SP1500-1510,S&P Composite 1500 Materials (I,Index
+^SP1500-15,S&P Composite 1500 Materials (S,Index
+^DJUSSC,Dow Jones U.S. Semiconductors I,Index
+^DJUSFI,Dow Jones U.S. Financial Servic,Index
+^DJUSGF,Dow Jones U.S. Financial Servic,Index
+^DJUSBM,Dow Jones U.S. Basic Materials,Index
+^SP500-25102010,S&P 500 Automobile Manufacturers (Sub Ind),Index
+^SP1500-25102010,S&P Composite 1500 Automobile M,Index
+^SP500-251020,S&P 500 Automobiles (Industry),Index
+^SP1500-251020,S&P Composite 1500 Automobiles,Index
+^DJUSAU,Dow Jones U.S. Automobiles Inde,Index
+^SP1500-2010,S&P Composite 1500 Capital Good,Index
+^DJUSAP,Dow Jones U.S. Automobiles & Pa,Index
+^SP500-2510,S&P 500 Automobiles & Components (Industry Group),Index
+^SP1500-2510,S&P Composite 1500 Automobiles,Index
+^SP1500-101020,"S&P Composite 1500 Oil, Gas & C",Index
+^SP500-101020,"S&P 500 Oil, Gas & Consumable Fuels (Industry)",Index
+^DJUSEN,Dow Jones U.S. Oil & Gas Index,Index
+^SP1500-10,S&P Composite 1500 Energy (Sect,Index
+^SP1500-1010,S&P Composite 1500 Energy (Indu,Index
+^SP500-1010,S&P 500 Energy (Industry Group),Index
+^GSPE,S&P 500 Energy (Sector),Index
+^DJUSOG,Dow Jones U.S. Oil & Gas Produc,Index

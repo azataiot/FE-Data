@@ -1,0 +1,21 @@
+symbol,name,market
+GC=F,Gold,Commodity
+SI=F,Silver,Commodity
+CL=F,Crude oil,Commodity
+BZ=F,Brent crude oil,Commodity
+NG=F,Natural gas,Commodity
+HO=F,Heating oil,Commodity
+HG=F,Copper,Commodity
+PL=F,Platinum,Commodity
+PA=F,Palladium,Commodity
+ZC=F,Corn,Commodity
+ZS=F,Soybeans,Commodity
+ZW=F,Wheat,Commodity
+KC=F,Coffee,Commodity
+SB=F,Sugar,Commodity
+CC=F,Cocoa,Commodity
+CT=F,Cotton,Commodity
+HE=F,Lean hogs,Commodity
+LE=F,Live cattle,Commodity
+GF=F,Feeder cattle,Commodity
+LB=F,Lumber,Commodity

@@ -1,0 +1,101 @@
+symbol,name,market
+RLT=F,BTIC on E-mini Russell 2000 Ind,Future
+F*RLT.CME,BTIC on E-mini Russell 2000 Ind,Future
+RLTM23.CME,BTIC on E-mini Russell 2000 Ind,Future
+LEJ23.CME,"Live Cattle Futures,Apr-2023",Future
+6NM23.CME,"New Zealand Dollar Futures,Jun-",Future
+F*6N.CME,"New Zealand Dollar Futures,Jun-",Future
+GFJ23.CME,"Feeder Cattle Futures,Apr-2023",Future
+6N=F,"New Zealand Dollar Futures,Jun-",Future
+GFU23.CME,"Feeder Cattle Futures,Sep-2023",Future
+LEM23.CME,"Live Cattle Futures,Jun-2023",Future
+F*LE.CME,"Live Cattle Futures,Jun-2023",Future
+LE=F,"Live Cattle Futures,Jun-2023",Future
+LEQ23.CME,"Live Cattle Futures,Aug-2023",Future
+GFK23.CME,"Feeder Cattle Futures,May-2023",Future
+GF=F,"Feeder Cattle Futures,May-2023",Future
+F*GF.CME,"Feeder Cattle Futures,May-2023",Future
+LEV23.CME,"Live Cattle Futures,Oct-2023",Future
+GFQ23.CME,"Feeder Cattle Futures,Aug-2023",Future
+6J=F,"Japanese Yen Futures,Jun-2023",Future
+6JM23.CME,"Japanese Yen Futures,Jun-2023",Future
+SR3F23.CME,"Three-Month SOFR Futures,Jan-20",Future
+F*NQT.CME,"BTIC E-mini Nasdaq-100 Futures,",Future
+F*ESR.CME,EURO SHORT-TERM RATE (?STR) FUT,Future
+ESR=F,EURO SHORT-TERM RATE (?STR) FUT,Future
+SEDU23.CME,SED Future SEP 2023 Trading Ses,Future
+SDA=F,S&P 500 Annual Dividend Index F,Future
+F*SDA.CME,S&P 500 Annual Dividend Index F,Future
+HEV23.CME,"Lean Hogs Futures,Oct-2023",Future
+HEQ23.CME,"Lean Hogs Futures,Aug-2023",Future
+F*SED.CME,SED Future SEP 2023 Trading Ses,Future
+NQTM23.CME,"BTIC E-mini Nasdaq-100 Futures,",Future
+SED=F,SED Future SEP 2023 Trading Ses,Future
+LETM23.CME,"Live Cattle TAS Futures,Jun-202",Future
+ESRF23.CME,EURO SHORT-TERM RATE (?STR) FUT,Future
+SDAZ23.CME,S&P 500 Annual Dividend Index F,Future
+F*LET.CME,"Live Cattle TAS Futures,Jun-202",Future
+LET=F,"Live Cattle TAS Futures,Jun-202",Future
+NQT=F,"BTIC E-mini Nasdaq-100 Futures,",Future
+F*6J.CME,"Japanese Yen Futures,Jun-2023",Future
+SR3G23.CME,"Three-Month SOFR Futures,Feb-20",Future
+F*SR1.CME,"One-Month SOFR Futures,May-2023",Future
+SR1K23.CME,"One-Month SOFR Futures,May-2023",Future
+SR3H23.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR1=F,"One-Month SOFR Futures,May-2023",Future
+F*GE.CME,"Eurodollar Futures,Apr-2023",Future
+LEZ23.CME,"Live Cattle Futures,Dec-2023",Future
+GEK23.CME,"Eurodollar Futures,May-2023",Future
+SR3M23.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3=F,"Three-Month SOFR Futures,Jun-20",Future
+F*SR3.CME,"Three-Month SOFR Futures,Jun-20",Future
+HEN23.CME,"Lean Hogs Futures,Jul-2023",Future
+SR3M26.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3Z26.CME,"Three-Month SOFR Futures,Dec-20",Future
+SR3H27.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR3U23.CME,"Three-Month SOFR Futures,Sep-20",Future
+SR1Q23.CME,"One-Month SOFR Futures,Aug-2023",Future
+SR1N23.CME,"One-Month SOFR Futures,Jul-2023",Future
+GE=F,"Eurodollar Futures,Apr-2023",Future
+XAE=F,E-mini Energy Select Sector Fut,Future
+F*XAE.CME,E-mini Energy Select Sector Fut,Future
+XAEM23.CME,E-mini Energy Select Sector Fut,Future
+SR3H26.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR3Z25.CME,"Three-Month SOFR Futures,Dec-20",Future
+SR3U25.CME,"Three-Month SOFR Futures,Sep-20",Future
+SR3Z23.CME,"Three-Month SOFR Futures,Dec-20",Future
+GEM23.CME,"Eurodollar Futures,Jun-2023",Future
+SR3M25.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3M24.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3H24.CME,"Three-Month SOFR Futures,Mar-20",Future
+LEJ24.CME,"Live Cattle Futures,Apr-2024",Future
+SR3H25.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR3U24.CME,"Three-Month SOFR Futures,Sep-20",Future
+SR3Z24.CME,"Three-Month SOFR Futures,Dec-20",Future
+LEG24.CME,"Live Cattle Futures,Feb-2024",Future
+6SM23.CME,"Swiss Franc Futures,Jun-2023",Future
+6S=F,"Swiss Franc Futures,Jun-2023",Future
+6AM23.CME,"Australian Dollar Futures,Jun-2",Future
+F*HE.CME,"Lean Hogs Futures,Apr-2023",Future
+HEM23.CME,"Lean Hogs Futures,Jun-2023",Future
+F*6A.CME,"Australian Dollar Futures,Jun-2",Future
+F*6S.CME,"Swiss Franc Futures,Jun-2023",Future
+HEZ23.CME,"Lean Hogs Futures,Dec-2023",Future
+F*M6A.CME,"Micro AUD/USD Futures,Jun-2023",Future
+6A=F,"Australian Dollar Futures,Jun-2",Future
+M6AM23.CME,"Micro AUD/USD Futures,Jun-2023",Future
+M6A=F,"Micro AUD/USD Futures,Jun-2023",Future
+6M=F,"Mexican Peso Futures,Jun-2023",Future
+6MM23.CME,"Mexican Peso Futures,Jun-2023",Future
+F*MNQ.CME,Micro E-mini Nasdaq-100 Index F,Future
+MNQ=F,Micro E-mini Nasdaq-100 Index F,Future
+ESM23.CME,E-Mini S&P 500 Jun 23,Future
+NQ=F,Nasdaq 100 Jun 23,Future
+MNQM23.CME,Micro E-mini Nasdaq-100 Index F,Future
+NQM23.CME,Nasdaq 100 Jun 23,Future
+F*NQ.CME,Nasdaq 100 Jun 23,Future
+F*M6E.CME,"Micro EUR/USD Futures,Jun-2023",Future
+ES=F,E-Mini S&P 500 Jun 23,Future
+MESM23.CME,MICRO E-MINI S&P 500 INDEX FUTU,Future
+F*MES.CME,MICRO E-MINI S&P 500 INDEX FUTU,Future
+MES=F,MICRO E-MINI S&P 500 INDEX FUTU,Future

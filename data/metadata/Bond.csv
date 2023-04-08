@@ -1,0 +1,5 @@
+symbol,name,market
+^IRX,13 Week Treasury Bill,Bond
+^FVX,Treasury Yield 5 Years,Bond
+^TNX,Treasury Yield 10 Years,Bond
+^TYX,Treasury Yield 30 Years,Bond

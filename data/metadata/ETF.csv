@@ -1,0 +1,101 @@
+symbol,name,market
+QQQ,Invesco QQQ Trust,ETF
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,ETF
+VCSH,Vanguard Short-Term Corporate Bond Index Fund,ETF
+VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund,ETF
+IEF,iShares 7-10 Year Treasury Bond ETF,ETF
+MBB,iShares MBS ETF,ETF
+VGSH,Vanguard Short-Term Treasury Index Fund,ETF
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,ETF
+DVY,iShares Select Dividend ETF,ETF
+VGIT,Vanguard Intermediate-Term Treasury Index Fund,ETF
+VMBS,Vanguard Mortgage-Backed Securities Index Fund,ETF
+ESGU,iShares ESG Aware MSCI USA ETF,ETF
+VONG,Vanguard Russell 1000 Growth Index Fund,ETF
+IUSV,iShares Core S&P U.S. Value ETF,ETF
+IUSG,iShares Core S&P U.S. Growth ETF,ETF
+IEI,iShares 3-7 Year Treasury Bond ETF,ETF
+FTCS,First Trust Capital Strength ETF,ETF
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,ETF
+SMH,VanEck Semiconductor ETF,ETF
+RDVY,First Trust Rising Dividend Achievers ETF,ETF
+SOXX,iShares Semiconductor ETF,ETF
+ESGD,iShares ESG Aware MSCI EAFE ETF,ETF
+VYMI,Vanguard International High Dividend Yield Fund,ETF
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,ETF
+VONE,Vanguard Russell 1000 Index Fund,ETF
+CIBR,First Trust NASDAQ Cybersecurity ETF,ETF
+LMBS,First Trust Low Duration Opportunities ETF,ETF
+ONEQ,Fidelity Nasdaq Composite Index ETF,ETF
+EMXC,iShares MSCI Emerging Markets ex China ETF,ETF
+FV,First Trust Dorsey Wright Focus 5 ETF,ETF
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF
+ANGL,VanEck Fallen Angel High Yield Bond ETF,ETF
+FTSL,First Trust Senior Loan Fund,ETF
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,ETF
+CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,ETF
+PHO,Invesco Water Resources ETF,ETF
+FALN,iShares Fallen Angels USD Bond ETF,ETF
+PEY,Invesco High Yield Equity Dividend Achievers ETF,ETF
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,ETF
+UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,ETF
+SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,ETF
+PID,Invesco International Dividend Achievers ETF,ETF
+PKW,Invesco BuyBack Achievers ETF,ETF
+FTXL,First Trust Nasdaq Semiconductor ETF,ETF
+FNX,First Trust Mid Cap Core AlphaDEX Fund,ETF
+SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,ETF
+FYX,First Trust Small Cap Core AlphaDEX Fund,ETF
+PTNQ,Pacer Trendpilot 100 ETF,ETF
+PLW,Invesco 1-30 Laddered Treasury ETF,ETF
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,ETF
+DWAS,Invesco DWA SmallCap Momentum ETF,ETF
+VRIG,Invesco Variable Rate Investment Grade ETF,ETF
+IMCV,iShares Morningstar Mid-Cap Value ETF,ETF
+USTB,VictoryShares USAA Core Short-Term Bond ETF,ETF
+BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,ETF
+SDG,iShares MSCI Global Impact ETF,ETF
+CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,ETF
+CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,ETF
+KBWP,Invesco KBW Property & Casualty Insurance ETF,ETF
+AIRR,First Trust RBA American Industrial RenaissanceTM ETF,ETF
+PSCT,Invesco S&P SmallCap Information Technology ETF,ETF
+FTXN,First Trust Nasdaq Oil & Gas ETF,ETF
+FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,ETF
+TUR,iShares MSCI Turkey ETF,ETF
+PTF,Invesco DWA Technology Momentum ETF,ETF
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF
+VSDA,VictoryShares Dividend Accelerator ETF,ETF
+EWJV,iShares MSCI Japan Value ETF,ETF
+PSC,Principal U.S. Small-Cap Multi-Factor ETF,ETF
+FYT,First Trust Small Cap Value AlphaDEX Fund,ETF
+PTH,Invesco DWA Healthcare Momentum ETF,ETF
+IUS,Invesco RAFI Strategic US ETF,ETF
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,ETF
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,ETF
+RTH,VanEck Retail ETF,ETF
+DALI,First Trust Dorsey Wright DALI 1 ETF,ETF
+PRN,Invesco DWA Industrials Momentum ETF,ETF
+FCAL,First Trust California Municipal High Income ETF,ETF
+ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,ETF
+NFTY,First Trust India NIFTY 50 Equal Weight ETF,ETF
+IPKW,Invesco International BuyBack Achievers ETF,ETF
+FLN,First Trust Latin America AlphaDEX Fund,ETF
+BLCN,Siren Nasdaq NexGen Economy ETF,ETF
+PSCI,Invesco S&P SmallCap Industrials ETF,ETF
+PSCC,Invesco S&P SmallCap Consumer Staples ETF,ETF
+ISDX,Invesco RAFI Strategic Developed ex-US ETF,ETF
+EMCB,WisdomTree Emerging Markets Corporate Bond Fund,ETF
+IUSS,Invesco RAFI Strategic US Small Company ETF,ETF
+PSET,Principal Quality ETF,ETF
+BSDE,Invesco BulletShares (R) 2024 Emerging Markets Debt ETF,ETF
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,ETF
+RNSC,First Trust Small Cap US Equity Select ETF,ETF
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,ETF
+BSCE,Invesco BulletShares (R) 2023 USD Emerging Markets Debt ETF,ETF
+RNDV,First Trust US Equity Dividend Select ETF,ETF
+SQLV,Royce Quant Small-Cap Quality Value ETF,ETF
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,ETF
+BFIT,Global X Health & Wellness ETF,ETF
+ISEM,Invesco RAFI Strategic Emerging Markets ETF,ETF
+MFLX,First Trust Flexible Municipal High Income ETF,ETF

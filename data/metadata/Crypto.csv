@@ -1,0 +1,101 @@
+symbol,name,market
+BTC-USD,Bitcoin USD,Crypto
+ETH-USD,Ethereum USD,Crypto
+USDT-USD,Tether USD,Crypto
+BNB-USD,BNB USD,Crypto
+USDC-USD,USD Coin USD,Crypto
+XRP-USD,XRP USD,Crypto
+ADA-USD,Cardano USD,Crypto
+HEX-USD,HEX USD,Crypto
+DOGE-USD,Dogecoin USD,Crypto
+STETH-USD,Lido Staked ETH USD,Crypto
+MATIC-USD,Polygon USD,Crypto
+SOL-USD,Solana USD,Crypto
+DOT-USD,Polkadot USD,Crypto
+BUSD-USD,Binance USD USD,Crypto
+WTRX-USD,Wrapped TRON USD,Crypto
+LTC-USD,Litecoin USD,Crypto
+SHIB-USD,Shiba Inu USD,Crypto
+TRX-USD,TRON USD,Crypto
+AVAX-USD,Avalanche USD,Crypto
+DAI-USD,Dai USD,Crypto
+TMG-USD,T-mac DAO USD,Crypto
+WBTC-USD,Wrapped Bitcoin USD,Crypto
+LINK-USD,Chainlink USD,Crypto
+UNI7083-USD,Uniswap USD,Crypto
+LEO-USD,UNUS SED LEO USD,Crypto
+ATOM-USD,Cosmos USD,Crypto
+XMR-USD,Monero USD,Crypto
+ETC-USD,Ethereum Classic USD,Crypto
+XLM-USD,Stellar USD,Crypto
+TON11419-USD,Toncoin USD,Crypto
+OKB-USD,OKB USD,Crypto
+BCH-USD,Bitcoin Cash USD,Crypto
+FIL-USD,Filecoin USD,Crypto
+LDO-USD,Lido DAO USD,Crypto
+TUSD-USD,TrueUSD USD,Crypto
+APT21794-USD,Aptos USD,Crypto
+HBAR-USD,Hedera USD,Crypto
+VET-USD,VeChain USD,Crypto
+CRO-USD,Cronos USD,Crypto
+NEAR-USD,NEAR Protocol USD,Crypto
+ALGO-USD,Algorand USD,Crypto
+APE18876-USD,ApeCoin USD,Crypto
+ARB11841-USD,Arbitrum USD,Crypto
+BTCB-USD,Bitcoin BEP2 USD,Crypto
+ICP-USD,Internet Computer USD,Crypto
+QNT-USD,Quant USD,Crypto
+EOS-USD,EOS USD,Crypto
+FTM-USD,Fantom USD,Crypto
+GRT6719-USD,The Graph USD,Crypto
+MANA-USD,Decentraland USD,Crypto
+STX4847-USD,Stacks USD,Crypto
+HBTC-USD,Huobi BTC USD,Crypto
+AAVE-USD,Aave USD,Crypto
+WBNB-USD,Wrapped BNB USD,Crypto
+BIT11221-USD,BitDAO USD,Crypto
+THETA-USD,Theta Network USD,Crypto
+CFX-USD,Conflux USD,Crypto
+FRAX-USD,Frax USD,Crypto
+XTZ-USD,Tezos USD,Crypto
+FLOW-USD,Flow USD,Crypto
+EGLD-USD,MultiversX USD,Crypto
+AXS-USD,Axie Infinity USD,Crypto
+SAND-USD,The Sandbox USD,Crypto
+CHZ-USD,Chiliz USD,Crypto
+IMX10603-USD,Immutable USD,Crypto
+USDP-USD,Pax Dollar USD,Crypto
+NEO-USD,Neo USD,Crypto
+RPL-USD,Rocket Pool USD,Crypto
+KCS-USD,KuCoin Token USD,Crypto
+CRV-USD,Curve DAO Token USD,Crypto
+BTTOLD-USD,BitTorrent USD,Crypto
+KLAY-USD,Klaytn USD,Crypto
+LUNC-USD,Terra Classic USD,Crypto
+USDD-USD,USDD USD,Crypto
+OP-USD,Optimism USD,Crypto
+BSV-USD,Bitcoin SV USD,Crypto
+SNX-USD,Synthetix USD,Crypto
+CAKE-USD,PancakeSwap USD,Crypto
+GMX11857-USD,GMX USD,Crypto
+FXS-USD,Frax Share USD,Crypto
+MKR-USD,Maker USD,Crypto
+MINA-USD,Mina USD,Crypto
+MIOTA-USD,IOTA USD,Crypto
+TNC5524-USD,TNC Coin USD,Crypto
+DASH-USD,Dash USD,Crypto
+ZEC-USD,Zcash USD,Crypto
+XEC-USD,eCash USD,Crypto
+GUSD-USD,Gemini Dollar USD,Crypto
+BTT-USD,BitTorrent(New) USD,Crypto
+BGB-USD,Bitget Token USD,Crypto
+HT-USD,Huobi Token USD,Crypto
+GT-USD,GateToken USD,Crypto
+XDC-USD,XDC Network USD,Crypto
+PAXG-USD,PAX Gold USD,Crypto
+KAS-USD,Kaspa USD,Crypto
+RUNE-USD,THORChain USD,Crypto
+TWT-USD,Trust Wallet Token USD,Crypto
+XRD-USD,Radix USD,Crypto
+XAUT-USD,Tether Gold USD,Crypto
+AGIX-USD,SingularityNET USD,Crypto
