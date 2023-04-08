@@ -6,6 +6,8 @@ Extra data can be downloaded and added with the python scripts provided in this 
 
 This repo also includes markets, sectors and other categorial informations with usefull scripts written in Python and R.
 
+Notice: Minimum Python version required: `3.10.2` , and Minimum R version required: `4.1.3`
+
 ## Contents
 
 ### Asset MetaData DB
