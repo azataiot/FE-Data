@@ -20,7 +20,7 @@ To solve this problem I decided to review different types of data platforms and 
 
 #### FED Financial Markets
 
-![FED](./assets/README.assets/FED.svg)
+![FED](./assets/README.assets/Markets.svg)
 
 If you interested on how other platforms classified financial market, click [financial markets](./docs/financial markets.md).
 
@@ -28,7 +28,7 @@ If you interested on how other platforms classified financial market, click [fin
 
 #### FED Financial Sectors
 
-![FED Sectors](./assets/README.assets/FED Sectors.svg)
+![FED Sectors](./assets/README.assets/Sectors.svg)
 
 
 
