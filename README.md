@@ -10,11 +10,11 @@ This repo also includes markets, sectors and other categorial informations with 
 
 ### Asset MetaData DB
 
-- `metadata.raw.csv` 
+- `metadata.raw.csv` [sample](./data/metadata.raw.csv)
   - Raw data includes only `symbol`, and `name` columns.
 - `metadata.profile.csv`
   - Includes everything in `metadata.raw.csv` 
-  - Includes other profiling meta data about the asset, press [here]() for a sample.
+  - Includes other profiling meta data about the asset, click [here]() for a sample.
 - `metadata.csv`
   - Includes everything in `metadata.profile.csv`
   - Includes `start_date` columns for earliest awailable data.

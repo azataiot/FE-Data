@@ -16,7 +16,7 @@ def generate_meta_data_raw():
 
 ## unify the data into one file
 def generate_meta_data():
-    combine_csv(cwd / "data/metadata", cwd / "data/metadata")
+    combine_csv(cwd / "data/metadata", cwd / "data")
 
 
 if __name__ == "__main__":
