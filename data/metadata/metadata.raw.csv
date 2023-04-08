@@ -1,0 +1,749 @@
+symbol,name,market
+^IRX,13 Week Treasury Bill,Bond
+^FVX,Treasury Yield 5 Years,Bond
+^TNX,Treasury Yield 10 Years,Bond
+^TYX,Treasury Yield 30 Years,Bond
+FXAIX,Fidelity 500 Index Fund,Fund
+CLBAX,American Funds American Balanced Fund Class 529-A,Fund
+RLBBX,American Funds American Balanced Fund,Fund
+BALCX,American Funds American Balanced Fund,Fund
+FBAFX,American Funds American Balanced Fund,Fund
+FBONX,American Funds American Balanced Fund,Fund
+RLBAX,American Funds American Balanced Fund,Fund
+CLBCX,American Funds American Balanced Fund,Fund
+RLBFX,American Funds American Balanced Fund Class R-5,Fund
+AMBFX,American Balanced Fund,Fund
+ABALX,American Funds American Balanced Fund Class A,Fund
+BALFX,American Funds American Balanced Fund,Fund
+RLBCX,American Funds American Balanced Fund Class R-3,Fund
+CLBEX,American Funds American Balanced Fund Class 529-E,Fund
+RLEFX,American Funds American Balanced Fund,Fund
+RLBGX,American Funds American Balanced Fund Class R-6,Fund
+RLBEX,American Funds American Balanced Fund,Fund
+CLBFX,American Funds American Balanced Fund Class 529-F,Fund
+RAMHX,American Funds American Balanced Fund Class R-2E,Fund
+AFMBX,American Funds American Balanced Fund,Fund
+CIREX,American Funds Capital Income Builder Class 529-E,Fund
+CAIBX,American Funds Capital Income Builder Class A,Fund
+RIRHX,American Funds Capital Income Builder,Fund
+RIRBX,American Funds Capital Income Builder Class R-2,Fund
+RIRCX,American Funds Capital Income Builder Class R-3,Fund
+CAIFX,American Funds Capital Income Builder,Fund
+CIRFX,American Funds Capital Income Builder,Fund
+FBCIX,American Funds Capital Income Builder,Fund
+RIREX,American Funds Capital Income Builder Class R-4,Fund
+RIRAX,American Funds Capital Income Builder,Fund
+CIBCX,American Funds Capital Income Builder Class C,Fund
+CIBFX,American Funds Capital Income Builder,Fund
+RIRFX,American Funds Capital Income Builder,Fund
+FWCBX,American Funds Capital Income Builder,Fund
+CFIHX,American Funds Capital Income Builder,Fund
+RIRGX,American Funds Capital Income Builder,Fund
+CIRCX,Capital Income Builder Class 529-C Shares,Fund
+RCEEX,American Funds Capital Income Builder Class R-2E,Fund
+CIRAX,American Funds Capital Income Builder Class 529-A,Fund
+DODGX,Dodge & Cox Stock Fund - Class I,Fund
+CFAEX,American Funds The Bond Fund of America,Fund
+BFAFX,American Funds The Bond Fund of America Class F-1,Fund
+BFFAX,American Funds The Bond Fund of America Class F-3,Fund
+ABNFX,American Funds The Bond Fund of America Class F-2,Fund
+CFAFX,American Funds The Bond Fund of America,Fund
+RBFEX,American Funds The Bond Fund of America Class R-4,Fund
+RBFFX,American Funds The Bond Fund of America Class R-5,Fund
+CFAAX,American Funds The Bond Fund of America Class 529-A,Fund
+RBFGX,American Funds The Bond Fund of America Class R-6,Fund
+CFACX,American Funds The Bond Fund of America,Fund
+FFBOX,American Funds The Bond Fund of America,Fund
+RBEBX,American Funds The Bond Fund of America Class R-2E,Fund
+RBFAX,American Funds The Bond Fund of America Class R-1,Fund
+RBFBX,American Funds The Bond Fund of America Class R-2,Fund
+RBFCX,American Funds The Bond Fund of America Class R-3,Fund
+ABNDX,American Funds The Bond Fund of America Class A,Fund
+FBOFX,American Funds The Bond Fund of America,Fund
+BFACX,American Funds The Bond Fund of America Class C,Fund
+RBFHX,American Funds The Bond Fund of America Class R-5E,Fund
+DODIX,Dodge & Cox Income Fund,Fund
+VWINX,Vanguard Wellesley Income Fund,Fund
+VWIAX,Vanguard Wellesley Income Fund Admiral Shares,Fund
+CNWEX,American Funds New World Fund Class 529-E,Fund
+RNWCX,American Funds New World Fund,Fund
+RNWFX,American Funds New World Fund Class R-5,Fund
+CNWAX,American Funds New World Fund Class 529-A,Fund
+RNWBX,American Funds New World Fund,Fund
+FWWNX,American Funds New World Fund,Fund
+CNWCX,American Funds New World Fund Class 529-C,Fund
+RNEBX,American Funds New World Fund,Fund
+RNWAX,American Funds New World Fund,Fund
+FNFWX,American Funds New World Fund,Fund
+CNWFX,American Funds New World Fund Class 529-F,Fund
+FNWFX,American Funds New World Fund,Fund
+NFFFX,American Funds New World Fund,Fund
+NEWFX,American Funds New World Fund Class A,Fund
+RNWEX,American Funds - New World Fund Inc Class R-4 Shares,Fund
+NWFFX,American Funds New World Fund Class F-1,Fund
+RNWHX,American Funds New World Fund Class R-5E,Fund
+NEWCX,American Funds New World Fund Class C,Fund
+RNWGX,American Funds New World Fund Class R-6,Fund
+TRAIX,T. Rowe Price Capital Appreciation Fund,Fund
+PACLX,T. Rowe Price Capital Appreciation Fund,Fund
+PRWCX,T. Rowe Price Capital Appreciation Fund,Fund
+FRGLX,First Eagle Global Fund Class R5,Fund
+EAGRX,First Eagle Global Fund Class R4,Fund
+FESGX,First Eagle Global Fund Class C,Fund
+FEGRX,First Eagle Global Fund Class R6,Fund
+SGENX,First Eagle Global Fund,Fund
+EARGX,First Eagle Global Fund Class R3,Fund
+SGIIX,First Eagle Global Fund,Fund
+JLGRX,JPMorgan Large Cap Growth Fund,Fund
+OLGAX,JPMorgan Large Cap Growth Fund,Fund
+JLGZX,JPMorgan Large Cap Growth Fund,Fund
+OLGCX,JPMorgan Large Cap Growth Fund Class C,Fund
+JLGPX,JPMorgan Large Cap Growth Fund,Fund
+JLGMX,JPMorgan Large Cap Growth Fund,Fund
+JLGQX,JPMorgan Large Cap Growth Fund,Fund
+SEEGX,JPMorgan Large Cap Growth Fund I Class,Fund
+FDGRX,Fidelity Growth Company Fund,Fund
+QQQ,Invesco QQQ Trust,ETF
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,ETF
+VCSH,Vanguard Short-Term Corporate Bond Index Fund,ETF
+VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund,ETF
+IEF,iShares 7-10 Year Treasury Bond ETF,ETF
+MBB,iShares MBS ETF,ETF
+VGSH,Vanguard Short-Term Treasury Index Fund,ETF
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,ETF
+DVY,iShares Select Dividend ETF,ETF
+VGIT,Vanguard Intermediate-Term Treasury Index Fund,ETF
+VMBS,Vanguard Mortgage-Backed Securities Index Fund,ETF
+ESGU,iShares ESG Aware MSCI USA ETF,ETF
+VONG,Vanguard Russell 1000 Growth Index Fund,ETF
+IUSV,iShares Core S&P U.S. Value ETF,ETF
+IUSG,iShares Core S&P U.S. Growth ETF,ETF
+IEI,iShares 3-7 Year Treasury Bond ETF,ETF
+FTCS,First Trust Capital Strength ETF,ETF
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,ETF
+SMH,VanEck Semiconductor ETF,ETF
+RDVY,First Trust Rising Dividend Achievers ETF,ETF
+SOXX,iShares Semiconductor ETF,ETF
+ESGD,iShares ESG Aware MSCI EAFE ETF,ETF
+VYMI,Vanguard International High Dividend Yield Fund,ETF
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,ETF
+VONE,Vanguard Russell 1000 Index Fund,ETF
+CIBR,First Trust NASDAQ Cybersecurity ETF,ETF
+LMBS,First Trust Low Duration Opportunities ETF,ETF
+ONEQ,Fidelity Nasdaq Composite Index ETF,ETF
+EMXC,iShares MSCI Emerging Markets ex China ETF,ETF
+FV,First Trust Dorsey Wright Focus 5 ETF,ETF
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,ETF
+ANGL,VanEck Fallen Angel High Yield Bond ETF,ETF
+FTSL,First Trust Senior Loan Fund,ETF
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,ETF
+CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,ETF
+PHO,Invesco Water Resources ETF,ETF
+FALN,iShares Fallen Angels USD Bond ETF,ETF
+PEY,Invesco High Yield Equity Dividend Achievers ETF,ETF
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,ETF
+UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,ETF
+SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,ETF
+PID,Invesco International Dividend Achievers ETF,ETF
+PKW,Invesco BuyBack Achievers ETF,ETF
+FTXL,First Trust Nasdaq Semiconductor ETF,ETF
+FNX,First Trust Mid Cap Core AlphaDEX Fund,ETF
+SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,ETF
+FYX,First Trust Small Cap Core AlphaDEX Fund,ETF
+PTNQ,Pacer Trendpilot 100 ETF,ETF
+PLW,Invesco 1-30 Laddered Treasury ETF,ETF
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,ETF
+DWAS,Invesco DWA SmallCap Momentum ETF,ETF
+VRIG,Invesco Variable Rate Investment Grade ETF,ETF
+IMCV,iShares Morningstar Mid-Cap Value ETF,ETF
+USTB,VictoryShares USAA Core Short-Term Bond ETF,ETF
+BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,ETF
+SDG,iShares MSCI Global Impact ETF,ETF
+CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,ETF
+CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,ETF
+KBWP,Invesco KBW Property & Casualty Insurance ETF,ETF
+AIRR,First Trust RBA American Industrial RenaissanceTM ETF,ETF
+PSCT,Invesco S&P SmallCap Information Technology ETF,ETF
+FTXN,First Trust Nasdaq Oil & Gas ETF,ETF
+FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,ETF
+TUR,iShares MSCI Turkey ETF,ETF
+PTF,Invesco DWA Technology Momentum ETF,ETF
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,ETF
+VSDA,VictoryShares Dividend Accelerator ETF,ETF
+EWJV,iShares MSCI Japan Value ETF,ETF
+PSC,Principal U.S. Small-Cap Multi-Factor ETF,ETF
+FYT,First Trust Small Cap Value AlphaDEX Fund,ETF
+PTH,Invesco DWA Healthcare Momentum ETF,ETF
+IUS,Invesco RAFI Strategic US ETF,ETF
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,ETF
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,ETF
+RTH,VanEck Retail ETF,ETF
+DALI,First Trust Dorsey Wright DALI 1 ETF,ETF
+PRN,Invesco DWA Industrials Momentum ETF,ETF
+FCAL,First Trust California Municipal High Income ETF,ETF
+ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,ETF
+NFTY,First Trust India NIFTY 50 Equal Weight ETF,ETF
+IPKW,Invesco International BuyBack Achievers ETF,ETF
+FLN,First Trust Latin America AlphaDEX Fund,ETF
+BLCN,Siren Nasdaq NexGen Economy ETF,ETF
+PSCI,Invesco S&P SmallCap Industrials ETF,ETF
+PSCC,Invesco S&P SmallCap Consumer Staples ETF,ETF
+ISDX,Invesco RAFI Strategic Developed ex-US ETF,ETF
+EMCB,WisdomTree Emerging Markets Corporate Bond Fund,ETF
+IUSS,Invesco RAFI Strategic US Small Company ETF,ETF
+PSET,Principal Quality ETF,ETF
+BSDE,Invesco BulletShares (R) 2024 Emerging Markets Debt ETF,ETF
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,ETF
+RNSC,First Trust Small Cap US Equity Select ETF,ETF
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,ETF
+BSCE,Invesco BulletShares (R) 2023 USD Emerging Markets Debt ETF,ETF
+RNDV,First Trust US Equity Dividend Select ETF,ETF
+SQLV,Royce Quant Small-Cap Quality Value ETF,ETF
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,ETF
+BFIT,Global X Health & Wellness ETF,ETF
+ISEM,Invesco RAFI Strategic Emerging Markets ETF,ETF
+MFLX,First Trust Flexible Municipal High Income ETF,ETF
+GC=F,Gold,Commodity
+SI=F,Silver,Commodity
+CL=F,Crude oil,Commodity
+BZ=F,Brent crude oil,Commodity
+NG=F,Natural gas,Commodity
+HO=F,Heating oil,Commodity
+HG=F,Copper,Commodity
+PL=F,Platinum,Commodity
+PA=F,Palladium,Commodity
+ZC=F,Corn,Commodity
+ZS=F,Soybeans,Commodity
+ZW=F,Wheat,Commodity
+KC=F,Coffee,Commodity
+SB=F,Sugar,Commodity
+CC=F,Cocoa,Commodity
+CT=F,Cotton,Commodity
+HE=F,Lean hogs,Commodity
+LE=F,Live cattle,Commodity
+GF=F,Feeder cattle,Commodity
+LB=F,Lumber,Commodity
+EURUSD=X,EUR/USD,Forex
+JPY=X,USD/JPY,Forex
+GBPUSD=X,USD/GBP,Forex
+AUDUSD=X,USD/AUD,Forex
+NZDUSD=X,USD/NZD,Forex
+EURJPY=X,EUR/JPY,Forex
+GBPJPY=X,GBP/JPY,Forex
+EURGBP=X,EUR/GBP,Forex
+EURCAD=X,EUR/CAD,Forex
+EURSEK=X,EUR/SEK,Forex
+EURCHF=X,EUR/CHF,Forex
+EURHUF=X,EUR/HUF,Forex
+EURJPY=X,EUR/JPY,Forex
+CNY=X,USD/CNY,Forex
+HKD=X,USD/HKD,Forex
+SGD=X,USD/SGD,Forex
+INR=X,USD/INR,Forex
+MXN=X,USD/MXN,Forex
+PHP=X,USD/PHP,Forex
+IDR=X,USD/IDR,Forex
+THB=X,USD/THB,Forex
+MYR=X,USD/MYR,Forex
+ZAR=X,USD/ZAR,Forex
+RUB=X,USD/RUB,Forex
+VIX230621C00030000,I:VIX Jun 2023 30.000 call,Option
+VIX230621C00040000,I:VIX Jun 2023 40.000 call,Option
+HYG230421P00072000,HYG Apr 2023 72.000 put,Option
+QQQ230616P00240000,QQQ Jun 2023 240.000 put,Option
+HYG230421P00060000,HYG Apr 2023 60.000 put,Option
+VIX230419C00030000,I:VIX Apr 2023 30.000 call,Option
+VIX230517C00050000,I:VIX May 2023 50.000 call,Option
+AMC230421P00002000,AMC Apr 2023 2.000 put,Option
+ATVI240119P00085000,ATVI Jan 2024 85.000 put,Option
+VIX230419C00025000,I:VIX Apr 2023 25.000 call,Option
+HYG230616P00072000,HYG Jun 2023 72.000 put,Option
+HYG230421P00071000,HYG Apr 2023 71.000 put,Option
+HYG230421P00069000,HYG Apr 2023 69.000 put,Option
+HYG230421P00073000,HYG Apr 2023 73.000 put,Option
+VIX230517C00030000,I:VIX May 2023 30.000 call,Option
+HYG230616P00066000,HYG Jun 2023 66.000 put,Option
+EEM230616C00047000,EEM Jun 2023 47.000 call,Option
+SPY230421P00385000,SPY Apr 2023 385.000 put,Option
+IWM230421P00170000,IWM Apr 2023 170.000 put,Option
+VIX230419P00021000,I:VIX Apr 2023 21.000 put,Option
+HYG230421P00074000,HYG Apr 2023 74.000 put,Option
+AMC230421C00010000,AMC Apr 2023 10.000 call,Option
+HYG230421P00070000,HYG Apr 2023 70.000 put,Option
+SPY230421P00360000,SPY Apr 2023 360.000 put,Option
+HYG230616P00069000,HYG Jun 2023 69.000 put,Option
+HYG230616P00070000,HYG Jun 2023 70.000 put,Option
+VIX230419C00035000,I:VIX Apr 2023 35.000 call,Option
+SLV230915C00030000,SLV Sep 2023 30.000 call,Option
+GLD230616C00200000,GLD Jun 2023 200.000 call,Option
+VIX230719C00060000,I:VIX Jul 2023 60.000 call,Option
+QQQ230915P00285000,QQQ Sep 2023 285.000 put,Option
+SLV240119C00021000,SLV Jan 2024 21.000 call,Option
+AAL250117P00005000,AAL Jan 2025 5.000 put,Option
+TEVA230616P00009000,TEVA Jun 2023 9.000 put,Option
+SPY230421P00370000,SPY Apr 2023 370.000 put,Option
+HYG230519P00068000,HYG May 2023 68.000 put,Option
+VIX230419P00018000,I:VIX Apr 2023 18.000 put,Option
+EEM231215C00047000,EEM Dec 2023 47.000 call,Option
+AMC230616P00002000,AMC Jun 2023 2.000 put,Option
+IWM230616P00170000,IWM Jun 2023 170.000 put,Option
+XLF230421P00029000,XLF Apr 2023 29.000 put,Option
+EEM230616P00035000,EEM Jun 2023 35.000 put,Option
+AMC240119C00008000,AMC Jan 2024 8.000 call,Option
+CCL230616P00004000,CCL Jun 2023 4.000 put,Option
+HYG230616P00060000,HYG Jun 2023 60.000 put,Option
+AAL240119P00010000,AAL Jan 2024 10.000 put,Option
+NKLA230421P00002000,NKLA Apr 2023 2.000 put,Option
+VIX230419P00020000,I:VIX Apr 2023 20.000 put,Option
+HYG230519P00072000,HYG May 2023 72.000 put,Option
+LQD230421P00104000,LQD Apr 2023 104.000 put,Option
+INVZ240119P00005000,INVZ Jan 2024 5.000 put,Option
+VIX230517C00024000,I:VIX May 2023 24.000 call,Option
+EEM230421P00037000,EEM Apr 2023 37.000 put,Option
+VIX230419P00019000,I:VIX Apr 2023 19.000 put,Option
+SPY230421P00390000,SPY Apr 2023 390.000 put,Option
+EEM230421C00040000,EEM Apr 2023 40.000 call,Option
+SLV240119C00037000,SLV Jan 2024 37.000 call,Option
+HYG230616P00075000,HYG Jun 2023 75.000 put,Option
+HYG230519P00073000,HYG May 2023 73.000 put,Option
+AMC230616P00003000,AMC Jun 2023 3.000 put,Option
+SLV240119C00042000,SLV Jan 2024 42.000 call,Option
+HYG230421P00068000,HYG Apr 2023 68.000 put,Option
+AMC230616P00006000,AMC Jun 2023 6.000 put,Option
+HYG230519P00070000,HYG May 2023 70.000 put,Option
+BBBY230421C00040000,BBBY Apr 2023 40.000 call,Option
+VIX230419C00040000,I:VIX Apr 2023 40.000 call,Option
+SLV240119P00021000,SLV Jan 2024 21.000 put,Option
+HYG230421C00076000,HYG Apr 2023 76.000 call,Option
+SPY230421P00380000,SPY Apr 2023 380.000 put,Option
+HYG230519C00076000,HYG May 2023 76.000 call,Option
+XLF230421P00031000,XLF Apr 2023 31.000 put,Option
+VIX230419C00024000,I:VIX Apr 2023 24.000 call,Option
+AMC230421P00010000,AMC Apr 2023 10.000 put,Option
+EEM230519C00043000,EEM May 2023 43.000 call,Option
+EEM230915P00038000,EEM Sep 2023 38.000 put,Option
+HYG230616P00074000,HYG Jun 2023 74.000 put,Option
+EEM230616C00042000,EEM Jun 2023 42.000 call,Option
+EEM230421P00038000,EEM Apr 2023 38.000 put,Option
+AMC230519P00004000,AMC May 2023 4.000 put,Option
+IWM230421P00166000,IWM Apr 2023 166.000 put,Option
+BBBY250117P00001000,BBBY Jan 2025 1.000 put,Option
+AMC230421P00003000,AMC Apr 2023 3.000 put,Option
+SPY230616P00370000,SPY Jun 2023 370.000 put,Option
+TEVA230616C00012000,TEVA Jun 2023 12.000 call,Option
+AMC230519C00013000,AMC May 2023 13.000 call,Option
+MULN250117C00000500,MULN Jan 2025 0.500 call,Option
+SPY230421P00350000,SPY Apr 2023 350.000 put,Option
+GLD230519C00195000,GLD May 2023 195.000 call,Option
+VALE240119C00020000,VALE Jan 2024 20.000 call,Option
+AMC230519P00013000,AMC May 2023 13.000 put,Option
+SLV230915C00035000,SLV Sep 2023 35.000 call,Option
+LQD230421P00100000,LQD Apr 2023 100.000 put,Option
+EEM230519P00035000,EEM May 2023 35.000 put,Option
+XLE230616P00053000,XLE Jun 2023 53.000 put,Option
+IWM230616P00165000,IWM Jun 2023 165.000 put,Option
+IWM230519P00165000,IWM May 2023 165.000 put,Option
+F240119C00019350,F Jan 2024 19.350 call,Option
+XLE230616P00058000,XLE Jun 2023 58.000 put,Option
+ATVI240119P00065000,ATVI Jan 2024 65.000 put,Option
+VIX230517C00032000,I:VIX May 2023 32.000 call,Option
+XOM,Exxon Mobil Corporation,Stock
+TSM,Taiwan Semiconductor Manufacturing Company Limited,Stock
+JPM,JPMorgan Chase & Co.,Stock
+CVX,Chevron Corporation,Stock
+PFE,Pfizer Inc.,Stock
+BHP,BHP Group Limited,Stock
+TM,Toyota Motor Corporation,Stock
+TTE,TotalEnergies SE,Stock
+HSBC,HSBC Holdings plc,Stock
+SNY,Sanofi,Stock
+INTC,Intel Corporation,Stock
+QCOM,QUALCOMM Incorporated,Stock
+UL,Unilever PLC,Stock
+COP,ConocoPhillips,Stock
+DE,Deere & Company,Stock
+C,Citigroup Inc.,Stock
+RIO,Rio Tinto Group,Stock
+SCHW,The Charles Schwab Corporation,Stock
+EQNR,Equinor ASA,Stock
+CB,Chubb Limited,Stock
+BTI,British American Tobacco p.l.c.,Stock
+CI,The Cigna Group,Stock
+IBN,ICICI Bank Limited,Stock
+VALE,Vale S.A.,Stock
+EOG,"EOG Resources, Inc.",Stock
+PBR,Petróleo Brasileiro S.A. - Petrobras,Stock
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,Stock
+SAN,"Banco Santander, S.A.",Stock
+FCX,Freeport-McMoRan Inc.,Stock
+OXY,Occidental Petroleum Corporation,Stock
+MPC,Marathon Petroleum Corporation,Stock
+STLA,Stellantis N.V.,Stock
+CHTR,"Charter Communications, Inc.",Stock
+NGG,National Grid plc,Stock
+E,Eni S.p.A.,Stock
+PNC,"The PNC Financial Services Group, Inc.",Stock
+GM,General Motors Company,Stock
+PXD,Pioneer Natural Resources Company,Stock
+VLO,Valero Energy Corporation,Stock
+PSX,Phillips 66,Stock
+ITUB,Itaú Unibanco Holding S.A.,Stock
+ING,ING Groep N.V.,Stock
+HMC,"Honda Motor Co., Ltd.",Stock
+TFC,Truist Financial Corporation,Stock
+HES,Hess Corporation,Stock
+LYG,Lloyds Banking Group plc,Stock
+ADM,Archer-Daniels-Midland Company,Stock
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",Stock
+KMI,"Kinder Morgan, Inc.",Stock
+ET,Energy Transfer LP,Stock
+DOW,Dow Inc.,Stock
+AIG,"American International Group, Inc.",Stock
+MFG,"Mizuho Financial Group, Inc.",Stock
+NUE,Nucor Corporation,Stock
+COF,Capital One Financial Corporation,Stock
+CRH,CRH plc,Stock
+NTR,Nutrien Ltd.,Stock
+DVN,Devon Energy Corporation,Stock
+CVE,Cenovus Energy Inc.,Stock
+ON,ON Semiconductor Corporation,Stock
+ORAN,Orange S.A.,Stock
+DHI,"D.R. Horton, Inc.",Stock
+NWG,NatWest Group plc,Stock
+AMP,"Ameriprise Financial, Inc.",Stock
+BNTX,BioNTech SE,Stock
+VOD,Vodafone Group Public Limited Company,Stock
+HAL,Halliburton Company,Stock
+BCS,Barclays PLC,Stock
+OKE,"ONEOK, Inc.",Stock
+HPQ,HP Inc.,Stock
+LEN-B,Lennar Corporation,Stock
+LEN,Lennar Corporation,Stock
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Stock
+FERG,Ferguson plc,Stock
+FANG,"Diamondback Energy, Inc.",Stock
+ACGL,Arch Capital Group Ltd.,Stock
+TEF,"Telefónica, S.A.",Stock
+DFS,Discover Financial Services,Stock
+URI,"United Rentals, Inc.",Stock
+TROW,"T. Rowe Price Group, Inc.",Stock
+ALB,Albemarle Corporation,Stock
+MT,ArcelorMittal S.A.,Stock
+EC,Ecopetrol S.A.,Stock
+UMC,United Microelectronics Corporation,Stock
+HIG,"The Hartford Financial Services Group, Inc.",Stock
+DAL,"Delta Air Lines, Inc.",Stock
+RYAAY,Ryanair Holdings plc,Stock
+SQM,Sociedad Química y Minera de Chile S.A.,Stock
+PKX,POSCO Holdings Inc.,Stock
+LH,Laboratory Corporation of America Holdings,Stock
+CNHI,CNH Industrial N.V.,Stock
+MTB,M&T Bank Corporation,Stock
+ERIC,Telefonaktiebolaget LM Ericsson (publ),Stock
+RJF,"Raymond James Financial, Inc.",Stock
+CNP,"CenterPoint Energy, Inc.",Stock
+IX,ORIX Corporation,Stock
+CTRA,Coterra Energy Inc.,Stock
+ELP,Companhia Paranaense de Energia - COPEL,Stock
+SWKS,"Skyworks Solutions, Inc.",Stock
+STLD,"Steel Dynamics, Inc.",Stock
+BTC-USD,Bitcoin USD,Crypto
+ETH-USD,Ethereum USD,Crypto
+USDT-USD,Tether USD,Crypto
+BNB-USD,BNB USD,Crypto
+USDC-USD,USD Coin USD,Crypto
+XRP-USD,XRP USD,Crypto
+ADA-USD,Cardano USD,Crypto
+HEX-USD,HEX USD,Crypto
+DOGE-USD,Dogecoin USD,Crypto
+STETH-USD,Lido Staked ETH USD,Crypto
+MATIC-USD,Polygon USD,Crypto
+SOL-USD,Solana USD,Crypto
+DOT-USD,Polkadot USD,Crypto
+BUSD-USD,Binance USD USD,Crypto
+WTRX-USD,Wrapped TRON USD,Crypto
+LTC-USD,Litecoin USD,Crypto
+SHIB-USD,Shiba Inu USD,Crypto
+TRX-USD,TRON USD,Crypto
+AVAX-USD,Avalanche USD,Crypto
+DAI-USD,Dai USD,Crypto
+TMG-USD,T-mac DAO USD,Crypto
+WBTC-USD,Wrapped Bitcoin USD,Crypto
+LINK-USD,Chainlink USD,Crypto
+UNI7083-USD,Uniswap USD,Crypto
+LEO-USD,UNUS SED LEO USD,Crypto
+ATOM-USD,Cosmos USD,Crypto
+XMR-USD,Monero USD,Crypto
+ETC-USD,Ethereum Classic USD,Crypto
+XLM-USD,Stellar USD,Crypto
+TON11419-USD,Toncoin USD,Crypto
+OKB-USD,OKB USD,Crypto
+BCH-USD,Bitcoin Cash USD,Crypto
+FIL-USD,Filecoin USD,Crypto
+LDO-USD,Lido DAO USD,Crypto
+TUSD-USD,TrueUSD USD,Crypto
+APT21794-USD,Aptos USD,Crypto
+HBAR-USD,Hedera USD,Crypto
+VET-USD,VeChain USD,Crypto
+CRO-USD,Cronos USD,Crypto
+NEAR-USD,NEAR Protocol USD,Crypto
+ALGO-USD,Algorand USD,Crypto
+APE18876-USD,ApeCoin USD,Crypto
+ARB11841-USD,Arbitrum USD,Crypto
+BTCB-USD,Bitcoin BEP2 USD,Crypto
+ICP-USD,Internet Computer USD,Crypto
+QNT-USD,Quant USD,Crypto
+EOS-USD,EOS USD,Crypto
+FTM-USD,Fantom USD,Crypto
+GRT6719-USD,The Graph USD,Crypto
+MANA-USD,Decentraland USD,Crypto
+STX4847-USD,Stacks USD,Crypto
+HBTC-USD,Huobi BTC USD,Crypto
+AAVE-USD,Aave USD,Crypto
+WBNB-USD,Wrapped BNB USD,Crypto
+BIT11221-USD,BitDAO USD,Crypto
+THETA-USD,Theta Network USD,Crypto
+CFX-USD,Conflux USD,Crypto
+FRAX-USD,Frax USD,Crypto
+XTZ-USD,Tezos USD,Crypto
+FLOW-USD,Flow USD,Crypto
+EGLD-USD,MultiversX USD,Crypto
+AXS-USD,Axie Infinity USD,Crypto
+SAND-USD,The Sandbox USD,Crypto
+CHZ-USD,Chiliz USD,Crypto
+IMX10603-USD,Immutable USD,Crypto
+USDP-USD,Pax Dollar USD,Crypto
+NEO-USD,Neo USD,Crypto
+RPL-USD,Rocket Pool USD,Crypto
+KCS-USD,KuCoin Token USD,Crypto
+CRV-USD,Curve DAO Token USD,Crypto
+BTTOLD-USD,BitTorrent USD,Crypto
+KLAY-USD,Klaytn USD,Crypto
+LUNC-USD,Terra Classic USD,Crypto
+USDD-USD,USDD USD,Crypto
+OP-USD,Optimism USD,Crypto
+BSV-USD,Bitcoin SV USD,Crypto
+SNX-USD,Synthetix USD,Crypto
+CAKE-USD,PancakeSwap USD,Crypto
+GMX11857-USD,GMX USD,Crypto
+FXS-USD,Frax Share USD,Crypto
+MKR-USD,Maker USD,Crypto
+MINA-USD,Mina USD,Crypto
+MIOTA-USD,IOTA USD,Crypto
+TNC5524-USD,TNC Coin USD,Crypto
+DASH-USD,Dash USD,Crypto
+ZEC-USD,Zcash USD,Crypto
+XEC-USD,eCash USD,Crypto
+GUSD-USD,Gemini Dollar USD,Crypto
+BTT-USD,BitTorrent(New) USD,Crypto
+BGB-USD,Bitget Token USD,Crypto
+HT-USD,Huobi Token USD,Crypto
+GT-USD,GateToken USD,Crypto
+XDC-USD,XDC Network USD,Crypto
+PAXG-USD,PAX Gold USD,Crypto
+KAS-USD,Kaspa USD,Crypto
+RUNE-USD,THORChain USD,Crypto
+TWT-USD,Trust Wallet Token USD,Crypto
+XRD-USD,Radix USD,Crypto
+XAUT-USD,Tether Gold USD,Crypto
+AGIX-USD,SingularityNET USD,Crypto
+^SP500-50203010,S&P 500 Interactive Media & Ser,Index
+^SP500-502030,S&P 500 Interactive Media & Ser,Index
+^SP1500-502030,S&P Composite 1500 Interactive,Index
+^SP1500-50203010,S&P Composite 1500 Interactive,Index
+^DJUSNS,Dow Jones U.S. Internet Index,Index
+^SP500-5020,S&P 500 Media & Entertainment (,Index
+^SP1500-5020,S&P Composite 1500 Media & Ente,Index
+^DJUSSV,Dow Jones U.S. Software & Compu,Index
+^SP500-50,S&P 500 Telecommunication Services (Sector),Index
+^SP1500-50,S&P Composite 1500 Communicatio,Index
+^DJUSSW,Dow Jones U.S. Software Index,Index
+^SP1500-40101015,S&P Composite 1500 Regional Ban,Index
+^DJUSTC,Dow Jones U.S. Technology Index,Index
+^SP1500-4010,S&P Composite 1500 Banks (Indus,Index
+^SP1500-401010,S&P Composite 1500 Banks (Indus,Index
+^DJUSBK,Dow Jones U.S. Banks Index,Index
+^SP500-4010,S&P 500 Banks (Industry Group),Index
+^SP500-401010,S&P 500 Banks (Industry),Index
+^IXIC,NASDAQ Composite,Index
+^NDX,NASDAQ 100,Index
+^SP500-40101010,S&P 500 Diversified Banks (Sub,Index
+^SP1500-40101010,S&P Composite 1500 Diversified,Index
+^DJUSUT,Dow Jones U.S. Utilities Index,Index
+^SP1500-6010,S&P Composite 1500 Real Estate,Index
+^SP1500-60,S&P Composite 1500 Real Estate,Index
+^SP500-45,S&P 500 Information Technology (Sector),Index
+^DJUSRE,Dow Jones U.S. Real Estate Inde,Index
+^SP1500-45,S&P Composite 1500 Information,Index
+^DJUSRI,Dow Jones U.S. Real Estate Inve,Index
+^SP100,S&P 100,Index
+^DJUSIS,Dow Jones U.S. Support Services,Index
+^DJUSPN,Dow Jones U.S. Pharmaceuticals,Index
+^SP1500-2550,S&P Composite 1500 Retailing (I,Index
+^DJUSME,Dow Jones U.S. Media Index,Index
+^SPX,S&P 500 INDEX,Index
+^GSPC,S&P 500,Index
+^DJUSFN,Dow Jones U.S. Financials Index,Index
+^SP1500-40,S&P Composite 1500 Financials (,Index
+^DJUSGT,Dow Jones U.S. General Retailer,Index
+^SPTMI,S&P TMI,Index
+^SP1500,S&P Composite 1500,Index
+^SP500-40,S&P 500 Financials (Sector),Index
+^SP1500-3520,S&P Composite 1500 - Pharmaceut,Index
+^DJUSHC,Dow Jones U.S. Health Care Inde,Index
+^SP1500-35,S&P Composite 1500 Health Care,Index
+^SPTEST1,S&P GLOBAL 1200 Materials (Indu,Index
+^SP500-35,S&P 500 Health Care (Sector),Index
+^DJUSBC,Dow Jones U.S. Broadcasting & E,Index
+^DJA,Dow Jones Composite Average,Index
+^SP1500-4520,S&P Composite 1500 Technology H,Index
+^SPCBMIRWDUSD1,S&P Developed BMI (USD),Index
+^DJUSRT,Dow Jones U.S. Retail Index,Index
+^SP500-30,S&P 500 Consumer Staples (Sector),Index
+^DJUSCY,Dow Jones U.S. Consumer Service,Index
+^SP1500-30,S&P Composite 1500 Consumer Sta,Index
+^DJUSTQ,Dow Jones U.S. Technology Hardw,Index
+^SP500-25,S&P 500 Consumer Discretionary (Sector),Index
+^SP1500-4020,S&P Composite 1500 Diversified,Index
+^SP500-4020,S&P 500 Diversified Financials (Industry Group),Index
+^SP600,S&P 600,Index
+^SP500-45301020,S&P 500 Semiconductors (Sub Ind),Index
+^DJI2MN,Dow Jones Industrial Average (2,Index
+^DJI,Dow Jones Industrial Average,Index
+^SP1500-25,S&P Composite 1500 Consumer Dis,Index
+^DJUSIG,Dow Jones U.S. Industrial Goods,Index
+^DJUSIN,Dow Jones U.S. Industrials Inde,Index
+^DJUSNG,Dow Jones U.S. Personal & House,Index
+^SP1500-45301020,S&P Composite 1500 Semiconducto,Index
+^SP500-20,S&P 500 Industrials (Sector),Index
+^DJUSNC,Dow Jones U.S. Consumer Goods I,Index
+^SP1500-20,S&P Composite 1500 Industrials,Index
+^SP500-453010,S&P 500 Semiconductor & Semiconductor Equipment (Industry),Index
+^SP500-4530,S&P 500 Semiconductors & Semiconductor Equipment (Industry Group),Index
+^SP400,S&P 400,Index
+^DJUSCG,Dow Jones U.S. Travel & Leisure,Index
+^SP1500-4530,S&P Composite 1500 Semiconducto,Index
+^SP1500-453010,S&P Composite 1500 Semiconducto,Index
+^SP1500-1510,S&P Composite 1500 Materials (I,Index
+^SP1500-15,S&P Composite 1500 Materials (S,Index
+^DJUSSC,Dow Jones U.S. Semiconductors I,Index
+^DJUSFI,Dow Jones U.S. Financial Servic,Index
+^DJUSGF,Dow Jones U.S. Financial Servic,Index
+^DJUSBM,Dow Jones U.S. Basic Materials,Index
+^SP500-25102010,S&P 500 Automobile Manufacturers (Sub Ind),Index
+^SP1500-25102010,S&P Composite 1500 Automobile M,Index
+^SP500-251020,S&P 500 Automobiles (Industry),Index
+^SP1500-251020,S&P Composite 1500 Automobiles,Index
+^DJUSAU,Dow Jones U.S. Automobiles Inde,Index
+^SP1500-2010,S&P Composite 1500 Capital Good,Index
+^DJUSAP,Dow Jones U.S. Automobiles & Pa,Index
+^SP500-2510,S&P 500 Automobiles & Components (Industry Group),Index
+^SP1500-2510,S&P Composite 1500 Automobiles,Index
+^SP1500-101020,"S&P Composite 1500 Oil, Gas & C",Index
+^SP500-101020,"S&P 500 Oil, Gas & Consumable Fuels (Industry)",Index
+^DJUSEN,Dow Jones U.S. Oil & Gas Index,Index
+^SP1500-10,S&P Composite 1500 Energy (Sect,Index
+^SP1500-1010,S&P Composite 1500 Energy (Indu,Index
+^SP500-1010,S&P 500 Energy (Industry Group),Index
+^GSPE,S&P 500 Energy (Sector),Index
+^DJUSOG,Dow Jones U.S. Oil & Gas Produc,Index
+RLT=F,BTIC on E-mini Russell 2000 Ind,Future
+F*RLT.CME,BTIC on E-mini Russell 2000 Ind,Future
+RLTM23.CME,BTIC on E-mini Russell 2000 Ind,Future
+LEJ23.CME,"Live Cattle Futures,Apr-2023",Future
+6NM23.CME,"New Zealand Dollar Futures,Jun-",Future
+F*6N.CME,"New Zealand Dollar Futures,Jun-",Future
+GFJ23.CME,"Feeder Cattle Futures,Apr-2023",Future
+6N=F,"New Zealand Dollar Futures,Jun-",Future
+GFU23.CME,"Feeder Cattle Futures,Sep-2023",Future
+LEM23.CME,"Live Cattle Futures,Jun-2023",Future
+F*LE.CME,"Live Cattle Futures,Jun-2023",Future
+LE=F,"Live Cattle Futures,Jun-2023",Future
+LEQ23.CME,"Live Cattle Futures,Aug-2023",Future
+GFK23.CME,"Feeder Cattle Futures,May-2023",Future
+GF=F,"Feeder Cattle Futures,May-2023",Future
+F*GF.CME,"Feeder Cattle Futures,May-2023",Future
+LEV23.CME,"Live Cattle Futures,Oct-2023",Future
+GFQ23.CME,"Feeder Cattle Futures,Aug-2023",Future
+6J=F,"Japanese Yen Futures,Jun-2023",Future
+6JM23.CME,"Japanese Yen Futures,Jun-2023",Future
+SR3F23.CME,"Three-Month SOFR Futures,Jan-20",Future
+F*NQT.CME,"BTIC E-mini Nasdaq-100 Futures,",Future
+F*ESR.CME,EURO SHORT-TERM RATE (?STR) FUT,Future
+ESR=F,EURO SHORT-TERM RATE (?STR) FUT,Future
+SEDU23.CME,SED Future SEP 2023 Trading Ses,Future
+SDA=F,S&P 500 Annual Dividend Index F,Future
+F*SDA.CME,S&P 500 Annual Dividend Index F,Future
+HEV23.CME,"Lean Hogs Futures,Oct-2023",Future
+HEQ23.CME,"Lean Hogs Futures,Aug-2023",Future
+F*SED.CME,SED Future SEP 2023 Trading Ses,Future
+NQTM23.CME,"BTIC E-mini Nasdaq-100 Futures,",Future
+SED=F,SED Future SEP 2023 Trading Ses,Future
+LETM23.CME,"Live Cattle TAS Futures,Jun-202",Future
+ESRF23.CME,EURO SHORT-TERM RATE (?STR) FUT,Future
+SDAZ23.CME,S&P 500 Annual Dividend Index F,Future
+F*LET.CME,"Live Cattle TAS Futures,Jun-202",Future
+LET=F,"Live Cattle TAS Futures,Jun-202",Future
+NQT=F,"BTIC E-mini Nasdaq-100 Futures,",Future
+F*6J.CME,"Japanese Yen Futures,Jun-2023",Future
+SR3G23.CME,"Three-Month SOFR Futures,Feb-20",Future
+F*SR1.CME,"One-Month SOFR Futures,May-2023",Future
+SR1K23.CME,"One-Month SOFR Futures,May-2023",Future
+SR3H23.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR1=F,"One-Month SOFR Futures,May-2023",Future
+F*GE.CME,"Eurodollar Futures,Apr-2023",Future
+LEZ23.CME,"Live Cattle Futures,Dec-2023",Future
+GEK23.CME,"Eurodollar Futures,May-2023",Future
+SR3M23.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3=F,"Three-Month SOFR Futures,Jun-20",Future
+F*SR3.CME,"Three-Month SOFR Futures,Jun-20",Future
+HEN23.CME,"Lean Hogs Futures,Jul-2023",Future
+SR3M26.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3Z26.CME,"Three-Month SOFR Futures,Dec-20",Future
+SR3H27.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR3U23.CME,"Three-Month SOFR Futures,Sep-20",Future
+SR1Q23.CME,"One-Month SOFR Futures,Aug-2023",Future
+SR1N23.CME,"One-Month SOFR Futures,Jul-2023",Future
+GE=F,"Eurodollar Futures,Apr-2023",Future
+XAE=F,E-mini Energy Select Sector Fut,Future
+F*XAE.CME,E-mini Energy Select Sector Fut,Future
+XAEM23.CME,E-mini Energy Select Sector Fut,Future
+SR3H26.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR3Z25.CME,"Three-Month SOFR Futures,Dec-20",Future
+SR3U25.CME,"Three-Month SOFR Futures,Sep-20",Future
+SR3Z23.CME,"Three-Month SOFR Futures,Dec-20",Future
+GEM23.CME,"Eurodollar Futures,Jun-2023",Future
+SR3M25.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3M24.CME,"Three-Month SOFR Futures,Jun-20",Future
+SR3H24.CME,"Three-Month SOFR Futures,Mar-20",Future
+LEJ24.CME,"Live Cattle Futures,Apr-2024",Future
+SR3H25.CME,"Three-Month SOFR Futures,Mar-20",Future
+SR3U24.CME,"Three-Month SOFR Futures,Sep-20",Future
+SR3Z24.CME,"Three-Month SOFR Futures,Dec-20",Future
+LEG24.CME,"Live Cattle Futures,Feb-2024",Future
+6SM23.CME,"Swiss Franc Futures,Jun-2023",Future
+6S=F,"Swiss Franc Futures,Jun-2023",Future
+6AM23.CME,"Australian Dollar Futures,Jun-2",Future
+F*HE.CME,"Lean Hogs Futures,Apr-2023",Future
+HEM23.CME,"Lean Hogs Futures,Jun-2023",Future
+F*6A.CME,"Australian Dollar Futures,Jun-2",Future
+F*6S.CME,"Swiss Franc Futures,Jun-2023",Future
+HEZ23.CME,"Lean Hogs Futures,Dec-2023",Future
+F*M6A.CME,"Micro AUD/USD Futures,Jun-2023",Future
+6A=F,"Australian Dollar Futures,Jun-2",Future
+M6AM23.CME,"Micro AUD/USD Futures,Jun-2023",Future
+M6A=F,"Micro AUD/USD Futures,Jun-2023",Future
+6M=F,"Mexican Peso Futures,Jun-2023",Future
+6MM23.CME,"Mexican Peso Futures,Jun-2023",Future
+F*MNQ.CME,Micro E-mini Nasdaq-100 Index F,Future
+MNQ=F,Micro E-mini Nasdaq-100 Index F,Future
+ESM23.CME,E-Mini S&P 500 Jun 23,Future
+NQ=F,Nasdaq 100 Jun 23,Future
+MNQM23.CME,Micro E-mini Nasdaq-100 Index F,Future
+NQM23.CME,Nasdaq 100 Jun 23,Future
+F*NQ.CME,Nasdaq 100 Jun 23,Future
+F*M6E.CME,"Micro EUR/USD Futures,Jun-2023",Future
+ES=F,E-Mini S&P 500 Jun 23,Future
+MESM23.CME,MICRO E-MINI S&P 500 INDEX FUTU,Future
+F*MES.CME,MICRO E-MINI S&P 500 INDEX FUTU,Future
+MES=F,MICRO E-MINI S&P 500 INDEX FUTU,Future

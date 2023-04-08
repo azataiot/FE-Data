@@ -55,3 +55,17 @@ def parse_meta_data_raw(file_path: Path | str, output_path: Path | str):
     # output files to csv folder
     out_put_file = Path(output_path) / f"{Path(file_path).stem}.csv"
     df.to_csv(out_put_file, index=False)
+
+
+def combine_csv(input_path: Path | str, output_path: Path | str):
+    """Combine all csv files in a folder into one csv file.
+
+    Args:
+        input_path (str or Path): The path to the folder.
+        output_path (str or Path): The path to the output csv file.
+    """
+    # read the csv file into a dataframe
+    df = pd.concat([pd.read_csv(f) for f in input_path.glob("*.csv")])
+    # output files to csv folder
+    output_file = Path(output_path) / "metadata.raw.csv"
+    df.to_csv(output_file, index=False)
