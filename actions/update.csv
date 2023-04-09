@@ -1,0 +1,3 @@
+# Add one or multiple lines of assets to update to the repository. with the following csv format.
+# Do not add a header row to the csv (as it is already added below).
+symbol,name,market,sector,industry,country,start_date

@@ -1,6 +1,6 @@
 from pathlib import Path
 import pandas as pd
-from .utility import file_exists, extract_df_columns
+from src.utility import file_exists, extract_df_columns
 
 
 def parse_txt_to_csv(file_path: Path | str, seperator: str = "\t"):
@@ -73,3 +73,26 @@ def combine_csv(input_path: Path | str, output_path: Path | str):
     # output files to csv folder
     output_file = Path(output_path) / "metadata.raw.csv"
     df.to_csv(output_file, index=False)
+
+
+def parse_date_range(file_path: Path | str):
+    """Parse the date range from a csv file.
+
+    Args:
+        file_path (str or Path): The path to the csv file.
+
+    Returns:
+        tuple: The start date and end date.
+    """
+    # read the csv file into a dataframe
+    df = pd.read_csv(file_path)
+    df['Date'] = pd.to_datetime(df['Date'])
+    # get the start date and end date
+    start_date = df["Date"].min()
+    end_date = df["Date"].max()
+    return start_date, end_date
+
+
+if __name__ == "__main__":
+    print(Path.cwd())
+    print(parse_date_range("../data/ohlcv/6A=F.csv"))
