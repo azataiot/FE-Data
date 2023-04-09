@@ -34,7 +34,7 @@ ANY CONTENT YOU’VE ACCESSED FROM THIS REPOSITORY OR USING THE CODE PROVIDED BY
   - Raw data includes only `symbol`, and `name` columns.
 - `metadata.profile.csv`
   - Includes everything in `metadata.raw.csv` 
-  - Includes other profiling meta data about the asset, click [here]() for a sample.
+  - Includes other profiling meta data about the asset, click [here](./data/metadata.profile.csv) for a sample.
 - `metadata.extra.csv`
   - Includes everything in `metadata.profile.csv`
   - Includes `start_date` columns for earliest awailable data.
