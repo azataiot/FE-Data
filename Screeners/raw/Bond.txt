@@ -1,5 +1,0 @@
-Symbol	Name	Last Price	Change	% Change	52 Week Range	Day Chart
-^IRX	13 Week Treasury Bill	4.7100	+0.0050	+0.11%		
-^FVX	Treasury Yield 5 Years	3.3570	+0.0130	+0.39%		
-^TNX	Treasury Yield 10 Years	3.2880	+0.0010	+0.03%		
-^TYX	Treasury Yield 30 Years	3.5400	-0.0180	-0.51%		
