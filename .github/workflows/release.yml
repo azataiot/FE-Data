@@ -1,23 +1,19 @@
 # Name of the workflow
 name: Release
 
-# Controls when the action will run. Triggers the workflow on push or pull request
+# Run on every commit tag which begins with "v" (e.g., "v0.1.4")
 on:
   push:
     tags:
-      - "v*" # Push events to matching v*, i.e. v1.0, v20.15.10
+      - "v*"
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# Automatically create a GitHub Release, with release details specified (the relevant commits)
 jobs:
   release:
-    name: Release
-    runs-on: ubuntu-latest
+    name: "Release"
+    runs-on: "ubuntu-latest"
     steps:
-      - name: Automatic Releases
-        uses: marvinpinto/action-automatic-releases@v1.2.1
+      - uses: "marvinpinto/action-automatic-releases@latest"
         with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
-          files: |
-            data/*
-            licenses/*
