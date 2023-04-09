@@ -1,5 +1,4 @@
-name: Learn Github Actions
-run-name: ${{ github.actor }} is learning GitHub Actions
+name: FED-Workflows
 on: [ push ]
 jobs:
   build:
@@ -9,6 +8,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-          cache: 'pip' # caching pip dependencies
+      - run: pip install -U pip setuptools wheel
+      - run: pip install -r requirements.txt
 
 
