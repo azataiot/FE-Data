@@ -1,3 +1,4 @@
 # Add one or multiple lines of assets to download to the repository. with the following csv format.
 # Do not add a header row to the csv (as it is already added below).
 symbol,name,market,sector,industry,country,start_date
+AAPL,Apple Inc,Stock,Consumer Electronics,Consumer Electronics,United States,1980-12-12
