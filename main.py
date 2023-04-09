@@ -2,6 +2,7 @@ from pathlib import Path
 import multiprocessing as mp
 import pandas as pd
 
+from src.ohlcv import download_all_ohlcv, add_symbol_ohlcv_batch
 from src.parser import parse_meta_data_raw, combine_csv
 from src.profile import download_profile, download_all_profiles, save_profile, populate_profile_csv
 
@@ -37,6 +38,11 @@ def generate_profile_metadata():
     )
 
 
+def download_ohlcv_data():
+    symbols = pd.read_csv(cwd / "data/metadata.profile.csv")["symbol"].tolist()
+    add_symbol_ohlcv_batch(symbols, cwd / "data/ohlcv")
+
+
 if __name__ == "__main__":
     # step 1: generate_meta_data_raw()
     # generate_meta_data_raw()
@@ -44,4 +50,4 @@ if __name__ == "__main__":
     # generate_meta_data()
     # step 3: download_profile_data()
     # download_profile_raw_data()
-    generate_profile_metadata()
+    download_ohlcv_data()
