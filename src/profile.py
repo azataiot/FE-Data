@@ -1,8 +1,13 @@
 import json
 import multiprocessing as mp
 from pathlib import Path
+
+import pandas as pd
 from yahoofinancials import YahooFinancials
 from yahoofinancials.etl import ManagedException
+
+from .const import profile_csv_columns, raw_csv_columns
+from .models import Profile
 from .utility import create_folder
 
 
@@ -37,3 +42,32 @@ def save_profile(symbol: str, output_dir: Path | str) -> None:
 def download_all_profiles(symbols: list[str], output_dir: Path | str) -> None:
     with mp.Pool(processes=mp.cpu_count()) as pool:
         pool.starmap(save_profile, [(ticker, output_dir) for ticker in symbols])
+
+
+# define a function to read the profile data from the json file and return the Profile object
+def read_profile(symbol: str, input_dir: Path | str) -> Profile:
+    with open(input_dir / f"{symbol}.json") as f:
+        profile = Profile(**json.load(f))
+    return profile
+
+
+# define a function to populate profile.csv from metadata.raw.csv and profile json files
+def populate_profile_csv(metadata_dir: Path | str, json_files_dir: Path | str, output_dir: Path | str) -> None:
+    # create the output folder if it does not exist
+    create_folder(output_dir)
+    # read the metadata.raw.csv file
+    with open(metadata_dir / "metadata.raw.csv") as f:
+        df = pd.read_csv(f)
+    # create new columns in the dataframe
+    df.reindex(columns=profile_csv_columns)
+    # iterate over the dataframe and populate the new columns
+    for index, row in df.iterrows():
+        symbol = row["symbol"]
+        profile = read_profile(symbol, json_files_dir)
+        for column in profile_csv_columns:
+            if column in raw_csv_columns:
+                continue
+            df.loc[index, column] = getattr(profile, column)
+    # save the dataframe to csv file
+    with open(output_dir / "metadata.profile.csv", "w") as f:
+        f.write(df.to_csv(index=False))

@@ -3,7 +3,7 @@ import multiprocessing as mp
 import pandas as pd
 
 from src.parser import parse_meta_data_raw, combine_csv
-from src.profile import download_profile, download_all_profiles, save_profile
+from src.profile import download_profile, download_all_profiles, save_profile, populate_profile_csv
 
 cwd = Path.cwd()
 
@@ -29,10 +29,19 @@ def download_profile_raw_data():
     download_all_profiles(symbols, cwd / "data/profile")
 
 
+def generate_profile_metadata():
+    populate_profile_csv(
+        metadata_dir=cwd / "data",
+        json_files_dir=cwd / "data/profile",
+        output_dir=cwd / "data",
+    )
+
+
 if __name__ == "__main__":
     # step 1: generate_meta_data_raw()
     # generate_meta_data_raw()
     # step 2: generate_meta_data()
     # generate_meta_data()
     # step 3: download_profile_data()
-    download_profile_raw_data()
+    # download_profile_raw_data()
+    generate_profile_metadata()

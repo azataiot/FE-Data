@@ -22,6 +22,8 @@ def parse_meta_data_raw(file_path: Path | str, output_path: Path | str):
 
     Args:
         file_path (str or Path): The path to the csv file.
+        :param file_path:
+        :param output_path:
     """
     # check the csv file exists
     if not file_exists(file_path):
@@ -52,7 +54,7 @@ def parse_meta_data_raw(file_path: Path | str, output_path: Path | str):
     if Path(file_path).stem == "Crypto":
         df["symbol"] = df.apply(strip_symbol, axis=1)
 
-    # add new column 'market' with vaule as the file name without extension
+    # add new column 'market' with value as the file name without extension
     df["market"] = Path(file_path).stem
     # output files to csv folder
     out_put_file = Path(output_path) / f"{Path(file_path).stem}.csv"

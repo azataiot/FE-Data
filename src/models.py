@@ -2,14 +2,15 @@ from pydantic import BaseModel
 
 
 class ProfileBase(BaseModel):
+    sector: str | None = None
+    industry: str | None = None
+    country: str | None = None
+    start_date: str | None = None
     city: str | None = None
     zip: str | None = None
     state: str | None = None
-    country: str | None = None
     phone: str | None = None
     website: str | None = None
-    industry: str | None = None
-    sector: str | None = None
 
 
 class ProfileIn(ProfileBase):
@@ -73,7 +74,7 @@ class BaseMetaData(BaseModel):
     # All financial Assets must have symbol (ticker), name
     symbol: str
     name: str
-    # For assets that dose not have the market type, we will use the default value "N/A"
+    # For assets that does not have the market type, we will use the default value "N/A"
     market: str | None = "N/A"
     start_date: str | None = None  # written as startDate in the json file
 
