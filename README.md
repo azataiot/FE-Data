@@ -1,6 +1,6 @@
 # Financial Engineering Data(FED)
 
-This repository includes more than **1000** financial assets historical price and metadata starting from **2021-01-01** to **2023-04-01**.
+This repository includes more than **1000** financial assets historical price and metadata starting from ~~**2021-01-01**~~ (earliest supported date) to **~~2023-04-01~~** (latest supported date).
 
 Extra data can be downloaded and added with the python scripts provided in this repository.
 
