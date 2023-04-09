@@ -8,6 +8,8 @@ def parse_txt_to_csv(file_path: Path | str, seperator: str = "\t"):
 
     Args:
         file_path (str or Path): The path to the text file.
+        :param file_path:
+        :param seperator:
     """
     # read the text file into a dataframe
     df = pd.read_csv(file_path, sep=seperator)
@@ -44,7 +46,7 @@ def parse_meta_data_raw(file_path: Path | str, output_path: Path | str):
         symbol = row["symbol"].strip()
         name = row["name"].strip()
         if symbol.startswith(name):
-            symbol = symbol[len(name) :]
+            symbol = symbol[len(name):]
         return symbol
 
     if Path(file_path).stem == "Crypto":
