@@ -35,10 +35,10 @@ ANY CONTENT YOU’VE ACCESSED FROM THIS REPOSITORY OR USING THE CODE PROVIDED BY
 - `metadata.profile.csv`
   - Includes everything in `metadata.raw.csv` 
   - Includes other profiling meta data about the asset, click [here](./data/metadata.profile.csv) for a sample.
-- `metadata.extra.csv`
+- `metadata.extra.csv` [sample](./data/metadata.extra.csv)
   - Includes everything in `metadata.profile.csv`
   - Includes `start_date` columns for earliest awailable data.
-- `metadata.csv`
+- `metadata.csv`  [sample](./data/metadata.csv)
   - Derived from `metadata.extra.csv` but keep only crusial columns such as:
     - `symbol`
     - `name`
@@ -48,13 +48,9 @@ ANY CONTENT YOU’VE ACCESSED FROM THIS REPOSITORY OR USING THE CODE PROVIDED BY
     - `country*`
     - `start_date`
 
-
-
 ### Asset Price DB (OHLC)
 
-
-
-
+Check `Data/ohlcv` folder.  [sample](./data/ohlcv)
 
 ### Financial Markets Classification
 

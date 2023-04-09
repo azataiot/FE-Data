@@ -6,7 +6,7 @@ import pandas as pd
 from yahoofinancials import YahooFinancials
 from yahoofinancials.etl import ManagedException
 
-from .const import profile_csv_columns, raw_csv_columns
+from .const import profile_csv_columns, raw_csv_columns, extra_csv_columns
 from .models import Profile
 from .utility import create_folder
 
@@ -70,4 +70,28 @@ def populate_profile_csv(metadata_dir: Path | str, json_files_dir: Path | str, o
             df.loc[index, column] = getattr(profile, column)
     # save the dataframe to csv file
     with open(output_dir / "metadata.profile.csv", "w") as f:
+        f.write(df.to_csv(index=False))
+
+
+def read_ohlcv(symbol: str, input_dir: Path | str) -> pd.DataFrame:
+    with open(input_dir / f"{symbol}.csv") as f:
+        ohlcv = pd.read_csv(f)
+    return ohlcv
+
+
+def populate_extra_csv(profile_dir: Path | str, ohlcv_files_dir: Path | str, output_dir: Path | str) -> None:
+    # create the output folder if it does not exist
+    create_folder(output_dir)
+    # read the metadata.raw.csv file
+    with open(profile_dir / "metadata.profile.csv") as f:
+        df = pd.read_csv(f)
+    # create new columns in the dataframe
+    df.reindex(columns=extra_csv_columns)
+    # iterate over the dataframe and populate the new columns
+    for index, row in df.iterrows():
+        symbol = row["symbol"]
+        ohlcv = read_ohlcv(symbol, ohlcv_files_dir)
+        df.loc[index, "start_date"] = ohlcv["Date"].min()
+    # save the dataframe to csv file
+    with open(output_dir / "metadata.extra.csv", "w") as f:
         f.write(df.to_csv(index=False))
